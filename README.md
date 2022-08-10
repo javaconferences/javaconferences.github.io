@@ -2,7 +2,7 @@
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [FOSDEM](https://fosdem.org) | Brussels, Belgiun | yes? | February 2023 | - | 
+| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February 2023 | - | 
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | March 2023 | - |
