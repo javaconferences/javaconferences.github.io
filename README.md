@@ -23,7 +23,7 @@
 | Devoxx Marocco | Agadir, Marocco | no | October 2022 | - |
 | QCon SF | San Francisco, USA | no | October 2022 | - |
 | Devoxx Belgium | Antwerp, Belgium | no | October 2022 | - |
-| I Code Java | Johannisburg, South Africa | no | October 2022 | - |
+| [I Code Java](https://j-sa.co/) | Johannisburg, South Africa | yes | 12-14 October 2022 | - |
 | JFall | Ede, The Netherlands | no | November 2022 | - |
 | oredev | Malmö, Sweden | no | November 2022 | - |
 | SpringOne | San Francisco, USA | no | December 2022 | - |
