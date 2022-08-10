@@ -1,0 +1,26 @@
+# Java Conferences
+
+- FOSDEM, Brussels, Feb
+- DeveloperWeek, San Francisco, Feb
+- JavaLand, Brühl, Mar
+- DevNexus, Atlanta, Apr
+- GIDS (Great Indian Developer Summit), Bangalore, Apr
+- Devoxx UK, London, May
+- JFokus, Stockholm, May
+- jPrime, Sofia, May
+- Geecon, Krakow, May
+- Devoxx Poland, Warsow, Jun
+- jcon, Cologne?, Jun
+- JBNCConf, Barcelona, Jul
+- CloudBuilders, online, Aug
+- The Dev Conf, Sao Paulo, Aug
+- JavaZone, Oslo, Sep
+- jconf.dev, Chicago, Sep
+- No Fluff Just Stuff, Boston, Sep
+- j4kio, Orlando, Sep
+- QCon SF, San Francisco, Oct
+- Devoxx Belgium, Antwerp, Oct
+- I Code Java, Johannisburg, Oct
+- JFall, Ede, Nov
+- oredev, Malmö, Nov
+- SpringOne, San Francisco, Dec
