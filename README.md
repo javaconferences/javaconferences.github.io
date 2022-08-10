@@ -15,12 +15,14 @@
 | [Devoxx Poland](https://devoxx.pl) | Warsow, Poland | no | June 2023 | - |
 | [jcon](https://jcon.one) | Cologne?, Germany | no | June 2023 | - |
 | [JBNCConf](https://www.jbcnconf.com) | Barcelona, Spain | no | July 2023 | - |
+| [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | July 2023 | - |
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
 | [JavaZone](https://2022.javazone.no) | Oslo, Norway | no | 7-8 September 2022 | - |
 | [jconf.dev](https://2022.jconf.dev) | Chicago, USA | no | 26-28 September 2022 | - |
 | [No Fluff Just Stuff Boston](https://nofluffjuststuff.com/boston) | Boston, USA | yes | 23-25 September 2022 | - |
 | [j4kio](https://www.j4k.io) | Orlando, USA | no | 28 September 2022 | - |
+| [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 6 October 2022 | - |
 | [Devoxx Marocco](https://devoxx.ma) | Agadir, Marocco | no | 4-6 October 2022 | - |
 | [QCon SF](https://qconsf.com) | San Francisco, USA | no | 24-28 October 2022 | - |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 10-14  October 2022 | - |
