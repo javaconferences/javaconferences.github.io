@@ -31,3 +31,7 @@
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2022 | - |
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | no | 7-11 November 2022 | - |
 | [SpringOne](https://springone.io) | San Francisco, USA | no | 6-8 December 2022 | - |
+
+## Additions, Changes, Corrections?
+
+If you want to add a conference, update it, fix a mistake? Please send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
