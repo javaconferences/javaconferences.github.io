@@ -8,6 +8,7 @@
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | March 2023 | - |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | April 2023 | - |
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | April 2023 | - |
+| [QCon London](https://qconlondon.com) | London, UK | no | April 2023 | - |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | April 2023 | - |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
 | [JFokus](https://www.jfokus.se) | Stockholm, Sweden | no | May 2023 | - |
