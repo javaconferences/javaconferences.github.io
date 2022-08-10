@@ -6,6 +6,7 @@
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
 | [DevNexus](https://devnexus.com) | Atlanta, USA | no | April 2023 | - |
+| [QCon London](https://qconlondon.com) | London, UK | no | April 2023 | - |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | April 2023 | - |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
 | [JFokus](https://www.jfokus.se) | Stockholm, Sweden | no | May 2023 | - |
