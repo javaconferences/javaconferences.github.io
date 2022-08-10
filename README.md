@@ -2,8 +2,8 @@
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | --- | --- | --- |
-| FOSDEM | Brussels, Belgiun | yes? | February 2023 | - | 
-| DeveloperWeek | San Francisco, USA | no | February 2023 | - |
+| [FOSDEM](https://fosdem.org) | Brussels, Belgiun | yes? | February 2023 | - | 
+| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
 | [DevNexus](https://devnexus.com) | Atlanta, USA | no | April 2023 | - |
 | GIDS (Great Indian Developer Summit) | Bangalore, India | no | April 2023 | - |
@@ -18,7 +18,7 @@
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
 | [JavaZone](https://2022.javazone.no) | Oslo, Norway | no | 7-8 September 2022 | - |
 | [jconf.dev](https://2022.jconf.dev) | Chicago, USA | no | 26-28 September 2022 | - |
-| No Fluff Just Stuff | Boston, USA | no | September 2022 | - |
+| [No Fluff Just Stuff Boston](https://nofluffjuststuff.com/boston) | Boston, USA | yes | 23-25 September 2022 | - |
 | [j4kio](https://www.j4k.io) | Orlando, USA | no | 28 September 2022 | - |
 | [Devoxx Marocco](https://devoxx.ma) | Agadir, Marocco | no | 4-6 October 2022 | - |
 | [QCon SF](https://qconsf.com) | San Francisco, USA | no | 24-28 October 2022 | - |
