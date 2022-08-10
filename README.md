@@ -18,6 +18,7 @@
 - jconf.dev, Chicago, Sep
 - No Fluff Just Stuff, Boston, Sep
 - j4kio, Orlando, Sep
+- Devoxx Marocco, Agadir, Oct
 - QCon SF, San Francisco, Oct
 - Devoxx Belgium, Antwerp, Oct
 - I Code Java, Johannisburg, Oct
