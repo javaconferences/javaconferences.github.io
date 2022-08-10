@@ -14,7 +14,7 @@
 | [JAX](https://jax.de/mainz) | Mainz, Germany | yes | May 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Warsow, Poland | no | June 2023 | - |
 | [jcon](https://jcon.one) | Cologne?, Germany | no | June 2023 | - |
-| [JBNCConf](https://www.jbcnconf.com) | Barcelona, Spain | no | July 2023 | - |
+| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | July 2023 | - |
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
