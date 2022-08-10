@@ -6,11 +6,12 @@
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
 | [DevNexus](https://devnexus.com) | Atlanta, USA | no | April 2023 | - |
-| GIDS (Great Indian Developer Summit) | Bangalore, India | no | April 2023 | - |
+| [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | April 2023 | - |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
 | [JFokus](https://www.jfokus.se) | Stockholm, Sweden | no | May 2023 | - |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | May 2023 | - |
 | [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
+| [JAX](https://jax.de/mainz) | Mainz, Germany | yes | May 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Warsow, Poland | no | June 2023 | - |
 | [jcon](https://jcon.one) | Cologne?, Germany | no | June 2023 | - |
 | [JBNCConf](https://www.jbcnconf.com) | Barcelona, Spain | no | July 2023 | - |
@@ -26,4 +27,5 @@
 | [I Code Java](https://j-sa.co) | Johannisburg, South Africa | yes | 12-14 October 2022 | - |
 | [JFall](https://jfall.nl) | Ede, The Netherlands | no | 3 November 2022 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2022 | - |
+| [W-JAX](https://jax.de/muenchen) | Munich, Germany | no | 7-11 November 2022 | - |
 | [SpringOne](https://springone.io) | San Francisco, USA | no | 6-8 December 2022 | - |
