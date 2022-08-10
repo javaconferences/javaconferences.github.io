@@ -1,7 +1,7 @@
 # Java Conferences
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
-| --- | --- | --- | --- | --- |Cancel changes
+| --- | --- | --- | --- | --- |
 | [FOSDEM](https://fosdem.org) | Brussels, Belgiun | yes? | February 2023 | - | 
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
