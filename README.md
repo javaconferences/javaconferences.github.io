@@ -30,9 +30,10 @@
 | [j4kio](https://www.j4k.io) | Orlando, USA | no | 28 September 2022 | - |
 | [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 6 October 2022 | - |
 | [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 4-6 October 2022 | - |
-| [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 24-28 October 2022 | - |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 10-14  October 2022 | - |
 | [I Code Java](https://j-sa.co) | Johannisburg, South Africa | yes | 12-14 October 2022 | - |
+| [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 19-20 October 2022 | - |
+| [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 24-28 October 2022 | - |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 3 November 2022 | [Link](https://sessionize.com/jfall22/) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2022 | - |
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 7-11 November 2022 | - |
