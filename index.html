@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Java Conferences</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+      integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+      crossorigin=""/>
+    <style>
+      body { margin: 0; padding: 0; }
+      #map { height: 100vh; }
+    </style>
+  </head>
+
+  <body>
+    <div id="map"></div>    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+      integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+      crossorigin=""></script>
+    <script>
+      (function () {
+          var map = L.map('map', {drawControl: true}).setView([51.505, -0.09], 13);
+          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+              attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a>'
+          }).addTo(map);
+          var markers = [
+            L.marker([50.8465573,4.351697], {alt:'Brussels, Belgium', title:'FOSDEM<br>February 2023<br>Brussels, Belgium<br><a href="https://fosdem.org">Link</a>'}).bindTooltip('FOSDEM<br>February 2023<br>Brussels, Belgium<br><a href="https://fosdem.org">Link</a>'),
+            L.marker([37.7790262,-122.419906], {alt:'San Francisco, USA', title:'DeveloperWeek<br>15-23 February 2023<br>San Francisco, USA<br><a href="https://www.developerweek.com">Link</a>'}).bindTooltip('DeveloperWeek<br>15-23 February 2023<br>San Francisco, USA<br><a href="https://www.developerweek.com">Link</a>'),
+            L.marker([50.8291313,6.9037057], {alt:'Brühl, Germany', title:'JavaLand<br>21-23 March 2023<br>Brühl, Germany<br><a href="https://www.javaland.eu">Link</a>'}).bindTooltip('JavaLand<br>21-23 March 2023<br>Brühl, Germany<br><a href="https://www.javaland.eu">Link</a>'),
+            L.marker([44.4361414,26.1027202], {alt:'Bucharest, Romania', title:'Voxxed Days Bucharest<br>March 2023<br>Bucharest, Romania<br><a href="https://romania.voxxeddays.com">Link</a>'}).bindTooltip('Voxxed Days Bucharest<br>March 2023<br>Bucharest, Romania<br><a href="https://romania.voxxeddays.com">Link</a>'),
+            L.marker([33.7489924,-84.3902644], {alt:'Atlanta, GA, USA', title:'DevNexus<br>April 2023<br>Atlanta, GA, USA<br><a href="https://devnexus.com">Link</a>'}).bindTooltip('DevNexus<br>April 2023<br>Atlanta, GA, USA<br><a href="https://devnexus.com">Link</a>'),
+            L.marker([48.8588897,2.3200410217200766], {alt:'Paris, France', title:'Devoxx FR<br>April 2023<br>Paris, France<br><a href="https://www.devoxx.fr/">Link</a>'}).bindTooltip('Devoxx FR<br>April 2023<br>Paris, France<br><a href="https://www.devoxx.fr/">Link</a>'),
+            L.marker([51.5073219,-0.1276474], {alt:'London, UK', title:'QCon London<br>April 2023<br>London, UK<br><a href="https://qconlondon.com">Link</a>'}).bindTooltip('QCon London<br>April 2023<br>London, UK<br><a href="https://qconlondon.com">Link</a>'),
+            L.marker([12.9767936,77.590082], {alt:'Bangalore, India', title:'GIDS (Great Indian Developer Summit)<br>April 2023<br>Bangalore, India<br><a href="Great Indian Developer Summit">Link</a>'}).bindTooltip('GIDS (Great Indian Developer Summit)<br>April 2023<br>Bangalore, India<br><a href="Great Indian Developer Summit">Link</a>'),
+            L.marker([59.3251172,18.0710935], {alt:'Stockholm, Sweden', title:'JFokus<br>May 2023<br>Stockholm, Sweden<br><a href="https://www.jfokus.se">Link</a>'}).bindTooltip('JFokus<br>May 2023<br>Stockholm, Sweden<br><a href="https://www.jfokus.se">Link</a>'),
+            L.marker([42.6978634,23.3221789], {alt:'Sofia, Bulgaria', title:'jPrime<br>May 2023<br>Sofia, Bulgaria<br><a href="https://jprime.io">Link</a>'}).bindTooltip('jPrime<br>May 2023<br>Sofia, Bulgaria<br><a href="https://jprime.io">Link</a>'),
+            L.marker([50.0469432,19.997153435836697], {alt:'Krakow, Poland', title:'Geecon<br>May 2023<br>Krakow, Poland<br><a href="https://www.geecon.org">Link</a>'}).bindTooltip('Geecon<br>May 2023<br>Krakow, Poland<br><a href="https://www.geecon.org">Link</a>'),
+            L.marker([50.0012314,8.2762513], {alt:'Mainz, Germany', title:'JAX Hybrid<br>May 2023<br>Mainz, Germany<br><a href="https://jax.de/mainz">Link</a>'}).bindTooltip('JAX Hybrid<br>May 2023<br>Mainz, Germany<br><a href="https://jax.de/mainz">Link</a>'),
+            L.marker([51.5073219,-0.1276474], {alt:'London, UK', title:'Devoxx UK<br>10-12 May 2023<br>London, UK<br><a href="https://www.devoxx.co.uk">Link</a>'}).bindTooltip('Devoxx UK<br>10-12 May 2023<br>London, UK<br><a href="https://www.devoxx.co.uk">Link</a>'),
+            L.marker([35.6828387,139.7594549], {alt:'Tokyo, Japan', title:'JJUG CCC Spring<br>June? 2023<br>Tokyo, Japan'}).bindTooltip('JJUG CCC Spring<br>June? 2023<br>Tokyo, Japan'),
+            L.marker([50.0469432,19.997153435836697], {alt:'Krakow, Poland', title:'Devoxx Poland<br>June 2023<br>Krakow, Poland<br><a href="https://devoxx.pl">Link</a>'}).bindTooltip('Devoxx Poland<br>June 2023<br>Krakow, Poland<br><a href="https://devoxx.pl">Link</a>'),
+            L.marker([40.2111931,-8.4294632], {alt:'Coimbra, Portugal', title:'JNation<br>June 2023<br>Coimbra, Portugal<br><a href="https://jnation.pt/">Link</a>'}).bindTooltip('JNation<br>June 2023<br>Coimbra, Portugal<br><a href="https://jnation.pt/">Link</a>'),
+            L.marker([50.938361,6.959974], {alt:'Cologne?, Germany', title:'jcon<br>June 2023<br>Cologne?, Germany<br><a href="https://jcon.one">Link</a>'}).bindTooltip('jcon<br>June 2023<br>Cologne?, Germany<br><a href="https://jcon.one">Link</a>'),
+            L.marker([48.7784485,9.1800132], {alt:'Stuttgart, Germany', title:'Java Forum Stuttgart<br>July 2023<br>Stuttgart, Germany<br><a href="https://www.java-forum-stuttgart.de">Link</a>'}).bindTooltip('Java Forum Stuttgart<br>July 2023<br>Stuttgart, Germany<br><a href="https://www.java-forum-stuttgart.de">Link</a>'),
+            L.marker([41.3828939,2.1774322], {alt:'Barcelona, Spain', title:'DevBcn<br>3 July 2023 <br>Barcelona, Spain<br><a href="https://devbcn.com">Link</a>'}).bindTooltip('DevBcn<br>3 July 2023 <br>Barcelona, Spain<br><a href="https://devbcn.com">Link</a>'),
+            L.marker([49.453872,11.077298], {alt:'Nuremberg, Germany', title:'Developer Week (DWX)<br>26-30 July 2023<br>Nuremberg, Germany<br><a href="DWX">Link</a>'}).bindTooltip('Developer Week (DWX)<br>26-30 July 2023<br>Nuremberg, Germany<br><a href="DWX">Link</a>'),
+            L.marker([39.100105,-94.5781416], {alt:'Kansas City, MO, USA', title:'Kansas City Developer Conference<br>August 2023<br>Kansas City, MO, USA<br><a href="https://www.kcdc.info/">Link</a>'}).bindTooltip('Kansas City Developer Conference<br>August 2023<br>Kansas City, MO, USA<br><a href="https://www.kcdc.info/">Link</a>'),
+            L.marker([-23.5506507,-46.6333824], {alt:'Sao Paulo, Brazil', title:'The Dev Conf<br>22-24 August 2022<br>Sao Paulo, Brazil<br><a href="https://thedevconf.com">Link</a>'}).bindTooltip('The Dev Conf<br>22-24 August 2022<br>Sao Paulo, Brazil<br><a href="https://thedevconf.com">Link</a>'),
+            L.marker([0.0,0.0], {alt:'online', title:'CloudBuilders<br>23 August 2022<br>online<br><a href="https://www.cloud-builders.tech">Link</a>'}).bindTooltip('CloudBuilders<br>23 August 2022<br>online<br><a href="https://www.cloud-builders.tech">Link</a>'),
+            L.marker([59.9133301,10.7389701], {alt:'Oslo, Norway', title:'JavaZone<br>7-8 September 2022<br>Oslo, Norway<br><a href="https://2022.javazone.no">Link</a>'}).bindTooltip('JavaZone<br>7-8 September 2022<br>Oslo, Norway<br><a href="https://2022.javazone.no">Link</a>'),
+            L.marker([51.0493286,13.7381437], {alt:'Dresden, Germany', title:'JUG Saxony Day<br>23 September 2022<br>Dresden, Germany<br><a href="https://jugsaxony.day">Link</a>'}).bindTooltip('JUG Saxony Day<br>23 September 2022<br>Dresden, Germany<br><a href="https://jugsaxony.day">Link</a>'),
+            L.marker([42.3554334,-71.060511], {alt:'Boston, USA', title:'No Fluff Just Stuff Boston<br>23-25 September 2022<br>Boston, USA<br><a href="https://nofluffjuststuff.com/boston">Link</a>'}).bindTooltip('No Fluff Just Stuff Boston<br>23-25 September 2022<br>Boston, USA<br><a href="https://nofluffjuststuff.com/boston">Link</a>'),
+            L.marker([41.8755616,-87.6244212], {alt:'Chicago, IL, USA', title:'jconf.dev<br>26-28 September 2022<br>Chicago, IL, USA<br><a href="https://2022.jconf.dev">Link</a>'}).bindTooltip('jconf.dev<br>26-28 September 2022<br>Chicago, IL, USA<br><a href="https://2022.jconf.dev">Link</a>'),
+            L.marker([28.5421109,-81.3790304], {alt:'Orlando, USA', title:'j4kio<br>28 September 2022<br>Orlando, USA<br><a href="https://www.j4k.io">Link</a>'}).bindTooltip('j4kio<br>28 September 2022<br>Orlando, USA<br><a href="https://www.j4k.io">Link</a>'),
+            L.marker([30.42203615,-9.55950887633639], {alt:'Agadir, Morocco', title:'Devoxx Morocco<br>4-6 October 2022<br>Agadir, Morocco<br><a href="https://devoxx.ma">Link</a>'}).bindTooltip('Devoxx Morocco<br>4-6 October 2022<br>Agadir, Morocco<br><a href="https://devoxx.ma">Link</a>'),
+            L.marker([52.3744779,9.7385532], {alt:'Hannover, Germany', title:'Java Forum Nord<br>6 October 2022<br>Hannover, Germany<br><a href="https://javaforumnord.de">Link</a>'}).bindTooltip('Java Forum Nord<br>6 October 2022<br>Hannover, Germany<br><a href="https://javaforumnord.de">Link</a>'),
+            L.marker([51.2211097,4.3997081], {alt:'Antwerp, Belgium', title:'Devoxx Belgium<br>10-14  October 2022<br>Antwerp, Belgium<br><a href="https://devoxx.be">Link</a>'}).bindTooltip('Devoxx Belgium<br>10-14  October 2022<br>Antwerp, Belgium<br><a href="https://devoxx.be">Link</a>'),
+            L.marker([53.7822114,11.0370071], {alt:'Johannisburg, South Africa', title:'I Code Java<br>12-14 October 2022<br>Johannisburg, South Africa<br><a href="https://j-sa.co">Link</a>'}).bindTooltip('I Code Java<br>12-14 October 2022<br>Johannisburg, South Africa<br><a href="https://j-sa.co">Link</a>'),
+            L.marker([47.5581077,7.5878261], {alt:'Basel, Switzerland', title:'BaselOne<br>19-20 October 2022<br>Basel, Switzerland<br><a href="https://baselone.ch/one">Link</a>'}).bindTooltip('BaselOne<br>19-20 October 2022<br>Basel, Switzerland<br><a href="https://baselone.ch/one">Link</a>'),
+            L.marker([37.7790262,-122.419906], {alt:'San Francisco, CA, USA', title:'QCon SF<br>24-28 October 2022<br>San Francisco, CA, USA<br><a href="https://qconsf.com">Link</a>'}).bindTooltip('QCon SF<br>24-28 October 2022<br>San Francisco, CA, USA<br><a href="https://qconsf.com">Link</a>'),
+            L.marker([35.6828387,139.7594549], {alt:'Tokyo, Japan', title:'JJUG CCC Fall<br>November? 2022<br>Tokyo, Japan'}).bindTooltip('JJUG CCC Fall<br>November? 2022<br>Tokyo, Japan'),
+            L.marker([52.07168255,5.745510631034939], {alt:'Ede, The Netherlands', title:'J-Fall<br>3 November 2022<br>Ede, The Netherlands<br><a href="https://jfall.nl">Link</a>'}).bindTooltip('J-Fall<br>3 November 2022<br>Ede, The Netherlands<br><a href="https://jfall.nl">Link</a>'),
+            L.marker([48.1371079,11.5753822], {alt:'Munich, Germany', title:'W-JAX Hybrid<br>7-11 November 2022<br>Munich, Germany<br><a href="https://jax.de/muenchen">Link</a>'}).bindTooltip('W-JAX Hybrid<br>7-11 November 2022<br>Munich, Germany<br><a href="https://jax.de/muenchen">Link</a>'),
+            L.marker([55.6052931,13.0001566], {alt:'Malmö, Sweden', title:'oredev<br>8-10 November 2022<br>Malmö, Sweden<br><a href="https://oredev.org">Link</a>'}).bindTooltip('oredev<br>8-10 November 2022<br>Malmö, Sweden<br><a href="https://oredev.org">Link</a>'),
+            L.marker([37.7790262,-122.419906], {alt:'San Francisco, CA, USA', title:'SpringOne<br>6-8 December 2022<br>San Francisco, CA, USA<br><a href="https://springone.io">Link</a>'}).bindTooltip('SpringOne<br>6-8 December 2022<br>San Francisco, CA, USA<br><a href="https://springone.io">Link</a>')
+          ];
+          var group = L.featureGroup(markers).addTo(map);
+          map.fitBounds(group.getBounds());
+          L.Control.textbox = L.Control.extend({
+            onAdd: function(map) {
+              var title = L.DomUtil.create('div');
+              title.id = 'map-title';
+              title.innerHTML = '<h1>Java Conferences Map</h1>'
+              return title;
+            },
+            onRemove: function(map) {}
+          });
+          L.control.textbox = function(opts) { return new L.Control.textbox(opts); }
+          L.control.textbox({position: 'topleft'}).addTo(map);      })();
+    </script>
+  </body>
+</html>
