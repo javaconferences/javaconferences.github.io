@@ -15,6 +15,7 @@
 | [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | May 2023 | - |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
+| JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
 | [jcon](https://jcon.one) | Cologne?, Germany | no | June 2023 | - |
@@ -35,6 +36,7 @@
 | [I Code Java](https://j-sa.co) | Johannisburg, South Africa | yes | 12-14 October 2022 | - |
 | [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 19-20 October 2022 | - |
 | [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 24-28 October 2022 | - |
+| JJUG CCC Fall | Tokyo, Japan | no | November? 2022 | - |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 3 November 2022 | [Link](https://sessionize.com/jfall22/) |
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 7-11 November 2022 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2022 | - |
