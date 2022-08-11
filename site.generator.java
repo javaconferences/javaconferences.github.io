@@ -285,16 +285,42 @@ record GithubPages(Path source, Path output) {
                 conferences.stream()
                         .map(c -> {
                             final var title = c.name() + "<br>" + c.date() + "<br>" + c.locationName() +
-                                    (c.link().isBlank() ? "" : ("<br><a href=\"" + c.link() + "\">Link</a>"));
-                            return "" +
-                                    "            L.marker([" +
+                                    (c.link().isBlank() ? "" : ("<br><a" +
+                                            " href=\"" + c.link() + "\"" +
+                                            " onmousedown=\"" +
+                                            "if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }" +
+                                            "setTimeout(function () {window.open(\\'" + c.link() + "\\', \\'_blank\\').focus();}, 100)\"" +
+                                            ">Link</a>"));
+                            return "            " +
+                                    "{ " +
+                                    "tooltip: '" + title + "', " +
+                                    "marker: L.marker([" +
                                     c.coordinates().lat() + "," + c.coordinates().lon() + "], {" +
                                     "alt:'" + c.locationName() + "', " +
                                     "title:'" + title +
-                                    "'}).bindTooltip('" + title + "')";
+                                    "'}) " +
+                                    "}";
                         })
                         .collect(joining(",\n", "          var markers = [\n", "\n          ];\n")) +
-                "          var group = L.featureGroup(markers).addTo(map);\n" +
+                "          markers.forEach(function (marker) {\n" +
+                "            marker.marker.on('mouseover', function() {\n" + // workaround to make it a bit persistent and enable to click on links
+                "              marker.marker.bindTooltip(marker.tooltip, {permanent: true, interactive:true});\n" +
+                "              if (window.unbindTooltip && window.unbindTooltip.marker != marker) { window.unbindTooltip.unbind(); }\n" +
+                "              unbindTooltip = {" +
+                "                version: window.unbindTooltip && window.unbindTooltip.marker == marker ? window.unbindTooltip.version + 1 : 1," +
+                "                marker: marker, " +
+                "                unbind: function () { marker.marker.unbindTooltip(); window.unbindTooltip = undefined; }" +
+                "              };\n" +
+                "            });\n" +
+                "            marker.marker.on('mouseout', function() {\n" +
+                "              var version = window.unbindTooltip ? window.unbindTooltip.version : -1;\n" +
+                "              window.unbindTooltip && setTimeout(function () {\n" +
+                "                window.unbindTooltip && version == window.unbindTooltip.version && window.unbindTooltip.unbind();\n" +
+                "                window.unbindTooltip = undefined;\n" +
+                "              }, 3000);\n" +
+                "            });\n" +
+                "          });\n" +
+                "          var group = L.featureGroup(markers.map(function (it) { return it.marker; })).addTo(map);\n" +
                 "          map.fitBounds(group.getBounds());\n" +
                 "          L.Control.textbox = L.Control.extend({\n" +
                 "            onAdd: function(map) {\n" +
@@ -382,7 +408,15 @@ record GithubPages(Path source, Path output) {
     private String injectMap(final String html, final List<Conference> conferences) {
         return html.replace(
                 "</table>",
-                "</table>\n" + "<p>View <a href=\"map.html\">map</a> only.</p>\n" + mapContent(conferences));
+                "</table>\n" +
+                        "<p>" +
+                        "View" +
+                        " <a" +
+                        " target=\"_blank\"" +
+                        " href=\"map.html\"" +
+                        " >map</a>" +
+                        " only." +
+                        "</p>\n" + mapContent(conferences));
     }
 
     private String injectConferenceLocation(final String html, final List<Conference> conferences, final Countries countries) {
