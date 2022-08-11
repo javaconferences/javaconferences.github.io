@@ -15,7 +15,7 @@
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | May 2023 | - |
 | [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | May 2023 | - |
-| [Devoxx Poland](https://devoxx.pl) | Warsow, Poland | no | June 2023 | - |
+| [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
 | [jcon](https://jcon.one) | Cologne?, Germany | no | June 2023 | - |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
