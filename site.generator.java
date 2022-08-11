@@ -192,6 +192,7 @@ record GithubPages(Path source, Path output) {
         final var parser = Parser.builder().extensions(extensions).build();
         final var renderer = HtmlRenderer.builder().extensions(extensions).build();
 
+        Files.writeString(target.resolve(".nojekll"), "");
         Files.writeString(
                 target.resolve("index.html"),
                 """
@@ -206,7 +207,7 @@ record GithubPages(Path source, Path output) {
                         </head>
                         <body>""" +
                         renderer.render(parser.parse(Files.readString(source)))
-                                .replace("</h1>", "</h1>\n<p>See it as a <a href=\"/map.html\">map</a></p>\n") +
+                                .replace("</h1>", "</h1>\n<p>See it as a <a href=\"map.html\">map</a></p>\n") +
                         "</body></html>");
         Files.writeString(target.resolve("map.html"), "" +
                 "<!DOCTYPE html>\n" +
