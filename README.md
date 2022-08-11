@@ -50,4 +50,7 @@ If you are looking for a list of Java Champions to talk at your conference, plea
 
 ## More Conferences!
 
-Looking for [more conferences](https://github.com/scraly/developers-conferences-agenda)?
+Looking for more conferences?
+- [Java Events List](https://java-events.dev)
+- [Developers Conferences Agenda](https://github.com/scraly/developers-conferences-agenda)
+- [Conference Tracker](https://milendyankov.com/ConferenceTracker)
