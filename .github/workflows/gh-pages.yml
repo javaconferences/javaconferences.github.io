@@ -20,7 +20,7 @@ jobs:
         run: |
           jshell site.generator.java
       - name: "Deploy Github Pages"
-        uses: JamesIves/github-pages-deploy-action@4
+        uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
