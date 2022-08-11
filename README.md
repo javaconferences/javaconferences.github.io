@@ -43,3 +43,7 @@
 ## Additions, Changes, Corrections?
 
 If you want to add a conference, update it, fix a mistake? Please send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
+
+## Java Champions
+
+If you are looking for a list of Java Champions to talk at your conference, please see [Andres](https://github.com/aalmiray) list of [Java Champions](https://github.com/aalmiray/java-champions).
