@@ -46,7 +46,7 @@ If you want to add a conference, update it, fix a mistake? Please send a pull re
 
 ## Java Champions
 
-If you are looking for a list of Java Champions to talk at your conference, please see [Andres](https://github.com/aalmiray) list of [Java Champions](https://github.com/aalmiray/java-champions).
+If you are looking for a list of Java Champions to talk at your conference, please see the list of [Java Champions](https://github.com/aalmiray/java-champions).
 
 ## More Conferences!
 
