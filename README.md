@@ -18,12 +18,12 @@
 | [Devoxx Poland](https://devoxx.pl) | Warsow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
 | [jcon](https://jcon.one) | Cologne?, Germany | no | June 2023 | - |
-| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | July 2023 | - |
+| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | August 2023 | - |
-| [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
+| [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
 | [JavaZone](https://2022.javazone.no) | Oslo, Norway | no | 7-8 September 2022 | - |
 | [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 23 September 2022 | - |
 | [No Fluff Just Stuff Boston](https://nofluffjuststuff.com/boston) | Boston, USA | yes | 23-25 September 2022 | - |
