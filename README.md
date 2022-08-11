@@ -25,6 +25,7 @@
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
 | [JavaZone](https://2022.javazone.no) | Oslo, Norway | no | 7-8 September 2022 | - |
+| [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 23 September 2022 | - |
 | [No Fluff Just Stuff Boston](https://nofluffjuststuff.com/boston) | Boston, USA | yes | 23-25 September 2022 | - |
 | [jconf.dev](https://2022.jconf.dev) | Chicago, IL, USA | no | 26-28 September 2022 | - |
 | [j4kio](https://www.j4k.io) | Orlando, USA | no | 28 September 2022 | - |
