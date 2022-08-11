@@ -54,3 +54,4 @@ Looking for more conferences?
 - [Java Events List](https://java-events.dev)
 - [Developers Conferences Agenda](https://github.com/scraly/developers-conferences-agenda)
 - [Conference Tracker](https://milendyankov.com/ConferenceTracker)
+- [Jonathan's Twitter Conference List](https://twitter.com/i/lists/1403961712068366337)
