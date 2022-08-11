@@ -17,6 +17,8 @@ import java.nio.file.Path;
 import java.time.Duration;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
+import java.util.Properties;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;
@@ -24,13 +26,15 @@ import java.util.logging.Logger;
 import java.util.stream.Stream;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
+import static java.util.Locale.ROOT;
+import static java.util.Optional.ofNullable;
 import static java.util.concurrent.CompletableFuture.allOf;
 import static java.util.concurrent.CompletableFuture.completedFuture;
 import static java.util.function.Function.identity;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toMap;
 
-record Coordinate(double lat, double lon) {
+record Coordinate(double lat, double lon, String countryName) {
 }
 
 record Conference(String name, String link,
@@ -106,7 +110,7 @@ class ConferenceReader implements AutoCloseable {
     }
 
     private CompletableFuture<Coordinate> findLocation(final String name) {
-        // first check it is not in the column already: "xxxx (lat, lon)", use dots, not commas for decimals.
+        // first check it is not in the column already: "city, country (lat, lon)", use dots, not commas for decimals.
         final int coordinateStart = name.indexOf('(');
         if (coordinateStart > 0) {
             final int coordinateEnd = name.indexOf(')', coordinateStart + 1);
@@ -117,12 +121,21 @@ class ConferenceReader implements AutoCloseable {
             if (sep < 0) {
                 throw new IllegalArgumentException("Missing ',' in '" + name + "' (coordinates)");
             }
+            final var citySep = name.indexOf(',');
+            if (citySep < 0) {
+                throw new IllegalArgumentException("Missing city in '" + name + "'");
+            }
+            final var endCity = name.lastIndexOf(' ', coordinateStart);
+            if (endCity < 0) {
+                throw new IllegalArgumentException("Missing city in '" + name + "'");
+            }
             return completedFuture(new Coordinate(
                     Double.parseDouble(name.substring(1, sep).strip()),
-                    Double.parseDouble(name.substring(sep + 1, coordinateEnd).strip())));
+                    Double.parseDouble(name.substring(sep + 1, coordinateEnd).strip()),
+                    name.substring(citySep, endCity).strip()));
         }
         if ("online".equalsIgnoreCase(name)) { // TODO: refine
-            return completedFuture(new Coordinate(0., 0.));
+            return completedFuture(new Coordinate(0., 0., "Online"));
         }
 
         // try to lookup the location if not present
@@ -139,6 +152,7 @@ class ConferenceReader implements AutoCloseable {
                                 .GET()
                                 .uri(uri)
                                 .timeout(Duration.ofMinutes(5))
+                                .header("accept-language", "en-EN,en")
                                 .build(),
                         HttpResponse.BodyHandlers.ofString())
                 .thenApply(response -> {
@@ -168,9 +182,19 @@ class ConferenceReader implements AutoCloseable {
                     if (lonEnd < 0) {
                         throw new IllegalArgumentException("Invalid lon end:" + lonEnd + "(" + json + ")");
                     }
+                    final int startName = json.indexOf("\"display_name\":\"");
+                    if (startName < 0) {
+                        throw new IllegalArgumentException("No display name for '" + name + "'");
+                    }
+                    final int endName = json.indexOf("\"", startName + "\"display_name\":\"".length() + 1);
+                    if (endName < 0) {
+                        throw new IllegalArgumentException("No display name for '" + name + "'");
+                    }
+                    final var displayNameSegments = json.substring(startName + "\"display_name\":\"".length(), endName).split(",");
                     return new Coordinate(
                             Double.parseDouble(json.substring(latStart + "\"lat\":\"".length(), latEnd)),
-                            Double.parseDouble(json.substring(lonStart + "\"lon\":\"".length(), lonEnd)));
+                            Double.parseDouble(json.substring(lonStart + "\"lon\":\"".length(), lonEnd)),
+                            displayNameSegments[displayNameSegments.length - 1].strip());
                 });
     }
 
@@ -180,36 +204,50 @@ class ConferenceReader implements AutoCloseable {
     }
 }
 
+class Countries {
+    private final Properties countryIsoCodes = new Properties();
+
+    public Countries() {
+        try (final var reader = Files.newBufferedReader(Path.of("countries.properties"))) {
+            countryIsoCodes.load(reader);
+        } catch (final IOException e) {
+            throw new IllegalStateException(e);
+        }
+    }
+
+    public Optional<String> find(final String name) {
+        return ofNullable(countryIsoCodes.getProperty(name.toLowerCase(ROOT)
+                .replace(" ", "")
+                .replace(",", "")
+                .replace("'", "")
+                .replace("ç", "c")
+                .replace("ô", "o")
+                .replace("é", "e")
+                .replace("å", "a")));
+    }
+}
+
 record GithubPages(Path source, Path output) {
     public void generate() throws Exception {
+        final var extensions = List.of(TablesExtension.create());
+        final var parser = Parser.builder().extensions(extensions).build();
+        final var renderer = HtmlRenderer.builder().extensions(extensions).build();
+        final var countries = new Countries();
         final var logger = Logger.getLogger(getClass().getSimpleName());
+
         final var conferences = readConferences();
         logger.info(() -> "Found #" + conferences.size() + " conferences.");
 
         final var target = Files.createDirectories(output);
 
-        final var extensions = List.of(TablesExtension.create());
-        final var parser = Parser.builder().extensions(extensions).build();
-        final var renderer = HtmlRenderer.builder().extensions(extensions).build();
-
         Files.writeString(target.resolve(".nojekll"), "");
-        Files.writeString(
-                target.resolve("index.html"),
-                """
-                        <!DOCTYPE html>
-                        <html>
-                          <head>
-                            <meta charset="utf-8">
-                            <meta name="viewport" content="width=device-width initial-scale=1" />
-                            <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                            <title>Java Conferences</title>
-                            <link href="https://pages-themes.github.io/minimal/assets/css/style.css?v=814b8723af0aa0ada9b5784da6b73d862bb74150" rel="stylesheet" />
-                        </head>
-                        <body>""" +
-                        renderer.render(parser.parse(Files.readString(source)))
-                                .replace("</h1>", "</h1>\n<p>See it as a <a href=\"map.html\">map</a></p>\n") +
-                        "</body></html>");
-        Files.writeString(target.resolve("map.html"), "" +
+        Files.writeString(target.resolve("index.html"), index(parser, renderer, conferences, countries));
+        Files.writeString(target.resolve("map.html"), map(conferences));
+        logger.info(() -> "Generation successful.");
+    }
+
+    private String map(final List<Conference> conferences) {
+        return "" +
                 "<!DOCTYPE html>\n" +
                 "<html lang=\"en\">\n" +
                 "  <head>\n" +
@@ -218,9 +256,7 @@ record GithubPages(Path source, Path output) {
                 "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n" +
                 "\n" +
                 "    <title>Java Conferences</title>\n" +
-                "    <link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.css\"\n" +
-                "      integrity=\"sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==\"\n" +
-                "      crossorigin=\"\"/>\n" +
+                leafletCss() +
                 "    <style>\n" +
                 "      body { margin: 0; padding: 0; }\n" +
                 "      #map { height: 100vh; }\n" +
@@ -228,6 +264,14 @@ record GithubPages(Path source, Path output) {
                 "  </head>\n" +
                 "\n" +
                 "  <body>\n" +
+                mapContent(conferences) +
+                "  </body>\n" +
+                "</html>" +
+                "";
+    }
+
+    private String mapContent(final List<Conference> conferences) {
+        return "" +
                 "    <div id=\"map\"></div>" +
                 "    <script src=\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.js\"\n" +
                 "      integrity=\"sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==\"\n" +
@@ -264,11 +308,116 @@ record GithubPages(Path source, Path output) {
                 "          L.control.textbox = function(opts) { return new L.Control.textbox(opts); }\n" +
                 "          L.control.textbox({position: 'topleft'}).addTo(map);" +
                 "      })();\n" +
-                "    </script>\n" +
-                "  </body>\n" +
-                "</html>" +
-                "");
-        logger.info(() -> "Generation successful.");
+                "    </script>\n";
+    }
+
+    private String index(final Parser parser, final HtmlRenderer renderer,
+                         final List<Conference> conferences, final Countries countries) throws IOException {
+        final var html = renderer.render(parser.parse(Files.readString(source)));
+        final var patchedBody =
+                injectTableFilter(
+                        injectMap(
+                                injectConferenceLocation(html, conferences, countries),
+                                conferences));
+        return """
+                <!DOCTYPE html>
+                <html>
+                  <head>
+                    <meta charset="utf-8">
+                    <meta name="viewport" content="width=device-width initial-scale=1" />
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <title>Java Conferences</title>
+                    <link href="https://pages-themes.github.io/minimal/assets/css/style.css?v=814b8723af0aa0ada9b5784da6b73d862bb74150" rel="stylesheet" />
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.4/css/flag-icons.min.css" integrity="sha512-uvXdJud8WaOlQFjlz9B15Yy2Au/bMAvz79F7Xa6OakCl2jvQPdHD0hb3dEqZRdSwG4/sknePXlE7GiarwA/9Wg==" crossorigin="anonymous" referrerpolicy="no-referrer" />""" +
+                leafletCss() + """
+                    <style>
+                      input[data-filter] {
+                        width: 100%;
+                        margin: 4px 0;
+                        display: inline-block;
+                        border: 1px solid #ccc;
+                        box-shadow: inset 0 1px 3px #ddd;
+                        border-radius: 4px;
+                        box-sizing: border-box;
+                        padding-left: 10px;
+                        padding-right: 10px;
+                        padding-top: 6px;
+                        padding-bottom: 6px;
+                      }
+                      #map {
+                        height: 400px;
+                        margin: 1rem 0 1rem 0;
+                      }
+                    </style>
+                </head>
+                <body>""" +
+                patchedBody +
+                "  <script>\n" +
+                "    window.addEventListener('DOMContentLoaded', function () {\n" +
+                "      var conferenceFilter = document.querySelector('input[data-filter=\"conferences\"]');\n" +
+                "      var conferenceTable = document.getElementById('conferences');\n" +
+                "      var conferenceTableTrs = Array.from(conferenceTable.querySelectorAll('tbody > tr'))\n" +
+                "            .map(function (e) {\n" +
+                "              return {text: (e.innerText || e.textContent).toLowerCase(), element: e, display: e.style.display};\n" +
+                "            });\n" +
+                "      conferenceFilter.addEventListener('keyup', function (e) {\n" + // todo: debounce? not critical yet
+                "        var filter = (conferenceFilter.value || '').toLowerCase().split(' ');\n" + // todo: support AND/OR keywords?
+                "        conferenceTableTrs.forEach(function (data) {\n" +
+                "          data.element.style.display = filter.some(function (it) { return data.text.indexOf(it) >= 0; }) ?\n" +
+                "                                 data.display : 'none';\n" +
+                "        });\n" +
+                "      });\n" +
+                "    });\n" +
+                "  </script>\n" +
+                "</body>\n" +
+                "</html>\n";
+    }
+
+    private String injectTableFilter(final String html) {
+        return html.replaceFirst("<table>", "" +
+                "<input data-filter=\"conferences\" type=\"text\" placeholder=\"Filter...\">\n" +
+                "<table id=\"conferences\">");
+    }
+
+    private String injectMap(final String html, final List<Conference> conferences) {
+        return html.replace(
+                "</table>",
+                "</table>\n" + "<p>View <a href=\"map.html\">map</a> only.</p>\n" + mapContent(conferences));
+    }
+
+    private String injectConferenceLocation(final String html, final List<Conference> conferences, final Countries countries) {
+        int from = html.indexOf("</tr>"); // first is the end of title so inject the new column
+        if (from < 0) {
+            throw new IllegalArgumentException("Missing table of conferences");
+        }
+
+        var out = new StringBuilder(html.substring(0, from))
+                .append("<th>Country</th>");
+        for (final var conference : conferences) {
+            final int endOfRow = html.indexOf("</tr>", from + "</tr>".length());
+            if (endOfRow < 0) {
+                throw new IllegalArgumentException("Missing table of conferences");
+            }
+
+            out.append(html, from, endOfRow)
+                    .append("<td>")
+                    .append(countries
+                            .find(conference.coordinates().countryName())
+                            .map(c -> "<i class=\"fi fis fi-" + c + "\"></i>&nbsp;")
+                            .orElse(""))
+                    .append(conference.coordinates().countryName())
+                    .append("</td>");
+            from = endOfRow;
+        }
+        out.append(html, from, html.length());
+        return out.toString();
+    }
+
+    private String leafletCss() {
+        return "" +
+                "    <link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.css\"\n" +
+                "      integrity=\"sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==\"\n" +
+                "      crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"/>\n";
     }
 
     private List<Conference> readConferences() throws Exception {
@@ -286,6 +435,3 @@ class Runner { // enables to code in an IDE even if not needed by JShell
         new GithubPages(Path.of("README.md"), Path.of("target/pages")).generate();
     }
 }
-
-Runner.main(new String[0]);
-/exit
