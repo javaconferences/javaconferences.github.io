@@ -1,6 +1,10 @@
 // how to run:
 // $ jshell site.generator.java
 
+import org.commonmark.ext.gfm.tables.TablesExtension;
+import org.commonmark.parser.Parser;
+import org.commonmark.renderer.html.HtmlRenderer;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.net.URI;
@@ -182,7 +186,29 @@ record GithubPages(Path source, Path output) {
         final var conferences = readConferences();
         logger.info(() -> "Found #" + conferences.size() + " conferences.");
 
-        Files.writeString(Files.createDirectories(output).resolve("index.html"), "" +
+        final var target = Files.createDirectories(output);
+
+        final var extensions = List.of(TablesExtension.create());
+        final var parser = Parser.builder().extensions(extensions).build();
+        final var renderer = HtmlRenderer.builder().extensions(extensions).build();
+
+        Files.writeString(
+                target.resolve("index.html"),
+                """
+                        <!DOCTYPE html>
+                        <html>
+                          <head>
+                            <meta charset="utf-8">
+                            <meta name="viewport" content="width=device-width initial-scale=1" />
+                            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                            <title>Java Conferences</title>
+                            <link href="https://pages-themes.github.io/minimal/assets/css/style.css?v=814b8723af0aa0ada9b5784da6b73d862bb74150" rel="stylesheet" />
+                        </head>
+                        <body>""" +
+                        renderer.render(parser.parse(Files.readString(source)))
+                                .replace("</h1>", "</h1>\n<p>See it as a <a href=\"/map.html\">map</a></p>\n") +
+                        "</body></html>");
+        Files.writeString(target.resolve("map.html"), "" +
                 "<!DOCTYPE html>\n" +
                 "<html lang=\"en\">\n" +
                 "  <head>\n" +

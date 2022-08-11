@@ -18,7 +18,10 @@ jobs:
           java-version: '17.0.3'
       - name: "Build Github Pages"
         run: |
-          jshell site.generator.java
+          mkdir -p target
+          curl https://repo1.maven.org/maven2/org/commonmark/commonmark/0.19.0/commonmark-0.19.0.jar -o target/commonmark.jar
+          curl https://repo1.maven.org/maven2/org/commonmark/commonmark-ext-gfm-tables/0.19.0/commonmark-ext-gfm-tables-0.19.0.jar -o target/commonmark-ext-gfm-tables.jar
+          jshell --class-path target/commonmark.jar:target/commonmark-ext-gfm-tables.jar site.generator.java
       - name: "Deploy Github Pages"
         uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
