@@ -15,6 +15,7 @@
 | [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | May 2023 | - |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
+| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no |  May? 2023 | - |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
@@ -26,6 +27,7 @@
 | [JCON ONLINE](https://jcon.one) | ONLINE, Germany | no | 20-23 September 2022 | - |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
+| [Devoxx UA](https://devoxx.com.ua/) | online | no | 02 September 2022 | - |
 | [JavaZone](https://2022.javazone.no) | Oslo, Norway | no | 7-8 September 2022 | - |
 | [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 23 September 2022 | - |
 | [No Fluff Just Stuff Boston](https://nofluffjuststuff.com/boston) | Boston, USA | yes | 23-25 September 2022 | - |
