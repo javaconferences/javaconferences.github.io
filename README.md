@@ -3,6 +3,7 @@
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February 2023 | - | 
+| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 6-8 February 2023 | [Link](https://www.jfokus.se/iamahero) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | March 2023 | - |
@@ -10,7 +11,6 @@
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | April 2023 | - |
 | [QCon London](https://qconlondon.com) | London, UK | no | April 2023 | - |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | April 2023 | - |
-| [JFokus](https://www.jfokus.se) | Stockholm, Sweden | no | May 2023 | - |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | May 2023 | - |
 | [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | May 2023 | - |
