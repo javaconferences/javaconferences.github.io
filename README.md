@@ -2,20 +2,20 @@
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February 2023 | - | 
+| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | 4-5 February 2023 | - | 
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 6-8 February 2023 | [Link](https://www.jfokus.se/iamahero) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
+| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | 16 March 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
-| [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | March 2023 | - |
-| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | April 2023 | - |
-| [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | April 2023 | - |
-| [QCon London](https://qconlondon.com) | London, UK | no | April 2023 | - |
-| [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | April 2023 | - |
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | 22-24 March 2023 | - |
+| [QCon London](https://qconlondon.com) | London, UK | no | 27-29 March 2023 | - |
+| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 April 2023 | [Link](https://devnexus.com/call-for-papers) |
+| [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | [Link](https://cfp.devoxx.fr/) |
+| [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | May 2023 | - |
 | [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
-| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | May 2023 | - |
+| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
-| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no |  May? 2023 | - |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
@@ -42,7 +42,7 @@
 | [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 24-28 October 2022 | - |
 | JJUG CCC Fall | Tokyo, Japan | no | 27 November 2022 | [Link](https://fortee.jp/jjug-ccc-2022-fall) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 3 November 2022 | [Link](https://sessionize.com/jfall22/) |
-| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 7-11 November 2022 | - |
+| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 7-11 November 2022 | [Link](https://callforpapers.sandsmedia.com/) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2022 | - |
 | [SpringOne](https://springone.io) | San Francisco, CA, USA | no | 6-8 December 2022 | - |
 
