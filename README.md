@@ -37,7 +37,7 @@
 | [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 6 October 2022 | - |
 | [JCConf Taiwan](https://jcconf.tw/2022) | Taipei City, Taiwan | no | 10 October 2022 | - |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 10-14  October 2022 | - |
-| [I Code Java](https://j-sa.co) | Johannisburg, South Africa | yes | 12-14 October 2022 | - |
+| [I Code Java](https://j-sa.co) | Johannesburg, South Africa | yes | 12-14 October 2022 | - |
 | [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 19-20 October 2022 | - |
 | [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 24-28 October 2022 | - |
 | JJUG CCC Fall | Tokyo, Japan | no | 27 November 2022 | [Link](https://fortee.jp/jjug-ccc-2022-fall) |
