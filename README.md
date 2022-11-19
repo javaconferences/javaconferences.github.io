@@ -7,7 +7,7 @@
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | 16 March 2023 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
-| [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | 22-24 March 2023 | - |
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | 22-24 March 2023 | [Link](https://vdbuh23.cfp.dev/) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 27-29 March 2023 | - |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 April 2023 | [Link](https://devnexus.com/call-for-papers) |
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | [Link](https://cfp.devoxx.fr/) |
