@@ -41,6 +41,7 @@
 | [I Code Java](https://j-sa.co) | Johannesburg, South Africa | yes | 12-14 October 2022 | - |
 | [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 19-20 October 2022 | - |
 | [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 24-28 October 2022 | - |
+| [JConf Peru 2022](https://jconf.perujug.org/) | online | no | 26 October 2022 | - |
 | JJUG CCC Fall | Tokyo, Japan | no | 27 November 2022 | [Link](https://fortee.jp/jjug-ccc-2022-fall) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 3 November 2022 | [Link](https://sessionize.com/jfall22/) |
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 7-11 November 2022 | [Link](https://callforpapers.sandsmedia.com/) |
