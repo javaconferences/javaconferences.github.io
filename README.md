@@ -14,6 +14,7 @@
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | May 2023 | - |
 | [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
+| [Devoxx Greece](https://devoxx.gr/) |Athens, Greece | no | 4-6 May 2023| - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
@@ -21,7 +22,7 @@
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
 | [JCON PEOPLE](https://jcon.one) | Düsseldorf, Germany | no | 20-23 June 2023 | - |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | July 2023 | - |
-| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
+| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | August 2023 | - |
 | [JCON ONLINE](https://jcon.one) | ONLINE, Germany | no | 20-23 September 2022 | - |
