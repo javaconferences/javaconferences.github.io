@@ -23,6 +23,7 @@
 | [JCON PEOPLE](https://jcon.one) | Düsseldorf, Germany | no | 20-23 June 2023 | - |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | July 2023 | - |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
+| [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | By invitation |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | August 2023 | - |
 | [JCON ONLINE](https://jcon.one) | ONLINE, Germany | no | 20-23 September 2022 | - |
