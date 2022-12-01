@@ -11,9 +11,9 @@
 | [QCon London](https://qconlondon.com) | London, UK | no | 27-29 March 2023 | - |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 April 2023 | [Link](https://devnexus.com/call-for-papers) |
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | [Link](https://cfp.devoxx.fr/) |
+| [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | [Link](https://2023.geecon.org/cfp/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | May 2023 | - |
-| [Geecon](https://www.geecon.org) | Krakow, Poland | no | May 2023 | - |
 | [Devoxx Greece](https://devoxx.gr/) |Athens, Greece | no | 4-6 May 2023| - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | [Link](https://devoxxuk23.cfp.dev/) |
