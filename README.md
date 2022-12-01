@@ -21,6 +21,7 @@
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
+| [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 7 June 2023 | By invitation |
 | [JCON PEOPLE](https://jcon.one) | Düsseldorf, Germany | no | 20-23 June 2023 | - |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | July 2023 | - |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
