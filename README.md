@@ -17,6 +17,7 @@
 | [Devoxx Greece](https://devoxx.gr/) |Athens, Greece | no | 4-6 May 2023| - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | [Link](https://devoxxuk23.cfp.dev/) |
+| [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | [Link](https://vdbxl23.cfp.dev/) |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | June 2023 | - |
