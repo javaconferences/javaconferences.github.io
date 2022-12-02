@@ -14,6 +14,7 @@
 | [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | [Link](https://2023.geecon.org/cfp/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
 | [Devoxx Greece](https://devoxx.gr/) |Athens, Greece | no | 4-6 May 2023| - |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkey | no | 6 May 2023 | [Link](https://www.papercall.io/javadayistanbul2023) |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | [Link](https://devoxxuk23.cfp.dev/) |
 | [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | [Link](https://vdbxl23.cfp.dev/) |
