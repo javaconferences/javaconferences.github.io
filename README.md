@@ -18,13 +18,14 @@
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | [Link](https://devoxxuk23.cfp.dev/) |
 | [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | [Link](https://vdbxl23.cfp.dev/) |
+| [Spring I/O](https://springio.net) | Barcelona, Spain | no | 26-26 May 2023 | - |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | [Link](https://jprime.io/cfp) |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | [Link](https://sessionize.com/jnation-2023/) |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 7 June 2023 | By invitation |
 | [JCON PEOPLE](https://jcon.one) | Düsseldorf, Germany | no | 20-23 June 2023 | - |
-| [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | July 2023 | - |
+| [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
 | [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | By invitation |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
