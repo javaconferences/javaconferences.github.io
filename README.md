@@ -13,11 +13,11 @@
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | [Link](https://cfp.devoxx.fr/) |
 | [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | [Link](https://2023.geecon.org/cfp/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
-| [jPrime](https://jprime.io) | Sofia, Bulgaria | no | May 2023 | - |
 | [Devoxx Greece](https://devoxx.gr/) |Athens, Greece | no | 4-6 May 2023| - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | [Link](https://devoxxuk23.cfp.dev/) |
 | [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | [Link](https://vdbxl23.cfp.dev/) |
+| [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | [Link](https://jprime.io/cfp) |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | [Link](https://sessionize.com/jnation-2023/) |
