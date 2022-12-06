@@ -18,7 +18,7 @@
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | [Link](https://devoxxuk23.cfp.dev/) |
 | [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | [Link](https://vdbxl23.cfp.dev/) |
-| [Spring I/O](https://springio.net) | Barcelona, Spain | no | 26-26 May 2023 | - |
+| [Spring I/O](https://2023.springio.net) | Barcelona, Spain | no | 18-19 May 2023 | [Link](https://www.papercall.io/springio23) |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | [Link](https://jprime.io/cfp) |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
