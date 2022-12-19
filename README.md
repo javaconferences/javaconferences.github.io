@@ -24,13 +24,14 @@
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | [Link](https://sessionize.com/jnation-2023/) |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 7 June 2023 | By invitation |
-| [JCON PEOPLE](https://jcon.one) | Düsseldorf, Germany | no | 20-23 June 2023 | - |
+| [JCON SLOVENIA](https://slovenia.jcon.one) | Portorož, Slovenia | no | 1-2 June 2023 | [Link](https://slovenia.jcon.one/en/call-for-papers) |
+| [JCON EUROPE](https://2023.europe.jcon.one/) | Cologne, Germany | no | 20-23 June 2023 | [Link](https://2023.europe.jcon.one/call-for-papers) |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3 July 2023 | - |
 | [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | By invitation |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | August 2023 | - |
-| [JCON ONLINE](https://jcon.one) | ONLINE, Germany | no | 20-23 September 2022 | - |
+| [JCON WORLD](https://2023.world.jcon.one) | ONLINE, WORLD | online | 21-24 November 2023 | - |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
 | [Devoxx UA](https://devoxx.com.ua/) | online | no | 02 September 2022 | - |
