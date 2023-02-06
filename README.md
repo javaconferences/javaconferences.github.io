@@ -22,7 +22,7 @@
 | [Spring I/O](https://2023.springio.net) | Barcelona, Spain | no | 18-19 May 2023 | [Link](https://www.papercall.io/springio23) |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | [Link](https://jprime.io/cfp) |
 | JJUG CCC Spring | Tokyo, Japan | no | June? 2023 | - |
-| [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | June 2023 | - |
+| [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | 31 May-2 June 2023 | [Link](https://devoxxpl23.cfp.dev/) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | [Link](https://sessionize.com/jnation-2023/) |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 7 June 2023 | By invitation |
 | [JCON SLOVENIA](https://slovenia.jcon.one) | Portorož, Slovenia | no | 1-2 June 2023 | [Link](https://slovenia.jcon.one/en/call-for-papers) |
