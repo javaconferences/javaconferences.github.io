@@ -33,6 +33,7 @@
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | August 2023 | - |
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | - |
+| [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | 22-24 August 2022 | - |
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 23 August 2022 | - |
 | [Devoxx UA](https://devoxx.com.ua/) | online | no | 02 September 2022 | - |
