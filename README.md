@@ -42,7 +42,7 @@
 | [jconf.dev](https://2022.jconf.dev) | Chicago, IL, USA | no | September? 2023 | - |
 | [j4kio](https://www.j4k.io) | Orlando, USA | no | September? 2023 | - |
 | [Devoxx UA](https://devoxx.com.ua/) | online | no | September? 2023 | - |
-| [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 2-4 October 2023 | - |
+| [QCon SF](https://qconsf.com) | San Francisco, CA, USA | no | 2-4 October 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 2-6  October 2023 | - |
 | [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 10-12 October 2023 | - |
 | [I Code Java Johannesburg](https://j-sa.co) | Johannesburg, South Africa | yes | 11-12 October 2023 | - |
