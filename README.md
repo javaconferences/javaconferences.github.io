@@ -23,6 +23,7 @@
 | [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | [Link](https://vdbxl23.cfp.dev/) |
 | [Voxxed Days Iași](https://romania.voxxeddays.com/voxxed-days-iasi-2023/) | Iași, Romania | no | 23-24 May 2023 | [Link](https://vdlasi23.cfp.dev/) |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | [Link](https://jprime.io/cfp) |
+| [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 30 May-2 June 2023 | Unconference, no CFP |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | 31 May-2 June 2023 | [Link](https://devoxxpl23.cfp.dev/) |
 | [JJUG CCC Spring](https://www.java-users.jp/post/ccc2023springcfp/) | Tokyo, Japan | no | 4 June 2023 | [Link](https://sessionize.com/jjug-ccc-spring-2023/) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | [Link](https://sessionize.com/jnation-2023/) |
