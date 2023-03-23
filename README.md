@@ -55,7 +55,7 @@
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | - |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | November? 2023 | - |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
-| [SpringOne](https://springone.io) | San Francisco, CA, USA | no | December? 2023 | - |
+| [SpringOne](https://springone.io) | San Francisco, CA, USA | no | December? 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) |
 
 ## Additions, Changes, Corrections?
 
