@@ -39,6 +39,7 @@
 | [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) |
 | [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 12 September 2023 | [Link](https://sessionize.com/java-forum-nord-2023/) |
 | [No Fluff Just Stuff Boston](https://nofluffjuststuff.com/boston) | Boston, USA | yes | 22-24 September 2023 | - |
+| [BED-Con 2023](https://bed-con.org/) | Berlin, Germany | yes | 28-29 September 2023 | [Link](https://bed-con.org/2023/cfp) |
 | [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 29 September 2023 | [Link](https://jugsaxony.org/day/callforpapers) |
 | [jconf.dev](https://2022.jconf.dev) | Chicago, IL, USA | no | September? 2023 | - |
 | [j4kio](https://www.j4k.io) | Orlando, USA | no | September? 2023 | - |
