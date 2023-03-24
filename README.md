@@ -2,10 +2,11 @@
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | 4-5 February 2023 | - | 
-| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 6-8 February 2023 | [Link](https://www.jfokus.se/iamahero) |
-| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 15-23 February 2023 | - |
-| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | 16 March 2023 | - |
+| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
+| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
+| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
+| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | - |
+| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | March? 2024 | - |
 | [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | 22-24 March 2023 | [Link](https://vdbuh23.cfp.dev/) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 27-29 March 2023 | - |
