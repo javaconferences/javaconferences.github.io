@@ -18,7 +18,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [KotlinConf](https://kotlinconf.com/) | Amsterdam, The Netherlands | yes | 12-14 April 2023 | - |
 | [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | [Link](https://2023.geecon.org/cfp/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
-| [Devoxx Greece](https://devoxx.gr/) |Athens, Greece | no | 4-6 May 2023| - |
+| [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 4-6 May 2023| Unconference, no CFP |
+| [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 4-6 May 2023| - |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkey | no | 6 May 2023 | [Link](https://www.papercall.io/javadayistanbul2023) |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
 | [J on the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 10-12 May 2023 | - |
@@ -42,7 +43,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 21 June 2023 | By invitation |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) | Mondorf-les-Bains, Luxembourg | no | 21-22 June 2023 | - |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3-5 July 2023 | [Link](https://sessionize.com/devbcn23) |
-| [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | By invitation |
+| [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | Unconference, no CFP |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
 | [ÜberConf](https://uberconf.com/) | Denver, CO, USA | yes | 18-21 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | 22-23 June 2023 | - |
