@@ -4,6 +4,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
+| [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | January? 2024 | - |
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
