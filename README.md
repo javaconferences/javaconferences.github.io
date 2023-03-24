@@ -1,5 +1,7 @@
 # Java Conferences
 
+Missing a conference, seen an issue or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
+
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
