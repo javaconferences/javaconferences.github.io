@@ -70,7 +70,7 @@ If you are looking for a list of Java Champions to talk at your conference, plea
 ## More Conferences!
 
 Looking for more conferences?
-- [Java Events List](https://java-events.dev)
+- [foojay](https://foojay.io/calendar/)
 - [Developers Conferences Agenda](https://github.com/scraly/developers-conferences-agenda)
 - [Conference Tracker](https://milendyankov.com/ConferenceTracker)
 - [Jonathan's Twitter Conference List](https://twitter.com/i/lists/1403961712068366337)
