@@ -4,57 +4,49 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | January? 2024 | - |
-| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
-| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
-| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
-| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | - |
-| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | March? 2024 | - |
-| [JavaLand](https://www.javaland.eu) | Brühl, Germany | no | 21-23 March 2023 | [Link](https://shop.doag.org/events/javaland/cfp) |
-| [Voxxed Days Bucharest](https://romania.voxxeddays.com) | Bucharest, Romania | no | 22-24 March 2023 | [Link](https://vdbuh23.cfp.dev/) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 27-29 March 2023 | - |
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 30 March 2023 | - |
-| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 April 2023 | [Link](https://devnexus.com/call-for-papers) |
-| [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | [Link](https://cfp.devoxx.fr/) |
+| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 April 2023 | - |
+| [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | - |
 | [KotlinConf](https://kotlinconf.com/) | Amsterdam, The Netherlands | yes | 12-14 April 2023 | - |
-| [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | [Link](https://2023.geecon.org/cfp/) |
+| [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | - |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 25-28 April 2023 | - |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 4-6 May 2023| Unconference, no CFP |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 4-6 May 2023| - |
-| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkey | no | 6 May 2023 | [Link](https://www.papercall.io/javadayistanbul2023) |
-| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | [Link](https://callforpapers.sandsmedia.com/) |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkey | no | 6 May 2023 | - |
+| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | - |
 | [J on the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 10-12 May 2023 | - |
 | [I Code Java Cape Town](https://j-sa.co) | Cape Town, South Africa | yes | 10-11 May 2023 | - |
-| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | [Link](https://devoxxuk23.cfp.dev/) |
+| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
 | [TEQnation](https://teqnation.com/) | Utrecht, The Netherlands | no | 17 May 2023 | - |
-| [Spring I/O](https://2023.springio.net) | Barcelona, Spain | no | 18-19 May 2023 | [Link](https://www.papercall.io/springio23) |
-| [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | [Link](https://vdbxl23.cfp.dev/) |
+| [Spring I/O](https://2023.springio.net) | Barcelona, Spain | no | 18-19 May 2023 | - |
+| [Voxxed Days Brussels](https://brussels.voxxeddays.com/) | Brussels, Belgium | no | 23 May 2023 | - |
 | [devconf Cape Town](https://www.devconf.co.za/pretoria) | Cape Town, South Africa | no | 23 May 2023 | - |
-| [Voxxed Days Iași](https://romania.voxxeddays.com/voxxed-days-iasi-2023/) | Iași, Romania | no | 23-24 May 2023 | [Link](https://vdlasi23.cfp.dev/) |
+| [Voxxed Days Iași](https://romania.voxxeddays.com/voxxed-days-iasi-2023/) | Iași, Romania | no | 23-24 May 2023 | [Link](https://vdlasi23.cfp.dev/) (Closes March 26) |
 | [devconf Pretoria](https://www.devconf.co.za/capetown) | Pretoria, South Africa | no | 25 May 2023 | - |
-| [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | [Link](https://jprime.io/cfp) |
+| [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | - |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 30 May-2 June 2023 | Unconference, no CFP |
-| [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | 31 May-2 June 2023 | [Link](https://devoxxpl23.cfp.dev/) |
+| [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | 31 May-2 June 2023 | - |
 | [Javada Paris](https://javaday.parisjug.org/) | Paris, France | no | 1 June 2023 | - |
-| [JJUG CCC Spring](https://www.java-users.jp/post/ccc2023springcfp/) | Tokyo, Japan | no | 4 June 2023 | [Link](https://sessionize.com/jjug-ccc-spring-2023/) |
-| [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | [Link](https://sessionize.com/jnation-2023/) |
-| [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 1-2 June 2023 | [Link](https://slovenia.jcon.one/en/call-for-papers) |
-| [JCON Europe](https://2023.europe.jcon.one/) | Cologne, Germany | no | 20-23 June 2023 | [Link](https://2023.europe.jcon.one/call-for-papers) |
+| [JJUG CCC Spring](https://www.java-users.jp/post/ccc2023springcfp/) | Tokyo, Japan | no | 4 June 2023 | - |
+| [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | - |
+| [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 1-2 June 2023 | - |
+| [JCON Europe](https://2023.europe.jcon.one/) | Cologne, Germany | no | 20-23 June 2023 | - |
 | [CloudLand](https://www.cloudland.org/en/home/) | Brühl, Germany | no | 20-23 June 2023 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 21 June 2023 | By invitation |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) | Mondorf-les-Bains, Luxembourg | no | 21-22 June 2023 | - |
-| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3-5 July 2023 | [Link](https://sessionize.com/devbcn23) |
+| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3-5 July 2023 | - |
 | [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | Unconference, no CFP |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
 | [ÜberConf](https://uberconf.com/) | Denver, CO, USA | yes | 18-21 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | 22-23 June 2023 | - |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | August? 2023 | - |
-| [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) |
-| [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 12 September 2023 | [Link](https://sessionize.com/java-forum-nord-2023/) |
+| [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) (Closes April 17) |
+| [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 12 September 2023 | [Link](https://sessionize.com/java-forum-nord-2023/) (Closes May 2) |
 | [No Fluff Just Stuff Boston](https://nofluffjuststuff.com/boston) | Boston, USA | yes | 22-24 September 2023 | - |
-| [BED-Con 2023](https://bed-con.org/) | Berlin, Germany | yes | 28-29 September 2023 | [Link](https://bed-con.org/2023/cfp) |
-| [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 29 September 2023 | [Link](https://jugsaxony.org/day/callforpapers) |
+| [BED-Con 2023](https://bed-con.org/) | Berlin, Germany | yes | 28-29 September 2023 | [Link](https://bed-con.org/2023/cfp) (Closes May 22) |
+| [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 29 September 2023 | [Link](https://jugsaxony.org/day/callforpapers) (Closes April 10) |
 | [jconf.dev](https://2022.jconf.dev) | Chicago, IL, USA | no | September? 2023 | - |
 | [j4kio](https://www.j4k.io) | Orlando, USA | no | September? 2023 | - |
 | [Devoxx UA](https://devoxx.com.ua/) | online | no | September? 2023 | - |
@@ -73,6 +65,12 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | November? 2023 | - |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
 | [SpringOne](https://springone.io) | San Francisco, CA, USA | no | December? 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) |
+| [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | January? 2024 | - |
+| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
+| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
+| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
+| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | - |
+| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | March? 2024 | - |
 
 ## Additions, Changes, Corrections?
 
