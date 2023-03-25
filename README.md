@@ -54,17 +54,18 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 2-6  October 2023 | - |
 | [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 10-12 October 2023 | - |
 | [I Code Java Johannesburg](https://j-sa.co) | Johannesburg, South Africa | yes | 11-12 October 2023 | - |
-| [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 18-19 October 2023 | [Link](https://sessionize.com/baselone2023/) |
-| [P99 CONF](https://p99conf.io) | online | no | 18-19 October 2023 | [Link](https://sessionize.com/p99-conf-2023/) |
-| [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) |
+| [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 18-19 October 2023 | [Link](https://sessionize.com/baselone2023/) (Closes April 15) |
+| [P99 CONF](https://p99conf.io) | online | no | 18-19 October 2023 | [Link](https://sessionize.com/p99-conf-2023/) (Closes May 12) |
+| [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closes April 1) |
 | [JConf Peru](https://jconf.perujug.org/) | online | no | October? 2023 | - |
 | [JCConf Taiwan](https://jcconf.tw/2022) | Taipei City, Taiwan | no | October? 2023 | - |
-| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) || JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
+| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | - |
+| JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) |
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | - |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | November? 2023 | - |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
-| [SpringOne](https://springone.io) | San Francisco, CA, USA | no | December? 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) |
+| [SpringOne](https://springone.io) | San Francisco, CA, USA | no | December? 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) (April 14) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | January? 2024 | - |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
