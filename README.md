@@ -66,10 +66,10 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
 | [SpringOne](https://springone.io) | San Francisco, CA, USA | no | December? 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | January? 2024 | - |
-| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | - |
+| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | March? 2024 | - |
 
 ## Additions, Changes, Corrections?
