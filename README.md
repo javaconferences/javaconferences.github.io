@@ -63,6 +63,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | - |
 | JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) |
+| [JDevSummit IL](https://jdevsummitil.com/) | Tel-Aviv, Israel | no | 20 November 2023 | [Link](https://sessionize.com/jdev-summit-il-23/) (Closes June 8) |
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | - |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | November? 2023 | - |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
