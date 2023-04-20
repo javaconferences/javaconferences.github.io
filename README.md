@@ -68,7 +68,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | - |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | November? 2023 | - |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
-| [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) |
+| [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) (Closes April 8) |
 | [SpringOne](https://springone.io) | San Francisco, CA, USA | no | December? 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) (April 14) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | January? 2024 | - |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
