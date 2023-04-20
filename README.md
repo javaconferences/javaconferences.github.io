@@ -31,6 +31,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JJUG CCC Spring](https://www.java-users.jp/post/ccc2023springcfp/) | Tokyo, Japan | no | 4 June 2023 | - |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | - |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 1-2 June 2023 | - |
+| [QCon New York](https://qconnewyork.com/) | New York, NY, USA | yes | 13-15 June 2023 | - |
 | [JCON Europe](https://2023.europe.jcon.one/) | Cologne, Germany | no | 20-23 June 2023 | - |
 | [CloudLand](https://www.cloudland.org/en/home/) | Brühl, Germany | no | 20-23 June 2023 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 21 June 2023 | By invitation |
