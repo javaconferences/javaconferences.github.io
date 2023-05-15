@@ -43,6 +43,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | 22-23 June 2023 | - |
 | [JConf Dominicana](https://jconfdominicana.org) | Santo Domingo, Dominican Republic. | no | 21-22 July 2023 | [Link](https://www.papercall.io/jconf-dominicana-2023) (Closes May 31) |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
+| [JConf Guatemala](https://guate-jug.net/jconf2023) | Guatemala City, Guatemala | no | 5 August 2023 | [Link](https://www.papercall.io/jconf2023) (Closes June 11) |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | August? 2023 | - |
 | [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) (Closes April 17) |
 | [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 12 September 2023 | [Link](https://sessionize.com/java-forum-nord-2023/) (Closes May 2) |
