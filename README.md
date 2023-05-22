@@ -66,7 +66,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) |
 | [JDevSummit IL](https://jdevsummitil.com/) | Tel-Aviv, Israel | no | 20 November 2023 | [Link](https://sessionize.com/jdev-summit-il-23/) (Closes June 8) |
-| [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | - |
+| [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | [Link](https://sessionize.com/jcon-world-2023/) (Closes June 30) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | November? 2023 | - |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
 | [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) (Closes April 8) |
