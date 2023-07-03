@@ -59,7 +59,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [I Code Java Johannesburg](https://j-sa.co) | Johannesburg, South Africa | yes | 11-12 October 2023 | - |
 | [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 18-19 October 2023 | [Link](https://sessionize.com/baselone2023/) (Closes April 15) |
 | [P99 CONF](https://p99conf.io) | online | no | 18-19 October 2023 | [Link](https://sessionize.com/p99-conf-2023/) (Closes May 12) |
-| [GeeCON Praque](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
+| [GeeCON Prague](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
 | [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closes April 1) |
 | [JConf Peru](https://jconf.perujug.org/) | online | no | October? 2023 | - |
 | [JCConf Taiwan](https://jcconf.tw/2022) | Taipei City, Taiwan | no | October? 2023 | - |
