@@ -72,6 +72,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
 | [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) (Closed April 8) |
 | [SpringOne](https://springone.io) | Las Vegas, NV, USA | no | 21-24 August 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) (Closed April 14) |
+| [JakartaOne Livestream](https://jakartaone.org/2023/) | online| no | 5 December 2023 | [Link](https://www.papercall.io/jakartaone-2023) |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | 20 January 2024 | - |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
