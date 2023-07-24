@@ -14,7 +14,6 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 4-6 May 2023| Unconference, no CFP |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 4-6 May 2023| - |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkey | no | 6 May 2023 | - |
-| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 8-12 May 2023 | - |
 | [J on the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 10-12 May 2023 | - |
 | [I Code Java Cape Town](https://j-sa.co) | Cape Town, South Africa | yes | 10-11 May 2023 | - |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 10-12 May 2023 | - |
@@ -42,7 +41,6 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [ÜberConf](https://uberconf.com/) | Denver, CO, USA | yes | 18-21 July 2023 | - |
 | [Kansas City Developer Conference](https://www.kcdc.info/) | Kansas City, MO, USA | no | 22-23 June 2023 | - |
 | [JConf Dominicana](https://jconfdominicana.org) | Santo Domingo, Dominican Republic. | no | 21-22 July 2023 | [Link](https://www.papercall.io/jconf-dominicana-2023) (Closed May 31) |
-| [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 26-30 July 2023 | - |
 | [JConf Guatemala](https://guate-jug.net/jconf2023) | Guatemala City, Guatemala | no | 5 August 2023 | [Link](https://www.papercall.io/jconf2023) (Closed June 11) |
 | [The Dev Conf](https://thedevconf.com) | Sao Paulo, Brazil | no | August? 2023 | - |
 | [JavaZone](https://2023.javazone.no) | Oslo, Norway | no | 7-8 September 2023 | [Link](https://2023.javazone.no/speakers) (Closed April 17) |
@@ -63,7 +61,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closed April 1) |
 | [JConf Peru](https://jconf.perujug.org/) | online | no | October? 2023 | - |
 | [JCConf Taiwan](https://jcconf.tw/2022) | Taipei City, Taiwan | no | October? 2023 | - |
-| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | - |
+| [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 15) |
 | JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) |
 | [JDevSummit IL](https://jdevsummitil.com/) | Tel-Aviv, Israel | no | 20 November 2023 | [Link](https://sessionize.com/jdev-summit-il-23/) (Closed June 8) |
@@ -77,8 +75,11 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | - |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | - |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | - |
+| [JavaLand](https://www.javaland.eu/) | Brühl, Germany | no | 27-29 February 2024 | - | 
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
-| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland| no | March? 2024 | - |
+| [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | - |
+| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
+| [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 
 ## Additions, Changes, Corrections?
 
