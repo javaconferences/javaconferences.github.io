@@ -79,6 +79,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | - |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
+| [JavaDay Istanbul](https://www.javaday.istanbul/) | Istanbul, Turkiye | no | 11 May 2024 | [Link](https://www.javaday.istanbul/) |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 
 ## Additions, Changes, Corrections?
