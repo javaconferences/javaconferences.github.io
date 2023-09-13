@@ -68,16 +68,16 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closes September 30) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closes September 22) |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closes September 22) |
-| [JavaLand](https://www.javaland.eu/) | Brühl, Germany | no | 27-29 February 2024 | - | 
-| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes? | February? 2024 | - | 
+| [JavaLand](https://www.javaland.eu/) | Brühl, Germany | no | 27-29 February 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes September 18) | 
+| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - | 
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | - |
 | [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | - |
-| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 10-12 April 2024 | - |
+| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 10-12 April 2024 | [Link](https://sessionize.com/devnexus-2024/) (Closes October 15) |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 23-26 April 2024 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes October 31) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 8-10 May 2024 | - |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkey | no | 11 May 2024 | - |
-| [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | yes? | 22-24 May 2024 | - |
+| [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | yes? | 22-24 May 2024 | [Link](https://sessionize.com/kotlinconf-2024/) (Closes November 27) |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 
