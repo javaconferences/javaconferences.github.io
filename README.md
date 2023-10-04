@@ -71,7 +71,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - | 
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | - |
 | [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | - |
-| [JavaLand](https://www.javaland.eu/) | Nürbugring, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) | 
+| [JavaLand](https://www.javaland.eu/) | Nürbugring, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 10-12 April 2024 | [Link](https://sessionize.com/devnexus-2024/) (Closes October 15) |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 23-26 April 2024 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes October 31) |
