@@ -52,7 +52,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [P99 CONF](https://p99conf.io) | online | no | 18-19 October 2023 | [Link](https://sessionize.com/p99-conf-2023/) (Closed May 12) |
 | [GeeCON Prague](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
 | [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closed April 1) |
-| [JConf Peru](https://jconf.perujug.org/) | online | no | October? 2023 | - |
+| [JConf Peru](https://jconfperu.org/) | Lima, Peru | no | 2 December 2023 | [Link](https://sessionize.com/jconf-peru-2023/) (Closes November 4)|
 | [JCConf Taiwan](https://jcconf.tw/2022) | Taipei City, Taiwan | no | October? 2023 | - |
 | [Northern Virginia Software Symposium](https://nofluffjuststuff.com/reston) | Reston, VA, USA | yes | October 13-14, 2023 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [Twin Cities Software Symposium](https://nofluffjuststuff.com/minneapolis) | Minneapolis, MN, USA | yes | October 20-21, 2023 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
