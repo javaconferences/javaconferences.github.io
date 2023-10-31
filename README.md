@@ -59,25 +59,25 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Salt Lake Software Symposium](https://nofluffjuststuff.com/saltlakecity) | Salt Lake City, UT, USA | yes | November 3-4, 2023 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 15) |
 | JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
-| [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) |
+| [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) (Closed) |
 | [JDevSummit IL](https://jdevsummitil.com/) | Tel-Aviv, Israel | no | 20 November 2023 | [Link](https://sessionize.com/jdev-summit-il-23/) (Closed June 8) |
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | [Link](https://sessionize.com/jcon-world-2023/) (Closed June 30) |
-| [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 9 November 2023 | [Link](https://sessionize.com/jfall23/) Closes September 1 |
+| [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 9 November 2023 | [Link](https://sessionize.com/jfall23/) (Closed September 1) |
 | [DevOps Vision](https://devopsvision.io/) | Clearwater, FL, USA | yes | December 4-6, 2023 | [Link](https://devopsvision.io/app/speaker-request)|
 | [TechLeader Summit](https://techleadersummit.io/) | Clearwater, FL, USA | yes | December 4-6, 2023 | [Link](https://techleadersummit.io/app/contact/request) |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
 | [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) (Closed April 8) |
 | [ArchConf](https://archconf.com/) | Clearwater, FL, USA | yes | December 11-14, 2023 | [Link](https://archconf.com/app/speaker-request) |
 | [SpringOne](https://springone.io) | Las Vegas, NV, USA | no | 21-24 August 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) (Closed April 14) |
-| [JakartaOne Livestream](https://jakartaone.org/2023/) | online| no | 5 December 2023 | [Link](https://www.papercall.io/jakartaone-2023) (Closes September 15) |
-| [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | 19 January 2024 | [Link](https://vdt24.cfp.dev/#/login) (Closes October 15) |
-| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closes September 30) |
+| [JakartaOne Livestream](https://jakartaone.org/2023/) | online| no | 5 December 2023 | [Link](https://www.papercall.io/jakartaone-2023) (Closed September 15) |
+| [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | 19 January 2024 | [Link](https://vdt24.cfp.dev/#/login) (Closed October 15) |
+| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closed September 30) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closes September 22) |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closes September 22) |
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - | 
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | [Link](https://vdz24.cfp.dev/) (Closes November 19th) |
 | [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 5-6, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
-| [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | - |
+| [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | By invitation |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 10-12 April 2024 | [Link](https://sessionize.com/devnexus-2024/) (Closes October 15) |
 | [Lone Star Software Symposium](https://nofluffjuststuff.com/dallas) | Dallas, TX, USA | yes | April 12-13, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
