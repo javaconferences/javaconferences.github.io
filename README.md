@@ -87,6 +87,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 8-10 May 2024 | [Link](https://devoxxuk24.cfp.dev/#/login) (Closes January 12th, 2024) |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 11 May 2024 | [Link](https://www.papercall.io/javaday-2024) (Closes December 31, 2023)|
 | [JCON EUROPE 2024](https://2024.europe.jcon.one/) | Cologne, Germany | no | 13-16 May 2024 | [Link](https://sessionize.com/jcon-europe-2024) (Closes November 30th, 2023) |
+| [GeeCON](https://2024.geecon.org) | Krakow, Poland | no | 15-17 May 2024 | [Link](https://2024.geecon.org/cfp/) (Closes January 31st, 2024) |
 | [JDKon](https://jdkon.io) | online | no | 23-24 May 2024 | - |
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | yes? | 22-24 May 2024 | [Link](https://sessionize.com/kotlinconf-2024/) (Closes November 27) |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
