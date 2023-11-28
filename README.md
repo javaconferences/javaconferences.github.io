@@ -76,6 +76,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closes September 22) |
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - | 
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | [Link](https://vdz24.cfp.dev/) (Closes November 19th) |
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2024/) | Bucharest, Romainia | no | 27-29 March 2024 | [Link](https://vdbuh2024.cfp.dev/#/) (Closes December 31) |
 | [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 5-6, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | - |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closes October 24) |
