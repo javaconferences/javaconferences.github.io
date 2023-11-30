@@ -91,6 +91,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [GeeCON](https://2024.geecon.org) | Krakow, Poland | no | 15-17 May 2024 | [Link](https://2024.geecon.org/cfp/) (Closes January 31st, 2024) |
 | [JDKon](https://jdkon.io) | online | no | 23-24 May 2024 | - |
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | yes? | 22-24 May 2024 | [Link](https://sessionize.com/kotlinconf-2024/) (Closes November 27) |
+| [JCON OpenBlend Slovenia 2024](https://slovenia.jcon.one) | Portorož, Slovenia | no | 29-31 May 2024 | [Link](https://sessionize.com/makeit-jcon-2024/) (Closes February 3rd, 2024) |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
