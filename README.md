@@ -97,6 +97,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
+| [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) |
 
 ## Additions, Changes, Corrections?
 
