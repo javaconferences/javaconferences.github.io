@@ -28,7 +28,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [CloudLand](https://www.cloudland.org/en/home/) | Brühl, Germany | no | 20-23 June 2023 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 21 June 2023 | By invitation |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) | Mondorf-les-Bains, Luxembourg | no | 21-22 June 2023 | - |
-| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 3-5 July 2023 | - |
+| [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 13-14 June 2024 | [CFP](https://sessionize.com/devbcn-2024/) |
 | [JCrete](https://www.jcrete.org) | Chania, Greece | no | 2-8 July 2023 | Unconference, no CFP |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de) | Stuttgart, Germany | no | 12-13 July 2023 | [Workshops](https://www.java-forum-stuttgart.de/call-for-workshops/) |
 | [ÜberConf](https://uberconf.com/) | Denver, CO, USA | yes | 18-21 July 2023 | - |
