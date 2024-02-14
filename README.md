@@ -20,7 +20,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 30-31 May 2023 | - |
 | [Devoxx Poland](https://devoxx.pl) | Krakow, Poland | no | 31 May-2 June 2023 | - |
 | [JavaDay Paris](https://javaday.parisjug.org/) | Paris, France | no | 1 June 2023 | - |
-| [JJUG CCC Spring](https://www.java-users.jp/post/ccc2023springcfp/) | Tokyo, Japan | no | 4 June 2023 | - |
+| [JJUG CCC 2023 Spring](https://www.java-users.jp/post/ccc2023springcfp/) | Tokyo, Japan | no | 4 June 2023 | [Link](https://sessionize.com/jjug-ccc-spring-2023/) (Closed March 7) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 6-7 June 2023 | - |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 1-2 June 2023 | - |
 | [QCon New York](https://qconnewyork.com/) | New York, NY, USA | no | 13-15 June 2023 | - |
@@ -58,7 +58,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Twin Cities Software Symposium](https://nofluffjuststuff.com/minneapolis) | Minneapolis, MN, USA | yes | October 20-21, 2023 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [Salt Lake Software Symposium](https://nofluffjuststuff.com/saltlakecity) | Salt Lake City, UT, USA | yes | November 3-4, 2023 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [W-JAX Hybrid](https://jax.de/muenchen) | Munich, Germany | yes | 6-10 November 2023 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 15) |
-| JJUG CCC Fall | Tokyo, Japan | no | November? 2023 | - |
+| [JJUG CCC 2023 Fall](https://www.java-users.jp/post/ccc2023fallcfp/) | Tokyo, Japan | no | November 11 2023 | [Link](https://sessionize.com/jjug-ccc-fall-2023/) (Closed September 6) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 8-10 November 2023 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform) (Closed) |
 | [JDevSummit IL](https://jdevsummitil.com/) | Tel-Aviv, Israel | no | 20 November 2023 | [Link](https://sessionize.com/jdev-summit-il-23/) (Closed June 8) |
 | [JCON WORLD](https://2023.world.jcon.one) | online | no | 21-24 November 2023 | [Link](https://sessionize.com/jcon-world-2023/) (Closed June 30) |
@@ -95,6 +95,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 29-31 May 2024 | [Link](https://sessionize.com/makeit-jcon-2024/) (Closes February 3rd, 2024) |
 | [Spring I/O](https://2024.springio.net/) | Barcelona, Spain | no | 30-31 May 2024 | [Link](https://sessionize.com/spring-io-2024/) (Closes 18 February, 2024) |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
+| JJUG CCC 2024 Spring | Tokyo, Japan | no | 16 June 2024 | [Link](https://sessionize.com/jjug-ccc-2024-spring/) (Closes February 29, 2024) |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) (Closes March 6th) |
