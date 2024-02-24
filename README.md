@@ -9,7 +9,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [GeeCON](https://www.geecon.org) | Krakow, Poland | no | 19-21 April 2023 | - |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 4-6 May 2023| Unconference, no CFP |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 4-6 May 2023| - |
-| [J on the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 10-12 May 2023 | - |
+| [J On the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 10-12 May 2023 | - |
 | [I Code Java Cape Town](https://j-sa.co) | Cape Town, South Africa | yes | 10-11 May 2023 | - |
 | [TEQnation](https://teqnation.com/) | Utrecht, The Netherlands | no | 17 May 2023 | - |
 | [Spring I/O](https://2023.springio.net) | Barcelona, Spain | no | 18-19 May 2023 | - |
@@ -86,6 +86,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 23-26 April 2024 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes October 31) |
 | [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 3-5, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
+| [J On the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 8-10 May 2024 | (Closed on January 1st,2024) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 8-10 May 2024 | [Link](https://devoxxuk24.cfp.dev/#/login) (Closes January 12th, 2024) |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 11 May 2024 | [Link](https://www.papercall.io/javaday-2024) (Closes December 31, 2023)|
 | [JCON EUROPE](https://2024.europe.jcon.one/) | Cologne, Germany | no | 13-16 May 2024 | [Link](https://sessionize.com/jcon-europe-2024) (Closes November 30th, 2023) |
