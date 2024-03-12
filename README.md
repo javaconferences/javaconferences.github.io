@@ -111,7 +111,6 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [SpringOne](https://springone.io) | Las Vegas, NV, USA | no | 21-24 August 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) (Closed April 14) |
 | [JakartaOne Livestream](https://jakartaone.org/2023/) | online| no | 5 December 2023 | [Link](https://www.papercall.io/jakartaone-2023) (Closed September 15) |
 
-
 ## Additions, Changes, Corrections?
 
 If you want to add a conference, update it, fix a mistake? Please send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
