@@ -36,6 +36,16 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) (Closes March 6th) |
+| [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 31 July 2023 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Closes March 30th) |
+| [JavaZone](https://2024.javazone.no/) | Oslo, Norway | no | 4-5 September 2024 | [Link](https://2024.javazone.no/speakers) (Closes April 8) |
+| [Java Forum Nord](https://javaforumnord.de) | Hannover, Germany | no | 10 September 2024 | - |
+| [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 27 September 2024 | [Link](https://jugsaxony.org/day/callforpapers) (Closes April 1) |
+| [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 30 September - 3 October 2024 | [Link](https://www.dev2next.com/cfp) (Closes March 31) |
+| [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 2-4 October 2023 | - |
+| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 7-11  October 2023 | - |
+| [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 16-17 October 2024 | [Link](https://baselone.org/baselone24-cfp/) (Closes April 1) |
+| [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closes May 6) |
+| [oredev](https://oredev.org) | Malmö, Sweden | no | 6-8 November 2024 | [Link](https://oredev.org/callforpaper) (Closes March 31) |
 
 ## Archive
 
