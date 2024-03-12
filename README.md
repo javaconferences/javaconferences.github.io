@@ -95,7 +95,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 29-31 May 2024 | [Link](https://sessionize.com/makeit-jcon-2024/) (Closes February 3rd, 2024) |
 | [Spring I/O](https://2024.springio.net/) | Barcelona, Spain | no | 30-31 May 2024 | [Link](https://sessionize.com/spring-io-2024/) (Closes 18 February, 2024) |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
-| JJUG CCC 2024 Spring | Tokyo, Japan | no | 16 June 2024 | [Link](https://sessionize.com/jjug-ccc-2024-spring/) (Closes February 29, 2024) |
+| [JJUG CCC 2024 Spring](https://ccc2024spring.java-users.jp/) | Tokyo, Japan | no | 16 June 2024 | [Link](https://sessionize.com/jjug-ccc-2024-spring/) (Closed February 29, 2024) |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) (Closes March 6th) |
