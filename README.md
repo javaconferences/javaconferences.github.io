@@ -19,7 +19,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Lone Star Software Symposium](https://nofluffjuststuff.com/dallas) | Dallas, TX, USA | yes | April 12-13, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 23-26 April 2024 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes October 31) |
-| [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | Spring | By invitation |
+| [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 13 June 2024 | By invitation |
 | [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 3-5, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [J On the Beach](https://www.jonthebeach.com/) | Malaga, Spain | no | 8-10 May 2024 | (Closed on January 1st,2024) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 8-10 May 2024 | [Link](https://devoxxuk24.cfp.dev/#/login) (Closed January 12th, 2024) |
@@ -45,6 +45,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 7-11  October 2023 | - |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 16-17 October 2024 | [Link](https://baselone.org/baselone24-cfp/) (Closes April 1) |
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closes May 6) |
+| [J-Fall](https://jfall.nl/) | Ede, The Netherlands | no | 7 Novemebr 2024 | - |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 6-8 November 2024 | [Link](https://oredev.org/callforpaper) (Closes March 31) |
 
 ## Archive
