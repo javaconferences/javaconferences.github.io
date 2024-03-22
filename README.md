@@ -8,7 +8,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closed September 30) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closes September 22) |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closes September 22) |
-| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - | 
+| [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - |
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | [Link](https://vdz24.cfp.dev/) (Closes November 19th) |
 | [Microsoft JDConf](https://microsoft.github.io/JDConf/) | online | yes | 27-28 March 2024 | [Link](https://sessionize.com/microsoft-jdconf-2024) (Closes January 15) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2024/) | Bucharest, Romania | no | 27-29 March 2024 | [Link](https://vdbuh2024.cfp.dev/#/) (Closes December 31) |
@@ -34,6 +34,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 13-14 June 2024 | [CFP](https://sessionize.com/devbcn-2024/) |
 | [JavaDay Lviv](https://www.javaday.org.ua/) | Lviv, Ukraine | yes | 14-15 June 2024 | [CFP](https://www.papercall.io/java-day-lviv-2024) (Closes April 6, 2024) |
 | [JJUG CCC 2024 Spring](https://ccc2024spring.java-users.jp/) | Tokyo, Japan | no | 16 June 2024 | [Link](https://sessionize.com/jjug-ccc-2024-spring/) (Closed February 29, 2024) |
+| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 19-21 June 2024 | [CFP](https://devoxxpl24.cfp.dev/) (Closed March 8, 2024) |
+| [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) | Mondorf-les-Bains, Luxembourg | no | 20-21 June 2024 | [CFP](https://voxxedlu2024.cfp.dev/) (Closed March 15, 2024) |
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) (Closes March 6th) |
