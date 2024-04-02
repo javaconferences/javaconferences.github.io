@@ -30,6 +30,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | yes? | 22-24 May 2024 | [Link](https://sessionize.com/kotlinconf-2024/) (Closed November 27) |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 29-31 May 2024 | [Link](https://sessionize.com/makeit-jcon-2024/) (Closed February 3rd, 2024) |
 | [Spring I/O](https://2024.springio.net/) | Barcelona, Spain | no | 30-31 May 2024 | [Link](https://sessionize.com/spring-io-2024/) (Closed 18 February, 2024) |
+| [JNation](https://jnation.pt/) | Coimbra, Portugal | yes | 4-5 June 2024 | [Link](https://sessionize.com/jnation-2024/) (Closed 31 January, 2024) |    
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 13-14 June 2024 | [CFP](https://sessionize.com/devbcn-2024/) |
 | [JavaDay Lviv](https://www.javaday.org.ua/) | Lviv, Ukraine | yes | 14-15 June 2024 | [CFP](https://www.papercall.io/java-day-lviv-2024) (Closes April 6) 🟢 |
