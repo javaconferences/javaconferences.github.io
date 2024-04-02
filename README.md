@@ -1,4 +1,4 @@
-# Upcoming Java Conferences
+∂close# Upcoming Java Conferences
 
 Missing a conference, seeing an issue or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
@@ -15,7 +15,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 5-6, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 8-10 April 2024 | By invitation |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 9-11 April 2024 | [Link](https://www.javaland.eu/en/speakers/) (Closed October 24) |
-| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 10-12 April 2024 | [Link](https://sessionize.com/devnexus-2024/) (Closef October 15) |
+| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 10-12 April 2024 | [Link](https://sessionize.com/devnexus-2024/) (Closed October 15) |
 | [Lone Star Software Symposium](https://nofluffjuststuff.com/dallas) | Dallas, TX, USA | yes | April 12-13, 2024 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 22-26 April 2024 | [Link](https://callforpapers.sandsmedia.com/) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 23-26 April 2024 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closed October 31) |
