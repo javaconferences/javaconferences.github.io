@@ -32,7 +32,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Spring I/O](https://2024.springio.net/) | Barcelona, Spain | no | 30-31 May 2024 | [Link](https://sessionize.com/spring-io-2024/) (Closed 18 February, 2024) |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 13-14 June 2024 | [CFP](https://sessionize.com/devbcn-2024/) |
-| [JavaDay Lviv](https://www.javaday.org.ua/) | Lviv, Ukraine | yes | 14-15 June 2024 | [CFP](https://www.papercall.io/java-day-lviv-2024) (Closes April 6, 2024) |
+| [JavaDay Lviv](https://www.javaday.org.ua/) | Lviv, Ukraine | yes | 14-15 June 2024 | [CFP](https://www.papercall.io/java-day-lviv-2024) (Closes April 6) 🟢 |
 | [JJUG CCC 2024 Spring](https://ccc2024spring.java-users.jp/) | Tokyo, Japan | no | 16 June 2024 | [Link](https://sessionize.com/jjug-ccc-2024-spring/) (Closed February 29, 2024) |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 19-21 June 2024 | [CFP](https://devoxxpl24.cfp.dev/) (Closed March 8, 2024) |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) | Mondorf-les-Bains, Luxembourg | no | 20-21 June 2024 | [CFP](https://voxxedlu2024.cfp.dev/) (Closed March 15, 2024) |
@@ -40,8 +40,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) (Closed March 6th) |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 31 July 2023 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Closed March 30th) |
-| [JavaZone](https://2024.javazone.no/) | Oslo, Norway | no | 4-5 September 2024 | [Link](https://2024.javazone.no/speakers) (Closes April 8) |
-| [Java Forum Nord](https://javaforumnord.de/2024/) | Hannover, Germany | no | 10 September 2024 | - |
+| [JavaZone](https://2024.javazone.no/) | Oslo, Norway | no | 4-5 September 2024 | [Link](https://2024.javazone.no/speakers) (Closes April 8) 🟢 |
+| [Java Forum Nord](https://javaforumnord.de/2024/) | Hannover, Germany | no | 10 September 2024 | [Link](https://sessionize.com/java-forum-nord-2024/) (Closes May 2) 🟢 |
 | [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 27 September 2024 | [Link](https://jugsaxony.org/day/callforpapers) (Closed April 1) |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 30 September - 3 October 2024 | [Link](https://www.dev2next.com/cfp) (Closed March 31) |
 | [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 2-4 October 2023 | - |
