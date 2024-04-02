@@ -1,4 +1,4 @@
-∂close# Upcoming Java Conferences
+# Upcoming Java Conferences
 
 Missing a conference, seeing an issue or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
