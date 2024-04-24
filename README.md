@@ -54,6 +54,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closes May 6) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 6-8 November 2024 | [Link](https://oredev.org/callforpaper) (Closes March 31) |
 | [J-Fall](https://jfall.nl/) | Ede, The Netherlands | no | 7 November 2024 | - |
+| [IT-Tage 2024](https://www.it-tage.org) | Frankfurt am Main, Germany | no | 9-12 December 2024 | [Link](https://www.it-tage.org/cfp) (Closed April 29) |
+
 
 ## Archive
 
