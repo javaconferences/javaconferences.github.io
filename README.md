@@ -51,6 +51,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 7-11  October 2023 | (Opens June 1) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 16-17 October 2024 | [Link](https://baselone.org/baselone24-cfp/) (Closes April 1) |
 | [SOFTCON Philippines](https://softconph.com/) | Metro Manila, Philippines | yes | 16-18 October 2024 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfCYSCDzHLW6B73U0wRFligAMSn_WmGQvA6I_1iX60QaJ3awQ/viewform) (Closes May 30) |
+| [Open Community for Java](https://www.ocxconf.org/) | Mainz, Germany | no | 22-24 October 2024 | [Link](https://www-eur.cvent.com/c/abstracts/193e1fad-7c1d-4be4-8d3e-a086e8d42efe) (Closes June 10) |
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closes May 6) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 6-8 November 2024 | [Link](https://oredev.org/callforpaper) (Closes March 31) |
 | [J-Fall](https://jfall.nl/) | Ede, The Netherlands | no | 7 November 2024 | - |
