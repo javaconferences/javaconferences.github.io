@@ -43,16 +43,16 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 31 July 2023 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Closed March 30th) |
 | [DevConf.US](https://www.devconf.info/us/) | Boston, MA, USA | no | 14-16 August 2024 | [Link](https://pretalx.com/devconf-us-2024/cfp) (Closed April 22) |
 | [JavaZone](https://2024.javazone.no/) | Oslo, Norway | no | 4-5 September 2024 | [Link](https://2024.javazone.no/speakers) (Closed April 8) |
-| [Java Forum Nord](https://javaforumnord.de/2024/) | Hannover, Germany | no | 10 September 2024 | [Link](https://sessionize.com/java-forum-nord-2024/) (Closes May 2) |
+| [Java Forum Nord](https://javaforumnord.de/2024/) | Hannover, Germany | no | 10 September 2024 | [Link](https://sessionize.com/java-forum-nord-2024/) (Closed May 2) |
 | [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 27 September 2024 | [Link](https://jugsaxony.org/day/callforpapers) (Closed April 1) |
 | [JAX London](https://jaxlondon.com/) | London, United Kingdom | Yes | 30 September - 3 October 2024 | Closed |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 30 September - 3 October 2024 | [Link](https://www.dev2next.com/cfp) (Closed March 31) |
-| [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 2-4 October 2023 | Opens May 6 |
+| [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 2-4 October 2023 | [Link](https://dvma24.cfp.dev/#/) (Closes July 7) 🟢|
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 7-11  October 2023 | (Opens June 1) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 16-17 October 2024 | [Link](https://baselone.org/baselone24-cfp/) (Closed April 1) |
 | [SOFTCON Philippines](https://softconph.com/) | Metro Manila, Philippines | yes | 16-18 October 2024 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfCYSCDzHLW6B73U0wRFligAMSn_WmGQvA6I_1iX60QaJ3awQ/viewform) (Closed May 30) |
-| [Open Community for Java](https://www.ocxconf.org/) | Mainz, Germany | no | 22-24 October 2024 | [Link](https://www-eur.cvent.com/c/abstracts/193e1fad-7c1d-4be4-8d3e-a086e8d42efe) (Closes June 10) |
-| [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closes May 6) |
+| [Open Community for Java](https://www.ocxconf.org/) | Mainz, Germany | no | 22-24 October 2024 | [Link](https://www-eur.cvent.com/c/abstracts/193e1fad-7c1d-4be4-8d3e-a086e8d42efe) (Closes June 10) 🟢|
+| [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 6) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 6-8 November 2024 | [Link](https://oredev.org/callforpaper) (Closed March 31) |
 | [J-Fall](https://jfall.nl/) | Ede, The Netherlands | no | 7 November 2024 | - |
 | [IT-Tage 2024](https://www.it-tage.org) | Frankfurt am Main, Germany | no | 9-12 December 2024 | [Link](https://www.it-tage.org/cfp) (Closed April 29) |
