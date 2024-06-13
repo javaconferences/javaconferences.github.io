@@ -54,7 +54,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Open Community for Java](https://www.ocxconf.org/) | Mainz, Germany | no | 22-24 October 2024 | [Link](https://www-eur.cvent.com/c/abstracts/193e1fad-7c1d-4be4-8d3e-a086e8d42efe) (Closes June 10) 🟢|
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 6) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 6-8 November 2024 | [Link](https://oredev.org/callforpaper) (Closed March 31) |
-| [J-Fall](https://jfall.nl/) | Ede, The Netherlands | no | 7 November 2024 | - |
+| [J-Fall](https://jfall.nl/) | Ede, The Netherlands | no | 7 November 2024 | [Link](https://sessionize.com/jfall24/) (Closes September 1) 🟢 |
 | [IT-Tage 2024](https://www.it-tage.org) | Frankfurt am Main, Germany | no | 9-12 December 2024 | [Link](https://www.it-tage.org/cfp) (Closed April 29) |
 
 
