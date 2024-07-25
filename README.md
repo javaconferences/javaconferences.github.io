@@ -47,9 +47,9 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 27 September 2024 | [Link](https://jugsaxony.org/day/callforpapers) (Closed April 1) |
 | [JAX London](https://jaxlondon.com/) | London, United Kingdom | Yes | 30 September - 3 October 2024 | Closed |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 30 September - 3 October 2024 | [Link](https://www.dev2next.com/cfp) (Closed March 31) |
-| [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 2-4 October 2024 | [Link](https://dvma24.cfp.dev/#/) (Closes July 7) 🟢|
-| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 7-11  October 2024 | [Link](https://dvbe24.cfp.dev/#/) (Closes July 12th) 🟢|
-| [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2024/) | Cluj-Napoca, Romania| no | 15-16  October 2024 | [Link](https://vdcluj24.cfp.dev/#/login) (Closes August 2nd) 🟢|
+| [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 2-4 October 2024 | [Link](https://dvma24.cfp.dev/#/) (Closed July 7) |
+| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 7-11  October 2024 | [Link](https://dvbe24.cfp.dev/#/) (Closed July 12th) |
+| [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2024/) | Cluj-Napoca, Romania| no | 15-16  October 2024 | [Link](https://vdcluj24.cfp.dev/#/login) (Closed) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 16-17 October 2024 | [Link](https://baselone.org/baselone24-cfp/) (Closed April 1) |
 | [SOFTCON Philippines](https://softconph.com/) | Metro Manila, Philippines | yes | 16-18 October 2024 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfCYSCDzHLW6B73U0wRFligAMSn_WmGQvA6I_1iX60QaJ3awQ/viewform) (Closed May 30) |
 | [Open Community for Java](https://www.ocxconf.org/) | Mainz, Germany | no | 22-24 October 2024 | [Link](https://www-eur.cvent.com/c/abstracts/193e1fad-7c1d-4be4-8d3e-a086e8d42efe) (Closed June 10) |
