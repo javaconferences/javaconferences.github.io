@@ -44,6 +44,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DevConf.US](https://www.devconf.info/us/) | Boston, MA, USA | no | 14-16 August 2024 | [Link](https://pretalx.com/devconf-us-2024/cfp) (Closed April 22) |
 | [JavaZone](https://2024.javazone.no/) | Oslo, Norway | no | 4-5 September 2024 | [Link](https://2024.javazone.no/speakers) (Closed April 8) |
 | [Java Forum Nord](https://javaforumnord.de/2024/) | Hannover, Germany | no | 10 September 2024 | [Link](https://sessionize.com/java-forum-nord-2024/) (Closed May 2) |
+| [JCConf Taiwan](https://jcconf.tw/2024/) | Taipei City, Taiwan | no | 27 September 2024 | [Link](https://pretalx.com/jcconf-2024/cfp) (Closed June 16) |
 | [JUG Saxony Day](https://jugsaxony.day) | Dresden, Germany | no | 27 September 2024 | [Link](https://jugsaxony.org/day/callforpapers) (Closed April 1) |
 | [JAX London](https://jaxlondon.com/) | London, United Kingdom | Yes | 30 September - 3 October 2024 | Closed |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 30 September - 3 October 2024 | [Link](https://www.dev2next.com/cfp) (Closed March 31) |
