@@ -41,6 +41,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) (Closed March 6th) |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 31 July 2023 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Closed March 30th) |
+| [JConf Brasil](https://www.jconfbrasil.com/) | São Paulo, Brazil | no | 3 August 2024 | By Invitation |
 | [DevConf.US](https://www.devconf.info/us/) | Boston, MA, USA | no | 14-16 August 2024 | [Link](https://pretalx.com/devconf-us-2024/cfp) (Closed April 22) |
 | [JavaZone](https://2024.javazone.no/) | Oslo, Norway | no | 4-5 September 2024 | [Link](https://2024.javazone.no/speakers) (Closed April 8) |
 | [Java Forum Nord](https://javaforumnord.de/2024/) | Hannover, Germany | no | 10 September 2024 | [Link](https://sessionize.com/java-forum-nord-2024/) (Closed May 2) |
