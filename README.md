@@ -131,11 +131,11 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 9 November 2023 | [Link](https://sessionize.com/jfall23/) (Closed September 1) |
 | [DevOps Vision](https://devopsvision.io/) | Clearwater, FL, USA | yes | December 4-6, 2023 | [Link](https://devopsvision.io/app/speaker-request)|
 | [TechLeader Summit](https://techleadersummit.io/) | Clearwater, FL, USA | yes | December 4-6, 2023 | [Link](https://techleadersummit.io/app/contact/request) |
+| [JakartaOne Livestream](https://jakartaone.org/2023/) | online| no | 5 December 2023 | [Link](https://www.papercall.io/jakartaone-2023) (Closed September 15) |
 | [DevTernity](https://devternity.com) | online | no | 7-8 December 2023 | - | by invitation |
 | [Java Tage 2023](https://www.ittage.informatik-aktuell.de/) | Frankfurt, Germany | no | 11-14 December 2023 | [Link](https://www.ittage.informatik-aktuell.de/call-for-papers.html) (Closed April 8) |
 | [ArchConf](https://archconf.com/) | Clearwater, FL, USA | yes | December 11-14, 2023 | [Link](https://archconf.com/app/speaker-request) |
 | [SpringOne](https://springone.io) | Las Vegas, NV, USA | no | 21-24 August 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) (Closed April 14) |
-| [JakartaOne Livestream](https://jakartaone.org/2023/) | online| no | 5 December 2023 | [Link](https://www.papercall.io/jakartaone-2023) (Closed September 15) |
 
 ## Additions, Changes, Corrections?
 
