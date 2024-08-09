@@ -16,6 +16,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 8-9, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 7th – 9th May, 2025 | - |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 10 May 2025 | [Link](https://www.papercall.io/javaday-2025) (Closes 31 December 2024) 🟢 |
+| [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 19-22 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) |
 
 ### 2024
 
