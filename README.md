@@ -7,6 +7,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | --- | --- | ---: | ---: | --- |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-28 March 2025 | [Link]([https://vdbuh2024.cfp.dev/#/](https://vdbuh2025.cfp.dev/#/login)) (Closes 31 January 2025) |  
 
 ### 2024
 
