@@ -7,8 +7,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | --- | --- | ---: | ---: | --- |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
-| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-28 March 2025 | [Link]([https://vdbuh2024.cfp.dev/#/](https://vdbuh2025.cfp.dev/#/login)) (Closes 31 January 2025) | 
-| [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 3-4, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |  
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-28 March 2025 | [Link](https://vdbuh2024.cfp.dev/#/) (Closes 31 January 2025) |
+| [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 3-4, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 7-9 April 2025 | By invitation |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 1-3 April 2025 | [Link](https://www.javaland.eu/en/speakers/) (Closes 25 September 2024) 🟢 |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 March 2025 | [Link](https://sessionize.com/devnexus-2025/) (Closes 15 September 2024) 🟢 |
