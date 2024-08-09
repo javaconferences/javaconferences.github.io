@@ -18,6 +18,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 10 May 2025 | [Link](https://www.papercall.io/javaday-2025) (Closes 31 December 2024) 🟢 |
 | [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 19-22 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) |
 | [GeeCON](https://geecon.org) | Krakow, Poland | no | 14-16 May 2025 | - |
+| [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closes 30 November 2024) |
 
 ### 2024
 
