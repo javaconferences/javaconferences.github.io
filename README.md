@@ -2,6 +2,13 @@
 
 Missing a conference, seeing an issue or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
+### 2025
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
+
+### 2024
+
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | 19 January 2024 | [Link](https://vdt24.cfp.dev/#/login) (Closed October 15) |
