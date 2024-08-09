@@ -2,6 +2,29 @@
 
 Missing a conference, seeing an issue or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
+### 2025
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
+| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-28 March 2025 | [Link]([https://vdbuh2024.cfp.dev/#/](https://vdbuh2025.cfp.dev/#/login)) (Closes 31 January 2025) | [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 3-4, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |  
+| [QCon London](https://qconlondon.com) | London, UK | no | 7-9 April 2025 | By invitation |
+| [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 1-3 April 2025 | [Link](https://www.javaland.eu/en/speakers/) (Closes 25 September 2024) 🟢 |
+| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 March 2025 | [Link](https://sessionize.com/devnexus-2025/) (Closes 15 September 2024) 🟢 |
+| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 5-9 May 2025 | - |
+| [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 22-25 April 2025 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes 30 September 2024) 🟢 |
+| [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 8-9, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
+| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 7th – 9th May, 2025 | - |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 10 May 2025 | [Link](https://www.papercall.io/javaday-2025) (Closes 31 December 2024) 🟢 |
+| [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 19-22 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) |
+| [GeeCON](https://geecon.org) | Krakow, Poland | no | 14-16 May 2025 | - |
+| [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closes 30 November 2024) |
+| [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | - |
+| [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2024 | Unconference, no CFP |
+| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | - |
+
+### 2024
+
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | 19 January 2024 | [Link](https://vdt24.cfp.dev/#/login) (Closed October 15) |
