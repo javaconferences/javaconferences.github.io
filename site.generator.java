@@ -77,6 +77,10 @@ class ConferenceReader implements AutoCloseable {
                         skip = true;
                         return false;
                     }
+                    if (it.startsWith("#")) {
+                        skip = true;
+                        return false;
+                    }
                     return !skip && !it.isBlank();
                 })
                 .map(it -> Stream.of(it.strip().substring(1).split("\\|")).map(String::strip).toArray(String[]::new))
