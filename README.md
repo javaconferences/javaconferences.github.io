@@ -14,6 +14,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 5-9 May 2025 | - |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 22-25 April 2025 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes 30 September 2024) 🟢 |
 | [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 8-9, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
+| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 7th – 9th May, 2025 | - |
 
 ### 2024
 
