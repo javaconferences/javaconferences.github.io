@@ -12,7 +12,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 1-3 April 2025 | [Link](https://www.javaland.eu/en/speakers/) (Closes 25 September 2024) 🟢 |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 March 2025 | [Link](https://sessionize.com/devnexus-2025/) (Closes 15 September 2024) 🟢 |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 5-9 May 2025 | - |
-| [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 22-25 April 2025 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes 30 September 2024) |
+| [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 22-25 April 2025 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closes 30 September 2024) 🟢 |
+| [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 8-9, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 
 ### 2024
 
