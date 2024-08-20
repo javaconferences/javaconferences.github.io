@@ -6,6 +6,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
+| [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 3-5 February 2025 | [Link](https://sessionize.com/jfokus-2025) (Closes 30 September 2024) 🟢 |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 27 September 2024) 🟢 |
 | [JavaOne](https://www.oracle.com/javaone/) | Redwood Shores, CA, USA | no |17–20 March, 2025 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone25/JavaOne25CFP/cfpHome) (Closes October 10 2024 ) 🟢 |
