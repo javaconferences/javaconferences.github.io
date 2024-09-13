@@ -12,6 +12,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JavaOne](https://www.oracle.com/javaone/) | Redwood Shores, CA, USA | no |17–20 March, 2025 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone25/JavaOne25CFP/cfpHome) (Closes October 10 2024 ) 🟢 |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-28 March 2025 | [Link](https://vdbuh2024.cfp.dev/#/) (Closes 31 January 2025) |
 | [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 3-4, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
+| [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2025) | Weiden, Germany | no | 4 April 2025 | [Link](https://sessionize.com/digital-crafts-day-2025/) (Closed October 31th, 2024) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 7-9 April 2025 | By invitation |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 1-3 April 2025 | [Link](https://www.javaland.eu/en/speakers/) (Closes 25 September 2024) 🟢 |
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 March 2025 | [Link](https://sessionize.com/devnexus-2025/) (Closes 15 September 2024) 🟢 |
