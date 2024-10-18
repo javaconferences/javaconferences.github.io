@@ -7,12 +7,12 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 15 January 2025 | [Link](https://vdcern25.cfp.dev/) (Closes 28 October 2024) 🟢 |
-| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 17 January 2025 | [Link](https://vdt25.cfp.dev/) (Closes 21 October 2024) 🟢 |
+| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 17 January 2025 | [Link](https://vdt25.cfp.dev/) (Closes 28 October 2024) 🟢 |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 3-5 February 2025 | [Link](https://sessionize.com/jfokus-2025) (Closed 30 September 2024) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 18 October 2024) 🟢 |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closes 18 October 2024) 🟢 |
 | [ConFoo](https://confoo.ca/en/2025) | Montreal, Canada | no | 26-28 February 2025 | [Link](https://confoo.ca/en/2025/call-for-papers) (Closes 22 October 2024) 🟢 |
-| [JavaOne](https://www.oracle.com/javaone/) | Redwood Shores, CA, USA | no |17–20 March, 2025 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone25/JavaOne25CFP/cfpHome) (Closes October 10 2024 ) 🟢 |
+| [JavaOne](https://www.oracle.com/javaone/) | Redwood Shores, CA, USA | no |17–20 March, 2025 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone25/JavaOne25CFP/cfpHome) (Closed October 16 2024 ) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-28 March 2025 | [Link](https://vdbuh2025.cfp.dev/#/) (Closes 31 January 2025) |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 3 April 2025 | [Link](https://vdams25.cfp.dev/) (Closes 20 December 2024) 🟢 |
 | [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 3-4, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
