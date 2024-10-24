@@ -21,7 +21,10 @@ jobs:
           mkdir -p target
           curl https://repo1.maven.org/maven2/org/commonmark/commonmark/0.19.0/commonmark-0.19.0.jar -o target/commonmark.jar
           curl https://repo1.maven.org/maven2/org/commonmark/commonmark-ext-gfm-tables/0.19.0/commonmark-ext-gfm-tables-0.19.0.jar -o target/commonmark-ext-gfm-tables.jar
-          echo 'Runner.main();/exit' | jshell --class-path target/commonmark.jar:target/commonmark-ext-gfm-tables.jar --startup site.generator.java
+          curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.jar -o target/jackson-core.jar
+          curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.18.0/jackson-databind-2.18.0.jar -o target/jackson-databind.jar
+          curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.18.0/jackson-annotations-2.18.0.jar -o target/jackson-annotations.jar
+          echo 'Runner.main();/exit' | jshell --class-path target/commonmark.jar:target/commonmark-ext-gfm-tables.jar:target/jackson-databind.jar:target/jackson-core.jar:target/jackson-annotations.jar --startup site.generator.java
       - name: "Deploy Github Pages"
         uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:

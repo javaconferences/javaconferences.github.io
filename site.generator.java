@@ -4,6 +4,7 @@
 import org.commonmark.ext.gfm.tables.TablesExtension;
 import org.commonmark.parser.Parser;
 import org.commonmark.renderer.html.HtmlRenderer;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,6 +16,7 @@ import java.net.http.HttpResponse;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.Duration;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
@@ -40,7 +42,7 @@ record Coordinate(double lat, double lon, String countryName) {
 record Conference(String name, String link,
                   String locationName,
                   Coordinate coordinates,
-                  boolean hybrid, String date) {
+                  boolean hybrid, String date, String cfpLink, String cfpEndDate) {
 }
 
 class ConferenceReader implements AutoCloseable {
@@ -94,12 +96,31 @@ class ConferenceReader implements AutoCloseable {
 
     private Conference parse(final Map<String, Coordinate> locationRegistry, final String[] columns) {
         final boolean hasLinkInName = columns[0].startsWith("[");
+        final boolean hasCfpLink = columns[4].startsWith("[");
+
+        String cfpLink ="";
+        String cfpClose = "";
+
+        if (hasCfpLink) {
+            cfpLink = columns[4].substring(columns[4].indexOf('(') + 1, columns[4].indexOf(')'));
+            int closeIndex = columns[4].indexOf("Closes");
+            if (closeIndex == -1) {
+                closeIndex = columns[4].indexOf("Closed");
+            }
+            if (closeIndex != -1) {
+                cfpClose = columns[4].substring(closeIndex + 7, columns[4].indexOf(')', closeIndex));
+            }
+        }
+
         return new Conference(
                 (hasLinkInName ? columns[0].substring(1, columns[0].indexOf(']')) : columns[0]).strip(),
                 hasLinkInName ? columns[0].substring(columns[0].indexOf('(') + 1, columns[0].indexOf(')')) : "",
                 columns[1], locationRegistry.get(columns[1]),
                 "yes".equalsIgnoreCase(columns[2]) || "true".equalsIgnoreCase(columns[2]),
-                columns[3]);
+                columns[3],
+                cfpLink,
+                cfpClose
+                );
     }
 
     private Map<String, Coordinate> findLocations(final List<String[]> lines) throws InterruptedException, ExecutionException {
@@ -247,7 +268,12 @@ record GithubPages(Path source, Path output) {
         Files.writeString(target.resolve(".nojekll"), "");
         Files.writeString(target.resolve("index.html"), index(parser, renderer, conferences, countries));
         Files.writeString(target.resolve("map.html"), map(conferences));
+        Files.writeString(target.resolve("conferences.json"), mapToJson(conferences));
         logger.info(() -> "Generation successful.");
+    }
+
+    private String mapToJson(final List<Conference> conferences) {
+        return new ObjectMapper().writeValueAsString(conferences);
     }
 
     private String map(final List<Conference> conferences) {
