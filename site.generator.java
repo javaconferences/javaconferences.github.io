@@ -272,7 +272,7 @@ record GithubPages(Path source, Path output) {
         logger.info(() -> "Generation successful.");
     }
 
-    private String mapToJson(final List<Conference> conferences) {
+    private String mapToJson(final List<Conference> conferences) throws Exception {
         return new ObjectMapper().writeValueAsString(conferences);
     }
 
