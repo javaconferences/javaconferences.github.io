@@ -95,10 +95,8 @@ class ConferenceReader implements AutoCloseable {
     }
 
     private Conference parse(final Map<String, Coordinate> locationRegistry, final String[] columns) {
-        System.out.println("----columns = " + Arrays.stream(columns).toList());
         final boolean hasLinkInName = columns[0].startsWith("[");
         final boolean hasCfpLink = columns[4].startsWith("[");
-        System.out.println("---" + hasCfpLink);
 
         String cfpLink ="";
         String cfpClose = "";
