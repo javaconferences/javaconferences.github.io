@@ -28,6 +28,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 8-9, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 7th – 9th May, 2025 | - |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 10 May 2025 | [Link](https://www.papercall.io/javaday-2025) (Closes 31 December 2024) 🟢 |
+| [Code Remix Summit](https://coderemix.ai) | Miami, FL, USA | no | 12-14 May 2025 | [Link](https://sessionize.com/coderemixsummit/) (Closes 18 November 2024) 🟢 |
 | [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 19-22 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) (Closes 15 November 2024) 🟢 |
 | [GeeCON](https://geecon.org) | Krakow, Poland | no | 14-16 May 2025 | - |
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closes 30 November 2024) 🟢 |
