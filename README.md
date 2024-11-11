@@ -8,6 +8,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | --- | --- | ---: | ---: | --- |
 | [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 15 January 2025 | [Link](https://vdcern25.cfp.dev/) (Closed 28 October 2024) |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 17 January 2025 | [Link](https://vdt25.cfp.dev/) (Closed 28 October 2024) |
+| [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | no | 1 - 2 February 2025 | [Link](https://fosdem.org/2025/news/2024-11-03-call-for-presentations/) (Closes 1 December 2024) 🟢 |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 3-5 February 2025 | [Link](https://sessionize.com/jfokus-2025) (Closed 30 September 2024) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closed 18 October 2024) |
 | [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closed 18 October 2024) |
