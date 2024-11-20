@@ -4,16 +4,17 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 
 ### 2025
 
-| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 15 January 2025 | [Link](https://vdcern25.cfp.dev/) (Closed 28 October 2024) |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 17 January 2025 | [Link](https://vdt25.cfp.dev/) (Closed 28 October 2024) |
 | [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | no | 1 - 2 February 2025 | [Link](https://fosdem.org/2025/news/2024-11-03-call-for-presentations/) (Closes 1 December 2024) 🟢 |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 3-5 February 2025 | [Link](https://sessionize.com/jfokus-2025) (Closed 30 September 2024) |
-| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closed 18 October 2024) |
-| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closed 18 October 2024) |
-| [ConFoo](https://confoo.ca/en/2025) | Montreal, Canada | no | 26-28 February 2025 | [Link](https://confoo.ca/en/2025/call-for-papers) (Closed 22 October 2024) |
-| [JavaOne](https://www.oracle.com/javaone/) | Redwood Shores, CA, USA | no |17–20 March, 2025 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone25/JavaOne25CFP/cfpHome) (Closed October 16 2024 ) |
+| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closed 18 October 2024) |
+| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 18-20 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closed 18 October 2024) |
+| [ConFoo](https://confoo.ca/en/2025) | Montreal, Canada | no | 26-28 February 2025 | [Link](https://confoo.ca/en/2025/call-for-papers) (Closed 22 October 2024) |
+| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 March 2025 | [Link](https://sessionize.com/devnexus-2025/) (Closed 20 September 2024) |
+| [JavaOne](https://www.oracle.com/javaone/) | Redwood Shores, CA, USA | no |17–20 March, 2025 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone25/JavaOne25CFP/cfpHome) (Closed October 16 2024 ) |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 25 March 2025 | [Link](https://vdz25.cfp.dev/#/) (Closes December 2nd, 2024) 🟢 |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-27 March 2025 | [Link](https://vdbuh2025.cfp.dev/#/) (Closes 31 January 2025) |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 3 April 2025 | [Link](https://vdams25.cfp.dev/) (Closes 20 December 2024) 🟢 |
@@ -22,15 +23,15 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [QCon London](https://qconlondon.com) | London, UK | no | 7-9 April 2025 | By invitation |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 1-3 April 2025 | [Link](https://www.javaland.eu/en/speakers/) (Closed 25 September 2024) |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 10-12 April 2025 | [Link](https://dvgr25.cfp.dev) (Closes 1 December 2024) 🟢 |
-| [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 March 2025 | [Link](https://sessionize.com/devnexus-2025/) (Closed 20 September 2024) |
-| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 5-9 May 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closes 11 November 2024) 🟢 |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 22-25 April 2025 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closed 30 September 2024) |
-| [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 8-9, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
+| [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 5-9 May 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 November 2024) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 7th – 9th May, 2025 | [Link](https://devoxxuk25.cfp.dev) (Closes 10 January 2025) 🟢 |
+| [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | May 8-9, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 10 May 2025 | [Link](https://www.papercall.io/javaday-2025) (Closes 31 December 2024) 🟢 |
-| [Code Remix Summit](https://coderemix.ai) | Miami, FL, USA | no | 12-14 May 2025 | [Link](https://sessionize.com/coderemixsummit/) (Closes 18 November 2024) 🟢 |
-| [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 19-22 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) (Closes 29 November 2024) 🟢 |
+| [Code Remix Summit](https://coderemix.ai) | Miami, FL, USA | no | 12-14 May 2025 | [Link](https://sessionize.com/coderemixsummit/) (Closed 18 November 2024) |
 | [GeeCON](https://geecon.org) | Krakow, Poland | no | 14-16 May 2025 | - |
+| [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 19-22 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) (Closes 29 November 2024) 🟢 |
+| [Spring.io](https://2025.springio.net) | Barcelona, Spain | no | 21-23 May 2024 | [Link](https://sessionize.com/spring-io-2025/) (Closes 13 February 2024) 🟢 |
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closes 30 November 2024) 🟢 |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closes 31 December 2024) 🟢 |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | - |
@@ -42,12 +43,12 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 
 ### 2024
 
-| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [Voxxed Days Ticino](https://voxxeddays.com/ticino/) | Lugano, Switzerland| no | 19 January 2024 | [Link](https://vdt24.cfp.dev/#/login) (Closed October 15) |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 5-7 February 2024 | [Link](https://sessionize.com/jfokus-2024/) (Closed September 30) |
-| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closed September 22) |
-| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closed September 22) |
+| [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 21-23 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closed September 22) |
+| [DeveloperWeek Online](https://www.developerweek.com) | online | no | 27-29 February 2024 | [Link](https://www.developerweek.com/conference/call-for-speakers/) (Closed September 22) |
 | [FOSDEM](https://fosdem.org) | Brussels, Belgium | yes | 3-4 February 2024 | - |
 | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | Zurich, Switzerland | no | 7 March 2024 | [Link](https://vdz24.cfp.dev/) (Closed November 19th) |
 | [Microsoft JDConf](https://microsoft.github.io/JDConf/) | online | yes | 27-28 March 2024 | [Link](https://sessionize.com/microsoft-jdconf-2024) (Closed January 15) |
@@ -109,7 +110,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 ### 2023
 
 
-| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [CloudBuilders](https://www.cloud-builders.tech) | online | no | 30 March 2023 | - |
 | [Devoxx FR](https://www.devoxx.fr/) | Paris, France | no | 12-14 April 2023 | - |
@@ -157,7 +158,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [I Code Java Johannesburg](https://j-sa.co) | Johannesburg, South Africa | yes | 11-12 October 2023 | - |
 | [BaselOne](https://baselone.ch/one) | Basel, Switzerland | no | 18-19 October 2023 | [Link](https://sessionize.com/baselone2023/) (Closed April 15) |
 | [P99 CONF](https://p99conf.io) | online | no | 18-19 October 2023 | [Link](https://sessionize.com/p99-conf-2023/) (Closed May 12) |
-| [GeeCON Prague](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
+| [GeeCON Prague](https://2023.geecon.cz/) | Prague, Czech Republic | no | 19-20 October 2023 | [Link](https://2023.geecon.cz/cfp/) (Closes September 8) |
 | [Accento](https://accento.dev) | Karlsruhe, Germany | no | 24-25 October 2023 | [Link](https://www.papercall.io/accento-2023) (Closed April 1) |
 | [JConf Peru](https://jconfperu.org/) | Lima, Peru | no | 2 December 2023 | [Link](https://sessionize.com/jconf-peru-2023/) (Closes November 4)|
 | [JCConf Taiwan](https://jcconf.tw/2023) | Taipei City, Taiwan | no | October 6, 2023 | [Link](https://pretalx.com/jcconf-2023/cfp) (Closed July 16) |
