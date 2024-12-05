@@ -114,7 +114,7 @@ class ConferenceReader implements AutoCloseable {
 
         return new Conference(
                 (hasLinkInName ? columns[0].substring(1, columns[0].indexOf(']')) : columns[0]).strip(),
-                hasLinkInName ? columns[0].substring(columns[0].indexOf('(') + 1, columns[0].indexOf(')')) : "",
+                hasLinkInName ? columns[0].substring(columns[0].lastIndexOf('(') + 1, columns[0].lastIndexOf(')')) : "",
                 columns[1], locationRegistry.get(columns[1]),
                 "yes".equalsIgnoreCase(columns[2]) || "true".equalsIgnoreCase(columns[2]),
                 columns[3],
