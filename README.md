@@ -39,6 +39,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closes 10 January 2025) 🟢 |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | - |
+| [KCDC (Kansas City Developer Conference)](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | - | 
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | - |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | - |
 
