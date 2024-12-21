@@ -8,7 +8,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | --- | --- | ---: | ---: | --- |
 | [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 15 January 2025 | [Link](https://vdcern25.cfp.dev/) (Closed 28 October 2024) |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 17 January 2025 | [Link](https://vdt25.cfp.dev/) (Closed 28 October 2024) |
-| [jChampions](https://jchampionsconf.com/index.html) | online | no | 23-28 January 2025 | |
+| [jChampions](https://jchampionsconf.com/index.html) | online | no | 23-28 January 2025 | - |
 | [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | no | 1 - 2 February 2025 | [Link](https://fosdem.org/2025/news/2024-11-03-call-for-presentations/) (Closed 1 December 2024) |
 | [Jfokus](https://www.jfokus.se) | Stockholm, Sweden | no | 3-5 February 2025 | [Link](https://sessionize.com/jfokus-2025) (Closed 30 September 2024) |
 | [DeveloperWeek](https://www.developerweek.com) | San Francisco, USA | yes | 11-13 February 2025 | [Link](https://sessionize.com/developerweek-2025/) (Closed 18 October 2024) |
@@ -40,7 +40,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closes 30 November 2024) 🟢 |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closes 31 December 2024) 🟢 |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closes 10 January 2025) 🟢 |
-| [betterCode() Spring](https://spring.bettercode.eu/index.php) | online | 3 June 2025 | |
+| [betterCode() Spring](https://spring.bettercode.eu/index.php) | online | no | 3 June 2025 | - |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | - |
 | [KCDC (Kansas City Developer Conference)](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | - | 
