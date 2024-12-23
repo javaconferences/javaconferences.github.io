@@ -22,7 +22,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Gateway Software Symposium](https://nofluffjuststuff.com/stlouis) | St. Louis, MO, USA | yes | April 3-4, 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2025) | Weiden, Germany | no | 4 April 2025 | [Link](https://sessionize.com/digital-crafts-day-2025/) (Closed October 31th, 2024) |
 | [QCon London](https://qconlondon.com) | London, UK | no | 7-9 April 2025 | By invitation |
-| [JDConf](https://jdconf.com/) | online | no | 9-10 April2025 | [Link](https://sessionize.com/microsoft-jdconf-2025-cfp/) (Closes 17 January 2025)
+| [JDConf](https://jdconf.com/) | online | no | 9-10 April 2025 | [Link](https://sessionize.com/microsoft-jdconf-2025-cfp/) (Closes 17 January 2025)
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 1-3 April 2025 | [Link](https://www.javaland.eu/en/speakers/) (Closed 25 September 2024) |
 | [JPoint](https://jpoint.ru/) | Moscow, Russia | yes | 3-4 April 2025 | [Link](https://jpoint.ru/callforpapers/) (Closes 14 January 2025) |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 10-12 April 2025 | [Link](https://dvgr25.cfp.dev) (Closed 1 December 2024) |
