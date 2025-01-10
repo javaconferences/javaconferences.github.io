@@ -36,7 +36,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JPrime](https://jprime.io/) | Sofia, Bulgaria | no | 14-15 May 2025 | [Link](https://jprime.io/cfp) (Closes 15 February, 2025) 🟢 |
 | [GeeCON](https://geecon.org) | Krakow, Poland | no | 14-16 May 2025 | [Link](https://2025.geecon.org/cfp/) (Closes 31 January 2025) 🟢 |
 | [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 12-15 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) (Closed 29 November 2024) |
-| [Spring.io](https://2025.springio.net) | Barcelona, Spain | no | 21-23 May 2024 | [Link](https://sessionize.com/spring-io-2025/) (Closes 13 February 2024) 🟢 |
+| [Spring.io](https://2025.springio.net) | Barcelona, Spain | no | 21-23 May 2024 | [Link](https://sessionize.com/spring-io-2025/) (Closes 13 February 2025) 🟢 |
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closed 30 November 2024) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closes 10 January 2025) 🟢 |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closes 10 January 2025) 🟢 |
@@ -45,7 +45,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | - |
 | [DevBcn](devbcn.com) | Barcelona, Spain | no | 8-10 July 2025 | [Link](https://sessionize.com/devbcn-2025/) (Closes 01 March 2025) 🟢 |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santo Domingo, Dominican Republic | no | 18-19 July 2025 | [Link](https://www.papercall.io/jconf-dominicana-2025) (Closes 22 March 2025) 🟢 |
-| [KCDC (Kansas City Developer Conference)](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | - | 
+| [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closes 22 February 2025) | 
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | - |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | - |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 6-10  October 2025 | - |
