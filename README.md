@@ -42,7 +42,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closes 10 January 2025) 🟢 |
 | [betterCode() Spring](https://spring.bettercode.eu/index.php) | online | no | 3 June 2025 | - |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
-| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | - |
+| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | [Link](https://devoxxpl25.cfp.dev/) (Closes 28 February 2025) 🟢 |
 | [DevBcn](devbcn.com) | Barcelona, Spain | no | 8-10 July 2025 | [Link](https://sessionize.com/devbcn-2025/) (Closes 01 March 2025) 🟢 |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santo Domingo, Dominican Republic | no | 18-19 July 2025 | [Link](https://www.papercall.io/jconf-dominicana-2025) (Closes 22 March 2025) 🟢 |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closes 22 February 2025) 🟢 | 
