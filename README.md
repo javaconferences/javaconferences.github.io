@@ -50,6 +50,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 10 July 2025 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Opens 10 February 2025) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santo Domingo, Dominican Republic | no | 18-19 July 2025 | [Link](https://www.papercall.io/jconf-dominicana-2025) (Closes 22 March 2025) 🟢 |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closes 22 February 2025) 🟢 |
+| [Java Forum Nord](https://javaforumnord.de/2025/) | Hannover, Germany | no | 16 September 2025 | - |
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | - |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | - |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 6-10  October 2025 | - |
