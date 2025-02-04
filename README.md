@@ -42,7 +42,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closed 10 January 2025) |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closed 15 January 2025) |
 | [betterCode() Spring](https://spring.bettercode.eu/index.php) | online | no | 3 June 2025 | - |
-| [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 5 June 2025 | [Link](https://sessionize.com/jspring25) (Closing 15 April 2025) 🟢|
+| [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 5 June 2025 | [Link](https://sessionize.com/jspring25) (Closes 15 April 2025) 🟢|
 | [JJUG CCC 2025 Spring](https://www.java-users.jp/) | Tokyo, Japan | no | 7 June 2025 | [Link](https://sessionize.com/jjug-ccc-2025-spring) (Closes 02 March 2025) 🟢 |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | [Link](https://devoxxpl25.cfp.dev/) (Closes 28 February 2025) 🟢 |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
