@@ -18,7 +18,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DevNexus](https://devnexus.com) | Atlanta, GA, USA | no | 4-6 March 2025 | [Link](https://sessionize.com/devnexus-2025/) (Closed 20 September 2024) |
 | [JavaOne](https://www.oracle.com/javaone/) | Redwood Shores, CA, USA | no |17–20 March 2025 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone25/JavaOne25CFP/cfpHome) (Closed 16 October 2024 ) |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 25 March 2025 | [Link](https://vdz25.cfp.dev/#/) (Closed 2 December 2024) |
-| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-27 March 2025 | [Link](https://vdbuh2025.cfp.dev/#/) (Closes 31 January 2025) 🟢|
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) | Bucharest, Romania | no | 26-27 March 2025 | [Link](https://vdbuh2025.cfp.dev/#/) (Closed 31 January 2025) |
 | [JavaLand](https://www.javaland.eu/) | Nürburg, Germany | no | 1-3 April 2025 | [Link](https://www.javaland.eu/en/speakers/) (Closed 25 September 2024) |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 3 April 2025 | [Link](https://vdams25.cfp.dev/) (Closed 20 December 2024) |
 | [JPoint](https://jpoint.ru/) | Moscow, Russia | yes | 3-4 April 2025 | [Link](https://jpoint.ru/callforpapers/) (Closed 14 January 2025) |
@@ -36,7 +36,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Code Remix Summit](https://coderemix.ai) | Miami, FL, USA | no | 12-14 May 2025 | [Link](https://sessionize.com/coderemixsummit/) (Closed 18 November 2024) |
 | [JCON EUROPE](https://2025.europe.jcon.one/) | Cologne, Germany | no | 12-15 May 2025 | [Link](https://sessionize.com/jcon-europe-2025) (Closed 29 November 2024) |
 | [JPrime](https://jprime.io/) | Sofia, Bulgaria | no | 14-15 May 2025 | [Link](https://jprime.io/cfp) (Closes 15 February 2025) 🟢 |
-| [GeeCON](https://geecon.org) | Krakow, Poland | no | 14-16 May 2025 | [Link](https://2025.geecon.org/cfp/) (Closes 31 January 2025) 🟢 |
+| [GeeCON](https://geecon.org) | Krakow, Poland | no | 14-16 May 2025 | [Link](https://2025.geecon.org/cfp/) (Closed 31 January 2025) |
 | [Spring.io](https://2025.springio.net) | Barcelona, Spain | no | 21-23 May 2025 | [Link](https://sessionize.com/spring-io-2025/) (Closes 13 February 2025) 🟢 |
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closed 30 November 2024) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closed 10 January 2025) |
@@ -46,7 +46,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JJUG CCC 2025 Spring](https://www.java-users.jp/) | Tokyo, Japan | no | 7 June 2025 | [Link](https://sessionize.com/jjug-ccc-2025-spring) (Closes 02 March 2025) 🟢 |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | [Link](https://devoxxpl25.cfp.dev/) (Closes 28 February 2025) 🟢 |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
-| [WeAreDevelopers](https://wearedevelopers.com) | Berlin, Germany | no | 9-11 July 2025 | [Link](https://sessionize.com/wearedevelopers-world-congress-2025/) (Closes 03 February 2025) 🟢 |
+| [WeAreDevelopers](https://wearedevelopers.com) | Berlin, Germany | no | 9-11 July 2025 | [Link](https://sessionize.com/wearedevelopers-world-congress-2025/) (Closed 03 February 2025) |
 | [DevBcn](devbcn.com) | Barcelona, Spain | no | 8-10 July 2025 | [Link](https://sessionize.com/devbcn-2025/) (Closes 01 March 2025) 🟢 |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 10 July 2025 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Opens 10 February 2025) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santo Domingo, Dominican Republic | no | 18-19 July 2025 | [Link](https://www.papercall.io/jconf-dominicana-2025) (Closes 22 March 2025) 🟢 |
