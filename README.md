@@ -49,7 +49,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
 | [WeAreDevelopers](https://wearedevelopers.com) | Berlin, Germany | no | 9-11 July 2025 | [Link](https://sessionize.com/wearedevelopers-world-congress-2025/) (Closed 03 February 2025) |
 | [DevBcn](devbcn.com) | Barcelona, Spain | no | 8-10 July 2025 | [Link](https://sessionize.com/devbcn-2025/) (Closes 01 March 2025) 🟢 |
-| [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 10 July 2025 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Opens 10 February 2025) |
+| [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 10 July 2025 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Closes 22 March 2025) 🟢 |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santo Domingo, Dominican Republic | no | 18-19 July 2025 | [Link](https://www.papercall.io/jconf-dominicana-2025) (Closes 22 March 2025) 🟢 |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closes 22 February 2025) 🟢 |
 | [JavaZone](https://2025.javazone.no/en) | Oslo, Norway | no | 3-4 September 2025 | - |
