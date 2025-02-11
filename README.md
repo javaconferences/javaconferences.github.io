@@ -42,6 +42,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closed 10 January 2025) |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closed 15 January 2025) |
 | [betterCode() Spring](https://spring.bettercode.eu/index.php) | online | no | 3 June 2025 | - |
+| [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 4-5 June 2025 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 5 June 2025 | [Link](https://sessionize.com/jspring25) (Closes 15 April 2025) 🟢|
 | [JJUG CCC 2025 Spring](https://www.java-users.jp/) | Tokyo, Japan | no | 7 June 2025 | [Link](https://sessionize.com/jjug-ccc-2025-spring) (Closes 02 March 2025) 🟢 |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | [Link](https://devoxxpl25.cfp.dev/) (Closes 28 February 2025) 🟢 |
@@ -51,6 +52,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 10 July 2025 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Opens 10 February 2025) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santo Domingo, Dominican Republic | no | 18-19 July 2025 | [Link](https://www.papercall.io/jconf-dominicana-2025) (Closes 22 March 2025) 🟢 |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closes 22 February 2025) 🟢 |
+| [JavaZone](https://2025.javazone.no/en) | Oslo, Norway | no | 3-4 September 2025 | - |
 | [Java Forum Nord](https://javaforumnord.de/2025/) | Hannover, Germany | no | 16 September 2025 | - |
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | - |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | - |
