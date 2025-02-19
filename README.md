@@ -62,6 +62,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JavaCro](https://2025.javacro.hr/eng/) | Rovinj, Croatia | no | 12-15 October 2025 | - |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 15-16 October 2025 | [Link](https://sessionize.com/baselone25/) (Closes 1 April 2025) 🟢 |
 | [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 12-14 November 2025 | - |
+| [QCon San Francisco](https://qconsf.com/) | San Francisco, USA | no |17-21 November 2025| By invitation |
 
 
 ### 2024
