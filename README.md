@@ -47,6 +47,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 5 June 2025 | [Link](https://sessionize.com/jspring25) (Closes 15 April 2025) 🟢|
 | [JJUG CCC 2025 Spring](https://www.java-users.jp/) | Tokyo, Japan | no | 7 June 2025 | [Link](https://sessionize.com/jjug-ccc-2025-spring) (Closes 02 March 2025) 🟢 |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | [Link](https://devoxxpl25.cfp.dev/) (Closes 28 February 2025) 🟢 |
+| [OpenSouthCode](https://www.opensouthcode.org/conferences/opensouthcode2025) | Málaga, Spain | no | 20-21 June 2025 | [Link](https://www.opensouthcode.org/conferences/opensouthcode2025/program/proposals/new) (Closes 31 March 2025) 🟢 |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
 | [WeAreDevelopers](https://wearedevelopers.com) | Berlin, Germany | no | 9-11 July 2025 | [Link](https://sessionize.com/wearedevelopers-world-congress-2025/) (Closed 03 February 2025) |
 | [DevBcn](devbcn.com) | Barcelona, Spain | no | 8-10 July 2025 | [Link](https://sessionize.com/devbcn-2025/) (Closes 01 March 2025) 🟢 |
