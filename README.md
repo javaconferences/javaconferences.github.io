@@ -41,17 +41,18 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closed 30 November 2024) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closed 10 January 2025) |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closed 15 January 2025) |
-| [Voxxed Days Ioannina](https://ioannina.voxxeddays.com/) | Ioannina, Greece | no | 30 May 2025 | [Link](https://vdloa25.cfp.dev/) (Closes 28 February 2025) 🟢 |
+| [Voxxed Days Ioannina](https://ioannina.voxxeddays.com/) | Ioannina, Greece | no | 30 May 2025 | [Link](https://vdloa25.cfp.dev/) (Closed 28 February 2025) |
 | [betterCode() Spring](https://spring.bettercode.eu/index.php) | online | no | 3 June 2025 | - |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 4-5 June 2025 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, The Netherlands | no | 5 June 2025 | [Link](https://sessionize.com/jspring25) (Closes 15 April 2025) 🟢|
-| [JJUG CCC 2025 Spring](https://www.java-users.jp/) | Tokyo, Japan | no | 7 June 2025 | [Link](https://sessionize.com/jjug-ccc-2025-spring) (Closes 02 March 2025) 🟢 |
-| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | [Link](https://devoxxpl25.cfp.dev/) (Closes 28 February 2025) 🟢 |
+| [JJUG CCC 2025 Spring](https://www.java-users.jp/) | Tokyo, Japan | no | 7 June 2025 | [Link](https://sessionize.com/jjug-ccc-2025-spring) (Closed 02 March 2025) |
+| [JConf Mexico](https://jconf.mx/) | Guadalajara, Mexico | no | 7 June 2025 | [Link](https://sessionize.com/jconfmex-2025) (Closes 15 April 2025) 🟢|
+| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 11-13 June 2025 | [Link](https://devoxxpl25.cfp.dev/) (Closed 28 February 2025) |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) | Luxembourg, Luxembourg | no | 19-20 June 2025 | [Link](https://voxxedlu2025.cfp.dev/) (Closes 30 March 2025) 🟢 |
 | [OpenSouthCode](https://www.opensouthcode.org/conferences/opensouthcode2025) | Málaga, Spain | no | 20-21 June 2025 | [Link](https://www.opensouthcode.org/conferences/opensouthcode2025/program/proposals/new) (Closes 31 March 2025) 🟢 |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 23-27 June 2025 | Unconference, no CFP |
 | [WeAreDevelopers](https://wearedevelopers.com) | Berlin, Germany | no | 9-11 July 2025 | [Link](https://sessionize.com/wearedevelopers-world-congress-2025/) (Closed 03 February 2025) |
-| [DevBcn](devbcn.com) | Barcelona, Spain | no | 8-10 July 2025 | [Link](https://sessionize.com/devbcn-2025/) (Closes 01 March 2025) 🟢 |
+| [DevBcn](devbcn.com) | Barcelona, Spain | no | 8-10 July 2025 | [Link](https://sessionize.com/devbcn-2025/) (Closes 01 March 2025) |
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 10 July 2025 | [Link](https://www.java-forum-stuttgart.de/cfp-anmeldung/) (Closes 22 March 2025) 🟢 |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santo Domingo, Dominican Republic | no | 18-19 July 2025 | [Link](https://www.papercall.io/jconf-dominicana-2025) (Closes 22 March 2025) 🟢 |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closed 22 February 2025) |
