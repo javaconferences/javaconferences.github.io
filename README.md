@@ -40,6 +40,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Spring.io](https://2025.springio.net) | Barcelona, Spain | no | 21-23 May 2025 | [Link](https://sessionize.com/spring-io-2025/) (Closed 13 February 2025) |
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | no | 21-23 May 2025 | [Link](https://sessionize.com/kotlinconf-2025) (Closed 30 November 2024) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 27-28 May 2025 | [Link](https://sessionize.com/jnation-2025/) (Closed 10 January 2025) |
+| [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 28-31 May 2025| Unconference, no CFP |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 28-30 May 2025 | [Link](https://sessionize.com/makeit-2025-jcon-openblend-slovenia/) (Closed 15 January 2025) |
 | [Voxxed Days Ioannina](https://ioannina.voxxeddays.com/) | Ioannina, Greece | no | 30 May 2025 | [Link](https://vdloa25.cfp.dev/) (Closed 28 February 2025) |
 | [betterCode() Spring](https://spring.bettercode.eu/index.php) | online | no | 3 June 2025 | - |
