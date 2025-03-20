@@ -62,6 +62,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | [Link](https://jugsaxony.org/day/callforpapers_en/) (Closes 15 April 2025) 🟢 |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | [Link](https://www.dev2next.com/cfp) (Closes 11 April 2025) 🟢 |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 6-10  October 2025 | - |
+| [BED-Con](https://bed-con.org/) | Berlin, Germany | no | 7-8 October 2025 | [Link](https://sessionize.com/bed-con-2025) (Closes 30 April 2025) 🟢 |
 | [JavaCro](https://2025.javacro.hr/eng/) | Rovinj, Croatia | no | 12-15 October 2025 | - |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 15-16 October 2025 | [Link](https://sessionize.com/baselone25/) (Closes 1 April 2025) 🟢 |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 5-7 November 2025 | [Link](https://oredev.org/callforpaper) (Closes 31 March 2025)|
