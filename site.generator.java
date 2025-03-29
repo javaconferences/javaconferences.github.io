@@ -4,6 +4,9 @@
 import org.commonmark.ext.gfm.tables.TablesExtension;
 import org.commonmark.parser.Parser;
 import org.commonmark.renderer.html.HtmlRenderer;
+import org.commonmark.renderer.html.AttributeProvider;
+import org.commonmark.renderer.html.AttributeProviderContext;
+import org.commonmark.renderer.html.AttributeProviderFactory;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.BufferedReader;
@@ -256,7 +259,20 @@ record GithubPages(Path source, Path output) {
     public void generate() throws Exception {
         final var extensions = List.of(TablesExtension.create());
         final var parser = Parser.builder().extensions(extensions).build();
-        final var renderer = HtmlRenderer.builder().extensions(extensions).build();
+        final var renderer = HtmlRenderer.builder()
+          .extensions(extensions)
+          // Add attribute provider to open links in new windows
+          .attributeProviderFactory(context -> (node, tagName, attributes) -> {
+              if (node instanceof org.commonmark.node.Link && "a".equals(tagName)) {
+                  // Add target="_blank" and rel="noopener" for security to all links
+                  attributes.put("target", "_blank");
+            
+                  // Also add rel="noopener" as a security best practice
+                  String rel = attributes.getOrDefault("rel", "");
+                  attributes.put("rel", rel.isEmpty() ? "noopener" : rel + " noopener");
+                }
+            })
+          .build();
         final var countries = new Countries();
         final var logger = Logger.getLogger(getClass().getSimpleName());
 
