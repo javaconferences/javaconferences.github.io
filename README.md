@@ -29,6 +29,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 10-12 April 2025 | [Link](https://dvgr25.cfp.dev) (Closed 1 December 2024) |
 | [Devoxx France](https://www.devoxx.fr/) | Paris, France | no | 16-18 April 2025 | [Link](https://devoxxfr2025.cfp.dev/) (Closed 12 January 2025) |
 | [GIDS (Great Indian Developer Summit)](https://developersummit.com) | Bangalore, India | no | 22-25 April 2025 | [Link](https://form.jotform.com/developersummit/gids-2024-call-for-proposals) (Closed 30 September 2024) |
+| [Community Day for Java - 2025, Ahmedabad](https://www.gujaratjug.org/community-day-for-java-2025) | Ahmedabad, India | no | 27 April 2025 | [Link](https://www.papercall.io/community-day-for-java) (Closed 31 March 2025) |
 | [JAX Hybrid](https://jax.de/mainz) | Mainz, Germany | yes | 5-9 May 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 November 2024) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 7–9 May 2025 | [Link](https://devoxxuk25.cfp.dev) (Closed 10 January 2025) |
 | [New England Software Symposium](https://nofluffjuststuff.com/boston) | Boston, MA, USA | yes | 8-9 May 2025 | [Link](https://nofluffjuststuff.com/app/speaker-request) |
