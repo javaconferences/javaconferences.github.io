@@ -68,7 +68,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [BED-Con](https://bed-con.org/) | Berlin, Germany | no | 7-8 October 2025 | [Link](https://sessionize.com/bed-con-2025) (Closes 30 April 2025) 🟢 |
 | [JavaCro](https://2025.javacro.hr/eng/) | Rovinj, Croatia | no | 12-15 October 2025 | [Link](https://sessionize.com/javacro25) (Closes 15 May 2025) 🟢 |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 15-16 October 2025 | [Link](https://sessionize.com/baselone25/) (Closed 1 April 2025) |
-| [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 3-7 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closes 12 May 2025) 🟢 |
+| [ChurConf](https://churconf.com) | Auckland, New Zealand | no | 2 November 2025 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSczi302jwFllDZCNLhWU8kFWCxLfJR2CtpM_KbFD-V0pUSz2w/viewform) 🟢 |
+| [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 3-7 November 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closes 12 May 2025) 🟢 |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 5-7 November 2025 | [Link](https://oredev.org/callforpaper) (Closed 31 March 2025) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 6 November 2025 | - |
 | [Devoxx Morocco](https://devoxx.ma) | Agadir, Morocco | no | 12-14 November 2025 | - |
