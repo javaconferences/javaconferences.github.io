@@ -61,6 +61,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closed 22 February 2025) |
 | [JavaZone](https://2025.javazone.no/en) | Oslo, Norway | no | 3-4 September 2025 |  [Link](https://talks.javazone.no/) (Closes 28 April 2025)  |
 | [Java Forum Nord](https://javaforumnord.de/2025/) | Hannover, Germany | no | 16 September 2025 | [Link](https://sessionize.com/java-forum-nord-2025/) (Closes 5 May 2025) 🟢 |
+| [JCConf Taiwan](https://jcconf.tw/2025/) | Taipei, Taiwan | no | 19 September 2025 | [Link](https://pretalx.com/jcconf-2025/cfp) (Closes 8 June 2025) 🟢 |
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | [Link](https://jugsaxony.org/day/callforpapers_en/) (Closes 15 April 2025)  |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | [Link](https://www.dev2next.com/cfp) (Closes 11 April 2025)  |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 6-10  October 2025 | - |
