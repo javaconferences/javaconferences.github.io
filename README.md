@@ -2,6 +2,13 @@
 
 Missing a conference, seeing an issue or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
+### 2026
+
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
+
+
 ### 2025
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
