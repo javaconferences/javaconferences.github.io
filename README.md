@@ -79,7 +79,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [ChurConf](https://churconf.com) | Auckland, New Zealand | no | 2 November 2025 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSczi302jwFllDZCNLhWU8kFWCxLfJR2CtpM_KbFD-V0pUSz2w/viewform) 🟢 |
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 3-7 November 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closed 12 May 2025) |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 5-7 November 2025 | [Link](https://oredev.org/callforpaper) (Closed 31 March 2025) |
-| [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 6 November 2025 | - |
+| [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 6 November 2025 | [Link](https://sessionize.com/jfall25) (Closes 1 September 2025) 🟢 |
 | [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | Thessaloniki, Greece | no | 7-8 November 2025 | [Link](https://vdthess25.cfp.dev/) (Closes 20 June 2025) 🟢 |
 | [Devoxx Morocco](https://devoxx.ma) | Marrakech, Morocco | no | 12-14 November 2025 | [Link](https://dvma25.cfp.dev/) (Closes 29 June 2025) 🟢 |
 | [QCon San Francisco](https://qconsf.com/) | San Francisco, USA | no |17-21 November 2025| By invitation |
