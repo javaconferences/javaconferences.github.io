@@ -67,27 +67,12 @@ class ConferenceReader implements AutoCloseable {
                 .executor(ForkJoinPool.commonPool())
                 .followRedirects(HttpClient.Redirect.ALWAYS)
                 .build();
+
     }
 
     public List<Conference> read() throws ExecutionException, InterruptedException {
         final var lines = reader.lines()
-                .filter(it -> {
-                    if (skip == null) {
-                        if (it.startsWith(start)) {
-                            skip = false;
-                        }
-                        return false;
-                    }
-                    if (it.startsWith(end)) {
-                        skip = true;
-                        return false;
-                    }
-                    if (it.startsWith("#")) {
-                        skip = true;
-                        return false;
-                    }
-                    return !skip && !it.isBlank();
-                })
+                .filter(it -> it.startsWith("| ["))
                 .map(it -> Stream.of(it.strip().substring(1).split("\\|")).map(String::strip).toArray(String[]::new))
                 .toList();
 
@@ -111,7 +96,12 @@ class ConferenceReader implements AutoCloseable {
                 closeIndex = columns[4].indexOf("Closed");
             }
             if (closeIndex != -1) {
-                cfpClose = columns[4].substring(closeIndex + 7, columns[4].indexOf(')', closeIndex));
+                int closeParen = columns[4].indexOf(')', closeIndex);
+                if (closeParen > closeIndex + 7) {
+                    cfpClose = columns[4].substring(closeIndex + 7, closeParen);
+                } else {
+                    cfpClose = ""; // or null, if no date is present
+                }
             }
         }
 
@@ -283,7 +273,11 @@ record GithubPages(Path source, Path output) {
 
         Files.writeString(target.resolve(".nojekll"), "");
         Files.writeString(target.resolve("index.html"), index(parser, renderer, conferences, countries));
-        Files.writeString(target.resolve("map.html"), map(conferences));
+        var thisyear = java.time.Year.now().getValue();
+        var confsToMap = conferences.stream()
+                .filter(c -> c.date().contains(String.valueOf(thisyear)) || c.date().contains(String.valueOf(thisyear + 1)))
+                .toList();
+        Files.writeString(target.resolve("map.html"), map(confsToMap));
         Files.writeString(target.resolve("conferences.json"), mapToJson(conferences));
         logger.info(() -> "Generation successful.");
     }
@@ -504,7 +498,7 @@ record GithubPages(Path source, Path output) {
         if (!Files.exists(source)) {
             throw new IllegalArgumentException("Invalid source: '" + source + "'");
         }
-        try (final var reader = new ConferenceReader(Files.newBufferedReader(source), "| ---", "## ")) {
+        try (final var reader = new ConferenceReader(Files.newBufferedReader(source), "### 2026", "##")) {
             return reader.read();
         }
     }
