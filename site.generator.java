@@ -273,11 +273,7 @@ record GithubPages(Path source, Path output) {
 
         Files.writeString(target.resolve(".nojekll"), "");
         Files.writeString(target.resolve("index.html"), index(parser, renderer, conferences, countries));
-        var thisyear = java.time.Year.now().getValue();
-        var confsToMap = conferences.stream()
-                .filter(c -> c.date().contains(String.valueOf(thisyear)) || c.date().contains(String.valueOf(thisyear + 1)))
-                .toList();
-        Files.writeString(target.resolve("map.html"), map(confsToMap));
+        Files.writeString(target.resolve("map.html"), map(conferences));
         Files.writeString(target.resolve("conferences.json"), mapToJson(conferences));
         logger.info(() -> "Generation successful.");
     }
@@ -311,6 +307,10 @@ record GithubPages(Path source, Path output) {
     }
 
     private String mapContent(final List<Conference> conferences) {
+        var thisyear = java.time.Year.now().getValue();
+        var confsToMap = conferences.stream()
+                .filter(c -> c.date().contains(String.valueOf(thisyear)) || c.date().contains(String.valueOf(thisyear + 1)))
+                .toList();
         return "" +
                 "    <div id=\"map\"></div>" +
                 "    <script src=\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.js\"\n" +
@@ -322,7 +322,7 @@ record GithubPages(Path source, Path output) {
                 "          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {\n" +
                 "              attribution: '&copy; <a href=\"http://osm.org/copyright\">OpenStreetMap</a>'\n" +
                 "          }).addTo(map);\n" +
-                conferences.stream()
+                confsToMap.stream()
                         .map(c -> {
                             final var title = c.name() + "<br>" + c.date() + "<br>" + c.locationName() +
                                     (c.link().isBlank() ? "" : ("<br><a" +
