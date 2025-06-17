@@ -460,30 +460,58 @@ record GithubPages(Path source, Path output) {
     }
 
     private String injectConferenceLocation(final String html, final List<Conference> conferences, final Countries countries) {
-        int from = html.indexOf("</tr>"); // first is the end of title so inject the new column
-        if (from < 0) {
-            throw new IllegalArgumentException("Missing table of conferences");
-        }
+        StringBuilder out = new StringBuilder();
+        int pos = 0;
+        int confIdx = 0;
 
-        var out = new StringBuilder(html.substring(0, from))
-                .append("<th>Country</th>");
-        for (final var conference : conferences) {
-            final int endOfRow = html.indexOf("</tr>", from + "</tr>".length());
-            if (endOfRow < 0) {
-                throw new IllegalArgumentException("Missing table of conferences");
+        while (true) {
+            int theadStart = html.indexOf("<thead>", pos);
+            if (theadStart < 0) {
+                out.append(html.substring(pos));
+                break;
+            }
+            int theadEnd = html.indexOf("</thead>", theadStart);
+            if (theadEnd < 0) throw new IllegalArgumentException("Missing </thead>");
+            int headerRowEnd = html.indexOf("</tr>", theadStart);
+            if (headerRowEnd < 0 || headerRowEnd > theadEnd) throw new IllegalArgumentException("Missing header row </tr> before </thead>");
+
+            // Copy up to header row, inject <th>Country</th>
+            out.append(html, pos, headerRowEnd)
+               .append("<th>Country</th>")
+               .append(html, headerRowEnd, theadEnd + "</thead>".length());
+
+            // Find <tbody> or start after </thead>
+            int tbodyStart = html.indexOf("<tbody>", theadEnd);
+            int bodyStart;
+            if (tbodyStart < 0 || tbodyStart > html.indexOf("<thead>", theadEnd + 1) && html.indexOf("<thead>", theadEnd + 1) != -1) {
+                // No <tbody> or next <thead> comes before <tbody>
+                bodyStart = theadEnd + "</thead>".length();
+            } else {
+                bodyStart = tbodyStart + "<tbody>".length();
+                out.append(html, theadEnd + "</thead>".length(), bodyStart);
             }
 
-            out.append(html, from, endOfRow)
-                    .append("<td>")
-                    .append(countries
-                            .find(conference.coordinates().countryName())
-                            .map(c -> "<i class=\"fi fis fi-" + c + "\"></i>&nbsp;")
-                            .orElse(""))
-                    .append(conference.coordinates().countryName())
-                    .append("</td>");
-            from = endOfRow;
+            // Process rows until next <thead> or end of table
+            int nextThead = html.indexOf("<thead>", bodyStart);
+            int tableEnd = nextThead >= 0 ? nextThead : html.length();
+            int from = bodyStart;
+            while (true) {
+                int endOfRow = html.indexOf("</tr>", from);
+                if (endOfRow < 0 || endOfRow > tableEnd) break;
+                out.append(html, from, endOfRow)
+                   .append("<td>")
+                   .append(confIdx < conferences.size()
+                       ? countries.find(conferences.get(confIdx).coordinates().countryName())
+                           .map(c -> "<i class=\"fi fis fi-" + c + "\"></i>&nbsp;").orElse("")
+                           + conferences.get(confIdx).coordinates().countryName()
+                       : "")
+                   .append("</td>")
+                   .append("</tr>");
+                from = endOfRow + "</tr>".length();
+                confIdx++;
+            }
+            pos = from;
         }
-        out.append(html, from, html.length());
         return out.toString();
     }
 
