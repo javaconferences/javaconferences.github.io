@@ -224,6 +224,11 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [ArchConf](https://archconf.com/) | Clearwater, FL, USA | yes | 11-14 December 2023 | [Link](https://archconf.com/app/speaker-request) |
 | [SpringOne](https://springone.io) | Las Vegas, NV, USA | no | 21-24 August 2023 | [Link](https://event.vmware.com/flow/vmware/explore2023lv/cfp) (Closed April 14) |
 
+## JSON output
+
+You can find the list of conferences in JSON format https://javaconferences.org/conferences.json).
+This is limited to the conferences from this year and the next year.
+
 ## Additions, Changes, Corrections?
 
 If you want to add a conference, update it, fix a mistake? Please send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).

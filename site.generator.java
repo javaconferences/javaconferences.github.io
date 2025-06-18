@@ -274,8 +274,16 @@ record GithubPages(Path source, Path output) {
         Files.writeString(target.resolve(".nojekll"), "");
         Files.writeString(target.resolve("index.html"), index(parser, renderer, conferences, countries));
         Files.writeString(target.resolve("map.html"), map(conferences));
-        Files.writeString(target.resolve("conferences.json"), mapToJson(conferences));
+        Files.writeString(target.resolve("conferences.json"), mapToJson(filterConfs(conferences)));
         logger.info(() -> "Generation successful.");
+    }
+
+    // filter conferences to only include those in the current or next year
+    private List<Conference> filterConfs(List<Conference> conferences) {
+        var thisyear = java.time.Year.now().getValue();
+        return conferences.stream()
+                .filter(c -> c.date().contains(String.valueOf(thisyear)) || c.date().contains(String.valueOf(thisyear + 1)))
+                .toList();
     }
 
     private String mapToJson(final List<Conference> conferences) throws Exception {
@@ -307,10 +315,7 @@ record GithubPages(Path source, Path output) {
     }
 
     private String mapContent(final List<Conference> conferences) {
-        var thisyear = java.time.Year.now().getValue();
-        var confsToMap = conferences.stream()
-                .filter(c -> c.date().contains(String.valueOf(thisyear)) || c.date().contains(String.valueOf(thisyear + 1)))
-                .toList();
+        var confsToMap = filterConfs(conferences);
         return "" +
                 "    <div id=\"map\"></div>" +
                 "    <script src=\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.js\"\n" +
@@ -325,19 +330,20 @@ record GithubPages(Path source, Path output) {
                 confsToMap.stream()
                         .map(c -> {
                             final var title = c.name() + "<br>" + c.date() + "<br>" + c.locationName() +
-                                    (c.link().isBlank() ? "" : ("<br><a" +
-                                            " href=\"" + c.link() + "\"" +
-                                            " onmousedown=\"" +
-                                            "if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }" +
-                                            "setTimeout(function () {window.open(\\'" + c.link() + "\\', \\'_blank\\').focus();}, 100)\"" +
-                                            ">Link</a>"));
+                                    (c.link().isBlank() ? "" : (
+                                            "<br><a" +
+                                                    " href='" + c.link() + "'" +
+                                                    " onmousedown=\\\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }" +
+                                                    "setTimeout(function () {window.open('" + c.link() + "', '_blank').focus();}, 100)\\\"" +
+                                                    ">Link</a>"
+                                    ));
                             return "            " +
                                     "{ " +
-                                    "tooltip: '" + title + "', " +
+                                    "tooltip: \"" + title.replace("\"", "\\\"") + "\", " +
                                     "marker: L.marker([" +
                                     c.coordinates().lat() + "," + c.coordinates().lon() + "], {" +
-                                    "alt:'" + c.locationName() + "', " +
-                                    "title:'" + title +
+                                    "alt:'" + c.locationName().replace("'", "\\'") + "', " +
+                                    "title:'" + c.name().replace("'", "\\'") +
                                     "'}) " +
                                     "}";
                         })
@@ -446,7 +452,8 @@ record GithubPages(Path source, Path output) {
     }
 
     private String injectMap(final String html, final List<Conference> conferences) {
-        return html.replace(
+        var mapContent = mapContent(conferences);
+        return html.replaceFirst(
                 "</table>",
                 "</table>\n" +
                         "<p>" +
@@ -456,7 +463,7 @@ record GithubPages(Path source, Path output) {
                         " href=\"map.html\"" +
                         " >map</a>" +
                         " only." +
-                        "</p>\n" + mapContent(conferences));
+                        "</p>\n" + mapContent);
     }
 
     private String injectConferenceLocation(final String html, final List<Conference> conferences, final Countries countries) {
