@@ -226,8 +226,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 
 ## JSON output
 
-You can find the list of conferences in JSON format https://javaconferences.org/conferences.json).
-This is limited to the conferences from this year and the next year.
+You can find the list of conferences in JSON format https://javaconferences.org/conferences.json), limited to the conferences from this year and the next year.
 
 ## Additions, Changes, Corrections?
 
