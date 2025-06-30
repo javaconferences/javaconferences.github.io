@@ -72,6 +72,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Confitura](https://2025.confitura.pl) | Warsaw, Poland | no | 19-20 September | [Link](https://app.confitura.pl/login) (Closes 31 July 2025) 🟢 |
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | [Link](https://jugsaxony.org/day/callforpapers_en/) (Closed 15 April 2025)  |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | [Link](https://www.dev2next.com/cfp) (Closed 11 April 2025)  |
+| [JCON USA @ IBM TechXchange 2025](https://usa.jcon.one/) | Orlando, Florida, USA | no | 06-09 October 2025 | [Link](https://sessionize.com/jcon-ibm-techxchange-2025) (Closed 27 April 2025) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 6-10  October 2025 | [Link](https://dvbe25.cfp.dev/) (Closes 18 July 2025) 🟢 |
 | [BED-Con](https://bed-con.org/) | Berlin, Germany | no | 7-8 October 2025 | [Link](https://sessionize.com/bed-con-2025) (Closed 30 April 2025) |
 | [JavaCro](https://2025.javacro.hr/eng/) | Rovinj, Croatia | no | 12-15 October 2025 | [Link](https://sessionize.com/javacro25) (Closed 15 May 2025) |
