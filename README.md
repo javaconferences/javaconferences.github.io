@@ -69,7 +69,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 13-15 August 2025 | [Link](https://sessionize.com/kcdc-2025) (Closed 22 February 2025) |
 | [JavaZone](https://2025.javazone.no/en) | Oslo, Norway | no | 3-4 September 2025 | [Link](https://talks.javazone.no/) (Closed 28 April 2025)  |
 | [Java Forum Nord](https://javaforumnord.de/2025/) | Hannover, Germany | no | 16 September 2025 | [Link](https://sessionize.com/java-forum-nord-2025/) (Closed 5 May 2025) |
-| [JCConf Taiwan](https://jcconf.tw/2025/) | Taipei, Taiwan | no | 19 September 2025 | [Link](https://pretalx.com/jcconf-2025/cfp) (Closes 8 June 2025) 🟢 |
+| [JCConf Taiwan](https://jcconf.tw/2025/) | Taipei, Taiwan | no | 19 September 2025 | [Link](https://pretalx.com/jcconf-2025/cfp) (Closed 8 June 2025) |
 | [Confitura](https://2025.confitura.pl) | Warsaw, Poland | no | 19-20 September | [Link](https://app.confitura.pl/login) (Closes 31 July 2025) 🟢 |
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | [Link](https://jugsaxony.org/day/callforpapers_en/) (Closed 15 April 2025)  |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | [Link](https://www.dev2next.com/cfp) (Closed 11 April 2025)  |
@@ -79,14 +79,14 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JavaCro](https://2025.javacro.hr/eng/) | Rovinj, Croatia | no | 12-15 October 2025 | [Link](https://sessionize.com/javacro25) (Closed 15 May 2025) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 15-16 October 2025 | [Link](https://sessionize.com/baselone25/) (Closed 1 April 2025) |
 | [DEVJVM](https://devjvm.com/) | Barranquilla, Colombia | no | 25 October 2025 | [Link](https://sessionize.com/devjvm/) (Closed 30 June 2025) |
-| [ChurConf](https://churconf.com) | Auckland, New Zealand | no | 2 November 2025 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSczi302jwFllDZCNLhWU8kFWCxLfJR2CtpM_KbFD-V0pUSz2w/viewform) 🟢 |
+| [ChurConf](https://churconf.com) | Auckland, New Zealand | no | 2 November 2025 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSczi302jwFllDZCNLhWU8kFWCxLfJR2CtpM_KbFD-V0pUSz2w/viewform) (Closes 31 July 2025) 🟢 |
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 3-7 November 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closed 12 May 2025) |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 5-7 November 2025 | [Link](https://oredev.org/callforpaper) (Closed 31 March 2025) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 6 November 2025 | [Link](https://sessionize.com/jfall25) (Closes 1 September 2025) 🟢 |
-| [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | Thessaloniki, Greece | no | 7-8 November 2025 | [Link](https://vdthess25.cfp.dev/) (Closes 20 June 2025) 🟢 |
-| [Devoxx Morocco](https://devoxx.ma) | Marrakech, Morocco | no | 12-14 November 2025 | [Link](https://dvma25.cfp.dev/) (Closes 29 June 2025) 🟢 |
+| [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | Thessaloniki, Greece | no | 7-8 November 2025 | [Link](https://vdthess25.cfp.dev/) (Closed 20 June 2025) |
+| [Devoxx Morocco](https://devoxx.ma) | Marrakech, Morocco | no | 12-14 November 2025 | [Link](https://dvma25.cfp.dev/) (Closes 09 July 2025) 🟢 |
 | [QCon San Francisco](https://qconsf.com/) | San Francisco, USA | no |17-21 November 2025| By invitation |
-| [JakartaOne Livestram 2025](https://jakartaone.org/2025/) | online | no | 2 December 2025 | [Link](https://sessionize.com/jakartaone-livestream-2025/) (Closes September 15, 2025) 🟢 |
+| [JakartaOne Livestream 2025](https://jakartaone.org/2025/) | online | no | 2 December 2025 | [Link](https://sessionize.com/jakartaone-livestream-2025/) (Closes September 15, 2025) 🟢 |
 
 
 ### 2024
