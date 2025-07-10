@@ -7,6 +7,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
+| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | - |
+| [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | - |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | - |
 
 
@@ -84,7 +86,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 5-7 November 2025 | [Link](https://oredev.org/callforpaper) (Closed 31 March 2025) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 6 November 2025 | [Link](https://sessionize.com/jfall25) (Closes 1 September 2025) 🟢 |
 | [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | Thessaloniki, Greece | no | 7-8 November 2025 | [Link](https://vdthess25.cfp.dev/) (Closed 20 June 2025) |
-| [Devoxx Morocco](https://devoxx.ma) | Marrakech, Morocco | no | 12-14 November 2025 | [Link](https://dvma25.cfp.dev/) (Closes 09 July 2025) 🟢 |
+| [Devoxx Morocco](https://devoxx.ma) | Marrakech, Morocco | no | 12-14 November 2025 | [Link](https://dvma25.cfp.dev/) (Closed 09 July 2025) |
 | [QCon San Francisco](https://qconsf.com/) | San Francisco, USA | no |17-21 November 2025| By invitation |
 | [JakartaOne Livestream 2025](https://jakartaone.org/2025/) | online | no | 2 December 2025 | [Link](https://sessionize.com/jakartaone-livestream-2025/) (Closes September 15, 2025) 🟢 |
 
