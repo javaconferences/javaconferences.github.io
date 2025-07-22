@@ -8,6 +8,10 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | --- | --- | ---: | ---: | --- |
 | [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
 | [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | - |
+| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Opens 15 September 2025, Closes around 20 October 2025) |
+| [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Opens 15 September 2025, Closes around 20 October 2025) |
+| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closes 16 September 2025) |
+| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdt26.cfp.dev/) (Opens 13 October 2025, Closes around 1 December 2025) |
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | - |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | - |
 
@@ -76,7 +80,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | [Link](https://jugsaxony.org/day/callforpapers_en/) (Closed 15 April 2025)  |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | [Link](https://www.dev2next.com/cfp) (Closed 11 April 2025)  |
 | [JCON USA @ IBM TechXchange 2025](https://usa.jcon.one/) | Orlando, Florida, USA | no | 06-09 October 2025 | [Link](https://sessionize.com/jcon-ibm-techxchange-2025) (Closed 27 April 2025) |
-| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 6-10  October 2025 | [Link](https://dvbe25.cfp.dev/) (Closes 18 July 2025) 🟢 |
+| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 6-10  October 2025 | [Link](https://dvbe25.cfp.dev/) (Closed 18 July 2025) |
 | [BED-Con](https://bed-con.org/) | Berlin, Germany | no | 7-8 October 2025 | [Link](https://sessionize.com/bed-con-2025) (Closed 30 April 2025) |
 | [JavaCro](https://2025.javacro.hr/eng/) | Rovinj, Croatia | no | 12-15 October 2025 | [Link](https://sessionize.com/javacro25) (Closed 15 May 2025) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 15-16 October 2025 | [Link](https://sessionize.com/baselone25/) (Closed 1 April 2025) |
