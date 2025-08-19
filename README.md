@@ -7,7 +7,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
-| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | - |
+| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | [Link](https://sessionize.com/jfokus-2026) (Closes 30 September 2025) 🟢 |
 | [ConFoo](https://confoo.ca/en/2026) | Montreal, Canada | no | 25-27 February 2026 | [Link](https://confoo.ca/en/2026/call-for-papers) (Closes 21 September 2025) 🟢 |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Opens 15 September 2025, Closes around 20 October 2025) |
 | [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Opens 15 September 2025, Closes around 20 October 2025) |
