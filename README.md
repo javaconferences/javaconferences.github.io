@@ -17,6 +17,10 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdt26.cfp.dev/) (Opens 13 October 2025, Closes around 1 December 2025) |
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | - |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | - |
+| [Devoxx France](http://devoxx.fr/) | Paris, France | no | 20-24 April 2026 | - |
+| [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | - |
+| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17 June 2026 | - |
+
 
 
 ### 2025
