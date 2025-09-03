@@ -9,12 +9,12 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
 | [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | [Link](https://sessionize.com/jfokus-2026) (Closes 30 September 2025) 🟢 |
 | [ConFoo](https://confoo.ca/en/2026) | Montreal, Canada | no | 25-27 February 2026 | [Link](https://confoo.ca/en/2026/call-for-papers) (Closes 21 September 2025) 🟢 |
-| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Opens 15 September 2025, Closes around 20 October 2025) |
-| [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Opens 15 September 2025, Closes around 20 October 2025) |
+| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Opens 15 September 2025, Closes 20 October 2025) |
+| [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Opens 15 September 2025, Closes 20 October 2025) |
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 4-6 March 2026 | [Link](https://sessionize.com/devnexus-2026/) (Closes 10 September 2025) 🟢 |
-| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closes 16 September 2025) |
+| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closes 16 September 2025) 🟢 |
 | [JavaOne](https://www.oracle.com/javaone/) | Bay Area, CA, USA | no | 17–19 March 2026 | - |
-| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdt26.cfp.dev/) (Opens 13 October 2025, Closes around 1 December 2025) |
+| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdt26.cfp.dev/) (Opens 13 October 2025, Closes 1 December 2025) |
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | - |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | - |
 | [Devoxx France](http://devoxx.fr/) | Paris, France | no | 20-24 April 2026 | - |
