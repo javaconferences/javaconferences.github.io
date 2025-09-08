@@ -19,6 +19,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Opens 09 September 2025, Closes 24 October 2025) |
 | [Devoxx France](http://devoxx.fr/) | Paris, France | no | 20-24 April 2026 | - |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | - |
+| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | - |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closes 31 October, 2025) |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17 June 2026 | - |
 
@@ -84,7 +85,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JavaZone](https://2025.javazone.no/en) | Oslo, Norway | no | 3-4 September 2025 | [Link](https://talks.javazone.no/) (Closed 28 April 2025)  |
 | [Java Forum Nord](https://javaforumnord.de/2025/) | Hannover, Germany | no | 16 September 2025 | [Link](https://sessionize.com/java-forum-nord-2025/) (Closed 5 May 2025) |
 | [JCConf Taiwan](https://jcconf.tw/2025/) | Taipei, Taiwan | no | 19 September 2025 | [Link](https://pretalx.com/jcconf-2025/cfp) (Closed 8 June 2025) |
-| [Confitura](https://2025.confitura.pl) | Warsaw, Poland | no | 19-20 September | [Link](https://app.confitura.pl/login) (Closes 31 July 2025) |
+| [Confitura](https://2025.confitura.pl) | Warsaw, Poland | no | 19-20 September | [Link](https://app.confitura.pl/login) (Closed 31 July 2025) |
 | [JUG Saxony Day](https://jugsaxony.org/day/) | Dresden, Germany | no | 26 September 2025 | [Link](https://jugsaxony.org/day/callforpapers_en/) (Closed 15 April 2025)  |
 | [dev2next](https://www.dev2next.com/) | Colorado Springs, CO, USA | no | 29 September - 2 October 2025 | [Link](https://www.dev2next.com/cfp) (Closed 11 April 2025)  |
 | [JCON USA @ IBM TechXchange 2025](https://usa.jcon.one/) | Orlando, Florida, USA | no | 06-09 October 2025 | [Link](https://sessionize.com/jcon-ibm-techxchange-2025) (Closed 27 April 2025) |
@@ -94,7 +95,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 15-16 October 2025 | [Link](https://sessionize.com/baselone25/) (Closed 1 April 2025) |
 | [I Code Java Africa](https://j-sa.co/) | Johannesburg, South Africa | no | 15-16 October 2025 | [Link](https://j-sa.co/) (Closed 1 July 2025) |
 | [DEVJVM](https://devjvm.com/) | Barranquilla, Colombia | no | 25 October 2025 | [Link](https://sessionize.com/devjvm/) (Closed 30 June 2025) |
-| [ChurConf](https://churconf.com) | Auckland, New Zealand | no | 2 November 2025 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSczi302jwFllDZCNLhWU8kFWCxLfJR2CtpM_KbFD-V0pUSz2w/viewform) (Closes 31 July 2025) |
+| [ChurConf](https://churconf.com) | Auckland, New Zealand | no | 2 November 2025 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSczi302jwFllDZCNLhWU8kFWCxLfJR2CtpM_KbFD-V0pUSz2w/viewform) (Closed 31 July 2025) |
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 3-7 November 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closed 12 May 2025) |
 | [XtremeJ](https://xtremej.dev/2025/) | online | no | 4 November 2025 | [Link](https://xtremej.dev/2025/speakers/) (Closes September 20, 2025) 🟢 |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 5-7 November 2025 | [Link](https://oredev.org/callforpaper) (Closed 31 March 2025) |
