@@ -4,9 +4,6 @@
 import org.commonmark.ext.gfm.tables.TablesExtension;
 import org.commonmark.parser.Parser;
 import org.commonmark.renderer.html.HtmlRenderer;
-import org.commonmark.renderer.html.AttributeProvider;
-import org.commonmark.renderer.html.AttributeProviderContext;
-import org.commonmark.renderer.html.AttributeProviderFactory;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.BufferedReader;
@@ -19,7 +16,6 @@ import java.net.http.HttpResponse;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.Duration;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
@@ -52,22 +48,14 @@ class ConferenceReader implements AutoCloseable {
     private final Logger logger = Logger.getLogger(getClass().getSimpleName());
 
     private final BufferedReader reader;
-    private final String start;
-    private final String end;
     private final HttpClient client;
 
-    private Boolean skip;
-
-    public ConferenceReader(final BufferedReader reader,
-                            final String start, final String end) {
+    public ConferenceReader(final BufferedReader reader) {
         this.reader = reader;
-        this.start = start;
-        this.end = end;
         this.client = HttpClient.newBuilder()
                 .executor(ForkJoinPool.commonPool())
                 .followRedirects(HttpClient.Redirect.ALWAYS)
                 .build();
-
     }
 
     public List<Conference> read() throws ExecutionException, InterruptedException {
@@ -156,7 +144,7 @@ class ConferenceReader implements AutoCloseable {
             return completedFuture(new Coordinate(0., 0., "Online"));
         }
 
-        // try to lookup the location if not present
+        // try to look up the location if not present
         // Note: "https://nominatim.openstreetmap.org" was down when writing the script
         final var uri = URI.create("https://nominatim.terrestris.de" +
                 "/search.php?" +
@@ -252,7 +240,7 @@ record GithubPages(Path source, Path output) {
         final var renderer = HtmlRenderer.builder()
           .extensions(extensions)
           // Add attribute provider to open links in new windows
-          .attributeProviderFactory(context -> (node, tagName, attributes) -> {
+          .attributeProviderFactory(ignored -> (node, tagName, attributes) -> {
               if (node instanceof org.commonmark.node.Link && "a".equals(tagName)) {
                   // Add target="_blank" and rel="noopener" for security to all links
                   attributes.put("target", "_blank");
@@ -533,7 +521,7 @@ record GithubPages(Path source, Path output) {
         if (!Files.exists(source)) {
             throw new IllegalArgumentException("Invalid source: '" + source + "'");
         }
-        try (final var reader = new ConferenceReader(Files.newBufferedReader(source), "### 2026", "##")) {
+        try (final var reader = new ConferenceReader(Files.newBufferedReader(source))) {
             return reader.read();
         }
     }
