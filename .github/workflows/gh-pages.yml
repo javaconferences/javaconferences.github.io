@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-java@v5
         with:
           distribution: 'zulu'
-          java-version: '24'
+          java-version: '25'
       - name: "Build Github Pages"
         run: |
           mkdir -p target
