@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: "Checkout"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
       - name: Set up JDK
         uses: actions/setup-java@v3
         with:
@@ -19,8 +19,8 @@ jobs:
       - name: "Build Github Pages"
         run: |
           mkdir -p target
-          curl https://repo1.maven.org/maven2/org/commonmark/commonmark/0.19.0/commonmark-0.19.0.jar -o target/commonmark.jar
-          curl https://repo1.maven.org/maven2/org/commonmark/commonmark-ext-gfm-tables/0.19.0/commonmark-ext-gfm-tables-0.19.0.jar -o target/commonmark-ext-gfm-tables.jar
+          curl https://repo1.maven.org/maven2/org/commonmark/commonmark/0.26.0/commonmark-0.26.0.jar -o target/commonmark.jar
+          curl https://repo1.maven.org/maven2/org/commonmark/commonmark-ext-gfm-tables/0.26.0/commonmark-ext-gfm-tables-0.26.0.jar -o target/commonmark-ext-gfm-tables.jar
           curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.19.2/jackson-core-2.19.2.jar -o target/jackson-core.jar
           curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.19.2/jackson-databind-2.19.2.jar -o target/jackson-databind.jar
           curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.19.2/jackson-annotations-2.19.2.jar -o target/jackson-annotations.jar
