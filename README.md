@@ -99,7 +99,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [DEVJVM](https://devjvm.com/) | Barranquilla, Colombia | no | 25 October 2025 | [Link](https://sessionize.com/devjvm/) (Closed 30 June 2025) |
 | [ChurConf](https://churconf.com) | Auckland, New Zealand | no | 2 November 2025 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSczi302jwFllDZCNLhWU8kFWCxLfJR2CtpM_KbFD-V0pUSz2w/viewform) (Closed 31 July 2025) |
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 3-7 November 2025 | [Link](https://callforpapers.sandsmedia.com/) (Closed 12 May 2025) |
-| [XtremeJ](https://xtremej.dev/2025/) | online | no | 4 November 2025 | [Link](https://xtremej.dev/2025/speakers/) (Closes 20 September, 2025) 🟢 |
+| [XtremeJ](https://xtremej.dev/2025/) | online | no | 4 November 2025 | [Link](https://xtremej.dev/2025/speakers/) (Closed 20 September, 2025) |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 5-7 November 2025 | [Link](https://oredev.org/callforpaper) (Closed 31 March 2025) |
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 6 November 2025 | [Link](https://sessionize.com/jfall25) (Closed 1 September 2025) |
 | [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | Thessaloniki, Greece | no | 7-8 November 2025 | [Link](https://vdthess25.cfp.dev/) (Closed 20 June 2025) |
