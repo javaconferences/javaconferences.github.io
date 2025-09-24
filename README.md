@@ -1,6 +1,6 @@
 # Upcoming Java Conferences
 
-Missing a conference, seeing an issue or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
+Missing a conference, seeing an issue, or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
 ### 2026
 
@@ -9,23 +9,22 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
 | [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | [Link](https://sessionize.com/jfokus-2026) (Closes 30 September 2025) 🟢 |
 | [ConFoo](https://confoo.ca/en/2026) | Montreal, Canada | no | 25-27 February 2026 | [Link](https://confoo.ca/en/2026/call-for-papers) (Closes 21 September 2025) 🟢 |
-| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Closes 20 October 2025) 🟢 |
-| [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Closes 20 October 2025) 🟢 |
+| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Closes 21 October 2025) 🟢 |
+| [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Closes 21 October 2025) 🟢 |
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 4-6 March 2026 | [Link](https://sessionize.com/devnexus-2026/) (Closed 15 September 2025) |
 | [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closed 16 September 2025) |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2026) | Weiden, Germany | no | 13 March 2026 | [Link](https://sessionize.com/digital-crafts-day-2026/) (Closes 31 October 2025) 🟢 |
 | [JavaOne](https://www.oracle.com/javaone/) | Bay Area, CA, USA | no | 17–19 March 2026 | - |
-| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdt26.cfp.dev/) (Opens 13 October 2025, Closes 1 December 2025) |
+| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdt26.cfp.dev/) (Opens 6 October 2025, Closes 1 December 2025) |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 1-2 April 2026 | - |
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | - |
-| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closed 31 December 2025) |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closes 31 December 2025) |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Closes 10 October 2025) 🟢 |
 | [Devoxx France](http://devoxx.fr/) | Paris, France | no | 20-24 April 2026 | - |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | - |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | - |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closes 31 October, 2025) 🟢 |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17 June 2026 | - |
-
 
 
 ### 2025
@@ -110,6 +109,8 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 4-5 December 2025 | [Link](https://forms.gle/nKreGcpfzx4zsLhU7) (Closes 30 September, 2025) 🟢 |
 
 
+## Archive
+
 ### 2024
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
@@ -174,10 +175,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [JakartaOne Livestram 2024](https://jakartaone.org/2024/) | online | no | 3 December 2024 | [Link](https://www.papercall.io/jakartaone-2024) (Closed September 15, 2024 |
 
 
-## Archive
-
 ### 2023
-
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
@@ -254,7 +252,7 @@ You can find the list of conferences in [JSON format](https://javaconferences.or
 
 ## Additions, Changes, Corrections?
 
-If you want to add a conference, update it, fix a mistake? Please send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
+If you want to add a conference, update it, or fix a mistake? Please send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
 ## Java Champions
 
@@ -262,7 +260,7 @@ If you are looking for a list of Java Champions to talk at your conference, plea
 
 ## Java User Groups
 
-If there's no open CFP, or the dates and locations don't work out for you, consider submmiting a talk to one of the [Java User Groups](https://dev.java/community/jugs/).
+If there's no open CFP or the dates and locations don't work out for you, consider submitting a talk to one of the [Java User Groups](https://dev.java/community/jugs/).
 
 ## More Conferences!
 
