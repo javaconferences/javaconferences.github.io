@@ -7,8 +7,8 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
 | [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
-| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | [Link](https://sessionize.com/jfokus-2026) (Closes 30 September 2025) 🟢 |
-| [ConFoo](https://confoo.ca/en/2026) | Montreal, Canada | no | 25-27 February 2026 | [Link](https://confoo.ca/en/2026/call-for-papers) (Closes 21 September 2025) 🟢 |
+| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | [Link](https://sessionize.com/jfokus-2026) (Closed 30 September 2025) |
+| [ConFoo](https://confoo.ca/en/2026) | Montreal, Canada | no | 25-27 February 2026 | [Link](https://confoo.ca/en/2026/call-for-papers) (Closed 21 September 2025) |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Closes 21 October 2025) 🟢 |
 | [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Closes 21 October 2025) 🟢 |
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 4-6 March 2026 | [Link](https://sessionize.com/devnexus-2026/) (Closed 15 September 2025) |
@@ -106,7 +106,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devoxx Morocco](https://devoxx.ma) | Marrakech, Morocco | no | 12-14 November 2025 | [Link](https://dvma25.cfp.dev/) (Closed 09 July 2025) |
 | [QCon San Francisco](https://qconsf.com/) | San Francisco, USA | no |17-21 November 2025| By invitation |
 | [JakartaOne Livestream 2025](https://jakartaone.org/2025/) | online | no | 2 December 2025 | [Link](https://sessionize.com/jakartaone-livestream-2025/) (Closed 15 September, 2025) |
-| [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 4-5 December 2025 | [Link](https://forms.gle/nKreGcpfzx4zsLhU7) (Closes 30 September, 2025) 🟢 |
+| [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 4-5 December 2025 | [Link](https://forms.gle/nKreGcpfzx4zsLhU7) (Closed 30 September, 2025) |
 
 
 ## Archive
