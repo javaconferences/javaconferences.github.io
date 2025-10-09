@@ -15,8 +15,8 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closed 16 September 2025) |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2026) | Weiden, Germany | no | 13 March 2026 | [Link](https://sessionize.com/digital-crafts-day-2026/) (Closes 31 October 2025) 🟢 |
 | [JavaOne](https://www.oracle.com/javaone/) | Bay Area, CA, USA | no | 17–19 March 2026 | - |
-| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdt26.cfp.dev/) (Opens 6 October 2025, Closes 1 December 2025) |
-| [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 1-2 April 2026 | - |
+| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdz26.cfp.dev) (Closes 1 December 2025) |
+| [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 1-2 April 2026 | [Link](https://vdams26.cfp.dev/) (Closes 19 December 2025)|
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | - |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closes 31 December 2025) 🟢 |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Closes 10 October 2025) 🟢 |
