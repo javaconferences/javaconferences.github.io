@@ -14,7 +14,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 4-6 March 2026 | [Link](https://sessionize.com/devnexus-2026/) (Closed 15 September 2025) |
 | [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closed 16 September 2025) |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2026) | Weiden, Germany | no | 13 March 2026 | [Link](https://sessionize.com/digital-crafts-day-2026/) (Closes 31 October 2025) 🟢 |
-| [JavaOne](https://www.oracle.com/javaone/) | Bay Area, CA, USA | no | 17–19 March 2026 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone26/CWTCFP/cfpHome) 🟢 |
+| [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 17–19 March 2026 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone26/CWTCFP/cfpHome) (Closes 11 November 2025) 🟢 |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdz26.cfp.dev) (Closes 1 December 2025) 🟢 |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 1-2 April 2026 | [Link](https://vdams26.cfp.dev/) (Closes 19 December 2025) 🟢 |
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | [Link](https://sessionize.com/springio26) (Closes 09 January 2026) 🟢 |
