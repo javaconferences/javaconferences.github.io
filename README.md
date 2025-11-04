@@ -25,7 +25,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) | Bucharest, Romania | no | 28-29 April 2026 | [Link](https://vdbuh2026.cfp.dev/#) (Closes 21 December 2025) 🟢 |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | - |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closes 14 November, 2025) 🟢|
-| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17 June 2026 | - |
+| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | - |
 
 
 ### 2025
