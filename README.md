@@ -106,6 +106,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [J-Fall](https://jfall.nl) | Ede, The Netherlands | no | 6 November 2025 | [Link](https://sessionize.com/jfall25) (Closed 1 September 2025) |
 | [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | Thessaloniki, Greece | no | 7-8 November 2025 | [Link](https://vdthess25.cfp.dev/) (Closed 20 June 2025) |
 | [Devoxx Morocco](https://devoxx.ma) | Marrakech, Morocco | no | 12-14 November 2025 | [Link](https://dvma25.cfp.dev/) (Closed 09 July 2025) |
+| [JJUG CCC 2025 Fall](https://ccc2025fall.java-users.jp/) | Tokyo, Japan | no | 15 November 2025 | [Link](https://sessionize.com/jjug-ccc-2025-fall/) (Closed August 31, 2025) |
 | [QCon San Francisco](https://qconsf.com/) | San Francisco, USA | no |17-21 November 2025| By invitation |
 | [JakartaOne Livestream 2025](https://jakartaone.org/2025/) | online | no | 2 December 2025 | [Link](https://sessionize.com/jakartaone-livestream-2025/) (Closed 15 September, 2025) |
 | [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 4-5 December 2025 | [Link](https://forms.gle/nKreGcpfzx4zsLhU7) (Closed 30 September, 2025) |
