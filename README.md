@@ -21,11 +21,11 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closes 31 December 2025) 🟢 |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Closed 24 October 2025) |
 | [Devoxx France](http://devoxx.fr/) | Paris, France | no | 22-24 April 2026 | [Link](https://devoxxfr2026.cfp.dev/) (Closes 11 January 2026) 🟢 |
-| [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | [Link](https://dvgr26.cfp.dev/) (Closes 30 November 2025) 🟢 |
+| [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | [Link](https://dvgr26.cfp.dev/) (Closed 30 November 2025) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) | Bucharest, Romania | no | 28-29 April 2026 | [Link](https://vdbuh2026.cfp.dev/#) (Closes 21 December 2025) 🟢 |
-| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | - |
+| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | [Link](https://devoxxuk26.cfp.dev/) (Closes 10 January 2026) 🟢 |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closed 14 November 2025) |
-| [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closes 30 November 2025) 🟢 |
+| [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closes 10 January 2026) 🟢 |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | - |
