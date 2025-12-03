@@ -29,9 +29,11 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closes 10 January 2026) 🟢 |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 3-4 June 2026 | [Link](https://jprime.io/cfp) (Closes 15 February 2026) 🟢 |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
+| [J-Spring](https://jspring.nl) | Utrecht, Netherlands | no | 4 June 2026 | - |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | - |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | - |
+| [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 12 November 2026 | - |
 
 
 ### 2025
