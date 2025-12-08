@@ -18,7 +18,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdz26.cfp.dev) (Closes 1 December 2025) 🟢 |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 1-2 April 2026 | [Link](https://vdams26.cfp.dev/) (Closes 19 December 2025) 🟢 |
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | [Link](https://sessionize.com/springio26) (Closes 09 January 2026) 🟢 |
-| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closes 31 December 2025) 🟢 |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closes 15 December 2025) 🟢 |
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Closed 24 October 2025) |
 | [Devoxx France](http://devoxx.fr/) | Paris, France | no | 22-24 April 2026 | [Link](https://devoxxfr2026.cfp.dev/) (Closes 11 January 2026) 🟢 |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | [Link](https://dvgr26.cfp.dev/) (Closed 30 November 2025) |
