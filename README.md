@@ -28,6 +28,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closed 14 November 2025) |
 | [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closes 10 January 2026) 🟢 |
+| [JCON Slovenia](https://slovenia.jcon.one/) | Portorož, Slovenia | no | 27-29 May 2026 | [Link](https://sessionize.com/makeit-2026-jcon-slovenia/) (Closes 16 January 2026) 🟢 |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 3-4 June 2026 | [Link](https://jprime.io/cfp) (Closes 15 February 2026) 🟢 |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, Netherlands | no | 4 June 2026 | [Link](https://sessionize.com/jspring26) (Closes 29 Mar 2026) 🟢 |
