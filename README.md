@@ -263,6 +263,9 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 You can find the list of conferences in [JSON format](https://javaconferences.org/conferences.json), limited to the conferences from this year and the next year.
 
+### MCP Server
+The [JavaConf MCP Server](https://github.com/bmvermeer/javaconfmcp) can be used in your AI Assitent or Agent 
+
 ## Additions, Changes, Corrections?
 
 If you want to add a conference, update it, or fix a mistake? Please send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
