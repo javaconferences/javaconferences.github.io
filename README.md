@@ -4,39 +4,40 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 ### 2026
 
-| Conference | Location | Hybrid | (Expected) Date | CFP Link |
-| --- | --- | ---: | ---: | --- |
-| [jChampions](https://jchampionsconf.com/index.html) | online | no | 22-27 January 2026 | - |
-| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 2-4 February 2026 | [Link](https://sessionize.com/jfokus-2026) (Closed 30 September 2025) |
-| [ConFoo](https://confoo.ca/en/2026) | Montreal, Canada | no | 25-27 February 2026 | [Link](https://confoo.ca/en/2026/call-for-papers) (Closed 21 September 2025) |
-| [Voxxed Days Ticino](https://ticino.voxxeddays.com/) | Lugano, Switzerland | no | 6 February 2026 | [Link](https://vdt26.cfp.dev/) (Closed 21 October 2025) |
-| [Voxxed Days CERN](https://cern.voxxeddays.com/) | Geneva, Switzerland | no | 10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Closed 21 October 2025) |
-| [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 4-6 March 2026 | [Link](https://sessionize.com/devnexus-2026/) (Closed 15 September 2025) |
-| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closed 16 September 2025) |
-| [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2026) | Weiden, Germany | no | 13 March 2026 | [Link](https://sessionize.com/digital-crafts-day-2026/) (Closed 31 October 2025) |
-| [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 17–19 March 2026 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone26/CWTCFP/cfpHome) (Closed 11 November 2025) |
-| [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdz26.cfp.dev) (Closed 1 December 2025) |
-| [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 1-2 April 2026 | [Link](https://vdams26.cfp.dev/) (Closed 19 December 2025) |
-| [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | [Link](https://sessionize.com/springio26) (Closes 09 January 2026) 🟢 |
-| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closed 15 December 2025) |
-| [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Closed 24 October 2025) |
-| [Devoxx France](http://devoxx.fr/) | Paris, France | no | 22-24 April 2026 | [Link](https://devoxxfr2026.cfp.dev/) (Closes 11 January 2026) 🟢 |
-| [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | [Link](https://dvgr26.cfp.dev/) (Closed 30 November 2025) |
-| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) | Bucharest, Romania | no | 28-29 April 2026 | [Link](https://vdbuh2026.cfp.dev/#) (Closed 21 December 2025) |
-| [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 4-8 May 2026 | [Link](https://callforpapers.sandsmedia.com/) (closed November 2025) |
-| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | [Link](https://devoxxuk26.cfp.dev/) (Closes 10 January 2026) 🟢 |
-| [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closed 14 November 2025) |
-| [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
-| [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closes 10 January 2026) 🟢 |
-| [JCON Slovenia](https://slovenia.jcon.one/) | Portorož, Slovenia | no | 27-29 May 2026 | [Link](https://sessionize.com/makeit-2026-jcon-slovenia/) (Closes 16 January 2026) 🟢 |
-| [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 3-4 June 2026 | [Link](https://jprime.io/cfp) (Closes 15 February 2026) 🟢 |
-| [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
-| [J-Spring](https://jspring.nl) | Utrecht, Netherlands | no | 4 June 2026 | [Link](https://sessionize.com/jspring26) (Closes 29 Mar 2026) 🟢 |
-| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | - |
-| [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (will open soon)  |
-| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
-| [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | - |
-| [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 12 November 2026 | - |
+| Conference                                                                          | Location                   | Hybrid |     (Expected) Date | CFP Link                                                                                         |
+|-------------------------------------------------------------------------------------|----------------------------| ---: |--------------------:|--------------------------------------------------------------------------------------------------|
+| [jChampions](https://jchampionsconf.com/index.html)                                 | online                     | no |  22-27 January 2026 | -                                                                                                |
+| [Jfokus](https://www.jfokus.se/)                                                    | Stockholm, Sweden          | no |   2-4 February 2026 | [Link](https://sessionize.com/jfokus-2026) (Closed 30 September 2025)                            |
+| [ConFoo](https://confoo.ca/en/2026)                                                 | Montreal, Canada           | no | 25-27 February 2026 | [Link](https://confoo.ca/en/2026/call-for-papers) (Closed 21 September 2025)                     |
+| [Voxxed Days Ticino](https://ticino.voxxeddays.com/)                                | Lugano, Switzerland        | no |     6 February 2026 | [Link](https://vdt26.cfp.dev/) (Closed 21 October 2025)                                          |
+| [Voxxed Days CERN](https://cern.voxxeddays.com/)                                    | Geneva, Switzerland        | no |    10 February 2026 | [Link](https://vdcern26.cfp.dev/) (Closed 21 October 2025)                                       |
+| [Devnexus](https://devnexus.com/)                                                   | Atlanta, GA, USA           | no |      4-6 March 2026 | [Link](https://sessionize.com/devnexus-2026/) (Closed 15 September 2025)                         |
+| [JavaLand](https://www.javaland.eu/)                                                | Europa Park Rust, Germany  | no |    10-12 March 2026 | [Link](https://www.javaland.eu/en/speaking/) (Closed 16 September 2025)                          |
+| [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2026)             | Weiden, Germany            | no |       13 March 2026 | [Link](https://sessionize.com/digital-crafts-day-2026/) (Closed 31 October 2025)                 |
+| [JavaOne](https://www.oracle.com/javaone/)                                          | Redwood City, CA, USA      | no |    17–19 March 2026 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone26/CWTCFP/cfpHome) (Closed 11 November 2025) |
+| [Voxxed Days Zurich](https://zurich.voxxeddays.com/)                                | Zurich, Switzerland        | no |       24 March 2026 | [Link](https://vdz26.cfp.dev) (Closed 1 December 2025)                                           |
+| [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/)                          | Amsterdam, The Netherlands | no |      1-2 April 2026 | [Link](https://vdams26.cfp.dev/) (Closed 19 December 2025)                                       |
+| [Spring I/O](https://2025.springio.net/)                                            | Barcelona, Spain           | no |    13-15 April 2026 | [Link](https://sessionize.com/springio26) (Closes 09 January 2026) 🟢                            |
+| [Java Day Istanbul](https://javaday.istanbul)                                       | Istanbul, Turkiye          | no |       18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closed 15 December 2025)                   |
+| [JCON EUROPE](https://2026.europe.jcon.one/)                                        | Cologne, Germany           | no |    20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Closed 24 October 2025)                         |
+| [Devoxx France](http://devoxx.fr/)                                                  | Paris, France              | no |    22-24 April 2026 | [Link](https://devoxxfr2026.cfp.dev/) (Closes 11 January 2026) 🟢                                |
+| [Devoxx Greece](https://devoxx.gr/)                                                 | Athens, Greece             | no |    23-25 April 2026 | [Link](https://dvgr26.cfp.dev/) (Closed 30 November 2025)                                        |
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) | Bucharest, Romania         | no |    28-29 April 2026 | [Link](https://vdbuh2026.cfp.dev/#) (Closed 21 December 2025)                                    |
+| [JAX](https://jax.de/mainz/)                                                        | Mainz, Germany             | yes |        4-8 May 2026 | [Link](https://callforpapers.sandsmedia.com/) (closed November 2025)                             |
+| [Devoxx UK](https://www.devoxx.co.uk)                                               | London, UK                 | no |        6-7 May 2026 | [Link](https://devoxxuk26.cfp.dev/) (Closes 10 January 2026) 🟢                                  |
+| [Code Remix Summit](https://coderemix.ai/)                                          | Miami, FL, USA             | no |      11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closed 14 November 2025)                  |
+| [KotlinConf](https://kotlinconf.com/)                                               | Munich, Germany            | no |      21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025)                        |
+| [JNation](https://jnation.pt/)                                                      | Coimbra, Portugal          | no |      26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closes 10 January 2026) 🟢                          |
+| [JCON Slovenia](https://slovenia.jcon.one/)                                         | Portorož, Slovenia         | no |      27-29 May 2026 | [Link](https://sessionize.com/makeit-2026-jcon-slovenia/) (Closes 16 January 2026) 🟢            |
+| [jPrime](https://jprime.io)                                                         | Sofia, Bulgaria            | no |       3-4 June 2026 | [Link](https://jprime.io/cfp) (Closes 15 February 2026) 🟢                                       |
+| [DevTalks](https://devtalks.ro)                                                     | Bucharest, Romania         | no |       3-4 June 2026 | -                                                                                                |
+| [J-Spring](https://jspring.nl)                                                      | Utrecht, Netherlands       | no |         4 June 2026 | [Link](https://sessionize.com/jspring26) (Closes 29 Mar 2026) 🟢                                 |
+| [Devoxx Poland](https://devoxx.pl/)                                                 | Krakow, Poland             | no |     17-19 June 2026 | -                                                                                                |
+| [JavaZone](https://2026.javazone.no/)                                                      | Lillestøm, Norway          | no |  2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closes 13 April 2026) 🟢                              |
+| [JAX London](https://jaxlondon.com/)                                                | London, UK                 | yes |    5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (will open soon)                                   |
+| [Devoxx Belgium](https://devoxx.be)                                                 | Antwerp, Belgium           | no |    5-9 October 2026 | -                                                                                                |
+| [dev2next](https://www.dev2next.com/)                                               | Lone Tree, CO, USA         | no |  12-15 October 2026 | -                                                                                                |
+| [J-Fall](https://jfall.nl)                                                          | Ede, Netherlands           | no |    12 November 2026 | -                                                                                                |
 
 
 ### 2025
