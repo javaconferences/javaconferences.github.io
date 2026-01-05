@@ -32,6 +32,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 3-4 June 2026 | [Link](https://jprime.io/cfp) (Closes 15 February 2026) 🟢 |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, Netherlands | no | 4 June 2026 | [Link](https://sessionize.com/jspring26) (Closes 29 Mar 2026) 🟢 |
+| [DevBcn](devbcn.com) | Barcelona, Spain | no | 16-17 June 2026 | [Link](https://sessionize.com/devbcn26/) (Closes 28 February 2026) 🟢 |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | - |
 | [JavaZone](https://2026.javazone.no/) | Lillestøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closes 13 April 2026) 🟢 |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (will open soon)  |
