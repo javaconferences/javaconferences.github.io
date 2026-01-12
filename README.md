@@ -24,7 +24,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | [Link](https://dvgr26.cfp.dev/) (Closed 30 November 2025) |
 | [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) | Bucharest, Romania | no | 28-29 April 2026 | [Link](https://vdbuh2026.cfp.dev/#) (Closes 31 January 2026) 🟢 |
 | [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 4-8 May 2026 | [Link](https://callforpapers.sandsmedia.com/) (closed November 2025) |
-| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | [Link](https://devoxxuk26.cfp.dev/) (Closes 10 January 2026) 🟢 |
+| [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | [Link](https://devoxxuk26.cfp.dev/) (Closed 9 January 2026)                                      |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closed 14 November 2025) |
 | [GeeCON](https://2026.geecon.org/) | Krakow, Poland | no | 14-15 May 2026 | [Link](https://2026.geecon.org/cfp/) (Closes 30 January 2026) 🟢 |
 | [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
