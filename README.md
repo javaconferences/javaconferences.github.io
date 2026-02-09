@@ -31,7 +31,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closed 18 January 2026)                            |
 | [JCON Slovenia](https://slovenia.jcon.one/) | Portorož, Slovenia | no | 27-29 May 2026 | [Link](https://sessionize.com/makeit-2026-jcon-slovenia/) (Closed 22 January 2026)   |
-| [JJUG CCC 2026 Spring](https://ccc2026spring.java-users.jp/) | Tokyo, Japan | no | 30 May 2026 | [Link](https://sessionize.com/jjug-ccc-2026-spring/) (Closed 1 March 2026)   |
+| [JJUG CCC 2026 Spring](https://ccc2026spring.java-users.jp/) | Tokyo, Japan | no | 30 May 2026 | [Link](https://sessionize.com/jjug-ccc-2026-spring/) (Closed 1 March 2026) 🟢 |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 3-4 June 2026 | [Link](https://jprime.io/cfp) (Closes 15 February 2026) 🟢 |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, Netherlands | no | 4 June 2026 | [Link](https://sessionize.com/jspring26) (Closes 29 Mar 2026) 🟢 |
