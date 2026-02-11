@@ -23,11 +23,11 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JCON EUROPE](https://2026.europe.jcon.one/) | Cologne, Germany | no | 20-23 April 2026 | [Link](https://sessionize.com/jcon-europe-2026) (Closed 24 October 2025) |
 | [Devoxx France](http://devoxx.fr/) | Paris, France | no | 22-24 April 2026 | [Link](https://devoxxfr2026.cfp.dev/) (Closed 11 January 2026) |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 23-25 April 2026 | [Link](https://dvgr26.cfp.dev/) (Closed 30 November 2025) |
-| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) | Bucharest, Romania | no | 28-29 April 2026 | [Link](https://vdbuh2026.cfp.dev/#) (Closes 31 January 2026) 🟢 |
+| [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) | Bucharest, Romania | no | 28-29 April 2026 | [Link](https://vdbuh2026.cfp.dev/#) (Closed 31 January 2026) |
 | [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 4-8 May 2026 | [Link](https://callforpapers.sandsmedia.com/) (closed November 2025) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | [Link](https://devoxxuk26.cfp.dev/) (Closed 10 January 2026) |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closed 14 November 2025) |
-| [GeeCON](https://2026.geecon.org/) | Krakow, Poland | no | 14-15 May 2026 | [Link](https://2026.geecon.org/cfp/) (Closes 30 January 2026) 🟢 |
+| [GeeCON](https://2026.geecon.org/) | Krakow, Poland | no | 14-15 May 2026 | [Link](https://2026.geecon.org/cfp/) (Closed 30 January 2026) |
 | [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closed 18 January 2026)                            |
 | [JCON Slovenia](https://slovenia.jcon.one/) | Portorož, Slovenia | no | 27-29 May 2026 | [Link](https://sessionize.com/makeit-2026-jcon-slovenia/) (Closed 22 January 2026)   |
