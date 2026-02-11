@@ -42,6 +42,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | - |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | - |
+| [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closes 1 June 2026) 🟢 |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 12 November 2026 | - |
 
 
