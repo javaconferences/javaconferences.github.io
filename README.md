@@ -31,11 +31,11 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closed 18 January 2026)                            |
 | [JCON Slovenia](https://slovenia.jcon.one/) | Portorož, Slovenia | no | 27-29 May 2026 | [Link](https://sessionize.com/makeit-2026-jcon-slovenia/) (Closed 22 January 2026)   |
-| [JJUG CCC 2026 Spring](https://ccc2026spring.java-users.jp/) | Tokyo, Japan | no | 30 May 2026 | [Link](https://sessionize.com/jjug-ccc-2026-spring/) (Closed 1 March 2026) 🟢 |
+| [JJUG CCC 2026 Spring](https://ccc2026spring.java-users.jp/) | Tokyo, Japan | no | 30 May 2026 | [Link](https://sessionize.com/jjug-ccc-2026-spring/) (Closes 1 March 2026) 🟢 |
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 3-4 June 2026 | [Link](https://jprime.io/cfp) (Closes 15 February 2026) 🟢 |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, Netherlands | no | 4 June 2026 | [Link](https://sessionize.com/jspring26) (Closes 29 Mar 2026) 🟢 |
-| [DevBcn](devbcn.com) | Barcelona, Spain | no | 16-17 June 2026 | [Link](https://sessionize.com/devbcn26/) (Closes 28 February 2026) 🟢 |
+| [DevBcn](https://www.devbcn.com) | Barcelona, Spain | no | 16-17 June 2026 | [Link](https://sessionize.com/devbcn26/) (Closes 28 February 2026) 🟢 |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | [Link](https://devoxxpl26.cfp.dev) (Closes 28 February 2026) 🟢 |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closes 18 March 2026) 🟢 |
 | [JavaZone](https://2026.javazone.no/) | Lillestrøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closes 13 April 2026) 🟢 |
@@ -46,6 +46,8 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closes 1 June 2026) 🟢 |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 12 November 2026 | - |
 
+
+## Archive
 
 ### 2025
 
@@ -129,8 +131,6 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JakartaOne Livestream 2025](https://jakartaone.org/2025/) | online | no | 2 December 2025 | [Link](https://sessionize.com/jakartaone-livestream-2025/) (Closed 15 September, 2025) |
 | [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 4-5 December 2025 | [Link](https://forms.gle/nKreGcpfzx4zsLhU7) (Closed 30 September, 2025) |
 
-
-## Archive
 
 ### 2024
 
