@@ -27,6 +27,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 4-8 May 2026 | [Link](https://callforpapers.sandsmedia.com/) (closed November 2025) |
 | [Devoxx UK](https://www.devoxx.co.uk) | London, UK | no | 6-7 May 2026 | [Link](https://devoxxuk26.cfp.dev/) (Closed 10 January 2026) |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 11-13 May 2026 | [Link](https://sessionize.com/code-remix-summit-2026) (Closed 14 November 2025) |
+| [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 14-16 May 2026| Unconference, no CFP |
 | [GeeCON](https://2026.geecon.org/) | Krakow, Poland | no | 14-15 May 2026 | [Link](https://2026.geecon.org/cfp/) (Closed 30 January 2026) |
 | [KotlinConf](https://kotlinconf.com/) | Munich, Germany | no | 21-22 May 2026 | [Link](https://sessionize.com/kotlinconf-2026/) (Closed 30 November 2025) |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 26-27 May 2026 | [Link](https://sessionize.com/jnation-2026) (Closed 18 January 2026)                            |
