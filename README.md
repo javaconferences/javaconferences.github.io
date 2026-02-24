@@ -41,6 +41,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | [Link](https://devoxxpl26.cfp.dev) (Closes 28 February 2026) 🟢 |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closes 18 March 2026) 🟢 |
 | [JavaZone](https://2026.javazone.no/) | Lillestrøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closes 13 April 2026) 🟢 |
+| [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closes 9 March 2026) 🟢 |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closes 13 April 2026) 🟢 |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | - |
