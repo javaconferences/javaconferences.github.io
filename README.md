@@ -36,9 +36,9 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [jPrime](https://jprime.io) | Sofia, Bulgaria | no | 3-4 June 2026 | [Link](https://jprime.io/cfp) (Closed 15 February 2026) |
 | [DevTalks](https://devtalks.ro) | Bucharest, Romania | no | 3-4 June 2026 | - |
 | [J-Spring](https://jspring.nl) | Utrecht, Netherlands | no | 4 June 2026 | [Link](https://sessionize.com/jspring26) (Closes 29 Mar 2026) 🟢 |
-| [DevBcn](https://www.devbcn.com) | Barcelona, Spain | no | 16-17 June 2026 | [Link](https://sessionize.com/devbcn26/) (Closes 28 February 2026) 🟢 |
+| [DevBcn](https://www.devbcn.com) | Barcelona, Spain | no | 16-17 June 2026 | [Link](https://sessionize.com/devbcn26/) (Closed 28 February 2026) |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/) | Luxembourg, Luxembourg | no | 18-19 June 2026 | [Link](https://voxxedlu2026.cfp.dev/) (Closes 29 March 2026) 🟢 |
-| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | [Link](https://devoxxpl26.cfp.dev) (Closes 28 February 2026) 🟢 |
+| [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | [Link](https://devoxxpl26.cfp.dev) (Closed 28 February 2026) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closes 18 March 2026) 🟢 |
 | [JavaZone](https://2026.javazone.no/) | Lillestrøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closes 13 April 2026) 🟢 |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closes 9 March 2026) 🟢 |
