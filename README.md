@@ -2,6 +2,13 @@
 
 Missing a conference, seeing an issue, or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
+### 2027
+
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 31-03 May/June 2027 | |
+
+
 ### 2026
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
