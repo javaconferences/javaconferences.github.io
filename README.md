@@ -16,7 +16,6 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2026) | Weiden, Germany | no | 13 March 2026 | [Link](https://sessionize.com/digital-crafts-day-2026/) (Closed 31 October 2025) |
 | [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 17–19 March 2026 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone26/CWTCFP/cfpHome) (Closed 11 November 2025) |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.com/) | Zurich, Switzerland | no | 24 March 2026 | [Link](https://vdz26.cfp.dev) (Closed 1 December 2025) |
-| [IntelliJ IDEA Conf](https://lp.jetbrains.com/intellij-idea-conf-2026/) | online                          | no |    26-27 March 2026 | - |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 1-2 April 2026 | [Link](https://vdams26.cfp.dev/) (Closed 19 December 2025) |
 | [Spring I/O](https://2025.springio.net/) | Barcelona, Spain | no | 13-15 April 2026 | [Link](https://sessionize.com/springio26) (Closed 09 January 2026) |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 18 April 2026 | [Link](https://www.papercall.io/javadayistanbul2026) (Closed 15 December 2025) |
@@ -42,12 +41,15 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closes 18 March 2026) 🟢 |
 | [JavaZone](https://2026.javazone.no/) | Lillestrøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closes 13 April 2026) 🟢 |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closes 9 March 2026) 🟢 |
+| [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September | [Link](https://app.confitura.pl/login) (Closes 31 July 2025) 🟢 |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closes 13 April 2026) 🟢 |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
+| [JavaCro'26](https://2026.javacro.hr/eng/) | Rovinj, Croatia | no | 11-14 October 2026 | [Link](https://sessionize.com/javacro26) (Closes 31 May 2026) 🟢 |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | [Link](https://www.dev2next.com/cfp) (Closes 24 April 2026) 🟢 |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 14-15 October 2026 | [Link](https://sessionize.com/baselone-2026/) (Closes 30 April 2026) 🟢 |
+| [jDD](https://jdd.org.pl/) | Krakow, Poland | no | 20-21 October 2026 | [Link](https://jdd.org.pl/cfp-2026/) (Closes 31 May 2026) 🟢 |
 | [J On The Beach](https://www.jonthebeach.com/) | Torremolinos, Spain | yes | 29-30 October 2026 | [Link](https://confeti.app/) (Closes 31 March 2026) 🟢 |
-| [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | - |
+| [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | [Link](https://sessionize.com/oredev-2026/) (Closes 31 March 2026) 🟢 |
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closes 1 June 2026) 🟢 |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 12 November 2026 | - |
 
