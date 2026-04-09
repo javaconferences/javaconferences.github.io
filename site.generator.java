@@ -327,7 +327,7 @@ record GithubPages(Path source, Path output) {
                                     ));
                             return "            " +
                                     "{ " +
-                                    "tooltip: \"" + title.replace("\"", "\\\"") + "\", " +
+                                    "tooltip: \"" + title.replace("\"", "\\\"").replace("\'", "\\\'") + "\", " +
                                     "marker: L.marker([" +
                                     c.coordinates().lat() + "," + c.coordinates().lon() + "], {" +
                                     "alt:'" + c.locationName().replace("'", "\\'") + "', " +
