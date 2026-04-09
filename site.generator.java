@@ -321,8 +321,8 @@ record GithubPages(Path source, Path output) {
                                     (c.link().isBlank() ? "" : (
                                             "<br><a" +
                                                     " href='" + c.link() + "'" +
-                                                    " onmousedown=\\\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }" +
-                                                    "setTimeout(function () {window.open('" + c.link() + "', '_blank').focus();}, 100)\\\"" +
+                                                    " onmousedown='if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }'" +
+                                                    "setTimeout(function () {window.open('" + c.link() + "', '_blank').focus();}, 100)" +
                                                     ">Link</a>"
                                     ));
                             return "            " +
