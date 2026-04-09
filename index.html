@@ -31,117 +31,9 @@
 </head>
 <body><h1>Upcoming Java Conferences</h1>
 <p>Missing a conference, seeing an issue, or something needs an update? Send a pull request to the <a href="https://github.com/javaconferences/javaconferences.github.io/" target="_blank" rel="noopener">Github repository</a>.</p>
-<h3>2027</h3>
+<h3>2026</h3>
 <input data-filter="conferences" type="text" placeholder="Filter...">
 <table id="conferences">
-<thead>
-<tr>
-<th>Conference</th>
-<th>Location</th>
-<th align="right">Hybrid</th>
-<th align="right">(Expected) Date</th>
-<th>CFP Link</th>
-<th>Country</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://2027.europe.jcon.one/" target="_blank" rel="noopener">JCON EUROPE</a></td>
-<td>Cologne, Germany</td>
-<td align="right">no</td>
-<td align="right">31-03 May/June 2027</td>
-<td></td>
-<td><i class="fi fis fi-de"></i>&nbsp;Germany</td></tr>
-</tbody>
-</table>
-<p>View <a target="_blank" href="map.html" >map</a> only.</p>
-    <div id="map"></div>    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
-      integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
-      crossorigin=""></script>
-    <script>
-      (function () {
-          var map = L.map('map', {drawControl: true}).setView([51.505, -0.09], 13);
-          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-              attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a>'
-          }).addTo(map);
-          var markers = [
-            { tooltip: "JCON EUROPE<br>31-03 May/June 2027<br>Cologne, Germany<br><a href='https://2027.europe.jcon.one/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2027.europe.jcon.one/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.938361,6.959974], {alt:'Cologne, Germany', title:'JCON EUROPE'}) },
-            { tooltip: "jChampions<br>22-27 January 2026<br>online<br><a href='https://jchampionsconf.com/index.html' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jchampionsconf.com/index.html', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([0.0,0.0], {alt:'online', title:'jChampions'}) },
-            { tooltip: "Jfokus<br>2-4 February 2026<br>Stockholm, Sweden<br><a href='https://www.jfokus.se/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.jfokus.se/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([59.333613099999994,18.027509087372145], {alt:'Stockholm, Sweden', title:'Jfokus'}) },
-            { tooltip: "ConFoo<br>25-27 February 2026<br>Montreal, Canada<br><a href='https://confoo.ca/en/2026' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://confoo.ca/en/2026', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([45.550584900000004,-73.60223174000123], {alt:'Montreal, Canada', title:'ConFoo'}) },
-            { tooltip: "Voxxed Days Ticino<br>6 February 2026<br>Lugano, Switzerland<br><a href='https://ticino.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://ticino.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([46.0376492,8.9372543], {alt:'Lugano, Switzerland', title:'Voxxed Days Ticino'}) },
-            { tooltip: "Voxxed Days CERN<br>10 February 2026<br>Geneva, Switzerland<br><a href='https://cern.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://cern.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([46.2256509,6.1439209], {alt:'Geneva, Switzerland', title:'Voxxed Days CERN'}) },
-            { tooltip: "Devnexus<br>4-6 March 2026<br>Atlanta, GA, USA<br><a href='https://devnexus.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devnexus.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([33.7544657,-84.3898151], {alt:'Atlanta, GA, USA', title:'Devnexus'}) },
-            { tooltip: "JavaLand<br>10-12 March 2026<br>Europa Park Rust, Germany<br><a href='https://www.javaland.eu/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.javaland.eu/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([48.264986500000006,7.720728038062016], {alt:'Europa Park Rust, Germany', title:'JavaLand'}) },
-            { tooltip: "Digital Crafts Day<br>13 March 2026<br>Weiden, Germany<br><a href='https://dc-nordoberpfalz.de/DigitalCraftsDay/2026' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://dc-nordoberpfalz.de/DigitalCraftsDay/2026', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([49.8068258,7.3007004], {alt:'Weiden, Germany', title:'Digital Crafts Day'}) },
-            { tooltip: "JavaOne<br>17–19 March 2026<br>Redwood City, CA, USA<br><a href='https://www.oracle.com/javaone/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.oracle.com/javaone/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([37.4863239,-122.232523], {alt:'Redwood City, CA, USA', title:'JavaOne'}) },
-            { tooltip: "Voxxed Days Zurich<br>24 March 2026<br>Zurich, Switzerland<br><a href='https://zurich.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://zurich.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([47.4133024,8.656394], {alt:'Zurich, Switzerland', title:'Voxxed Days Zurich'}) },
-            { tooltip: "Voxxed Days Amsterdam<br>1-2 April 2026<br>Amsterdam, The Netherlands<br><a href='https://amsterdam.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://amsterdam.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([52.37454030000001,4.897975505617977], {alt:'Amsterdam, The Netherlands', title:'Voxxed Days Amsterdam'}) },
-            { tooltip: "Spring I/O<br>13-15 April 2026<br>Barcelona, Spain<br><a href='https://2025.springio.net/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2025.springio.net/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([41.75786995,2.031182036159852], {alt:'Barcelona, Spain', title:'Spring I/O'}) },
-            { tooltip: "Java Day Istanbul<br>18 April 2026<br>Istanbul, Turkiye<br><a href='https://javaday.istanbul' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://javaday.istanbul', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([41.0707456,29.0509414], {alt:'Istanbul, Turkiye', title:'Java Day Istanbul'}) },
-            { tooltip: "JCON EUROPE<br>20-23 April 2026<br>Cologne, Germany<br><a href='https://2026.europe.jcon.one/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.europe.jcon.one/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.938361,6.959974], {alt:'Cologne, Germany', title:'JCON EUROPE'}) },
-            { tooltip: "Devoxx France<br>22-24 April 2026<br>Paris, France<br><a href='http://devoxx.fr/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('http://devoxx.fr/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([48.8534951,2.3483915], {alt:'Paris, France', title:'Devoxx France'}) },
-            { tooltip: "Devoxx Greece<br>23-25 April 2026<br>Athens, Greece<br><a href='https://devoxx.gr/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devoxx.gr/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([37.9755648,23.7348324], {alt:'Athens, Greece', title:'Devoxx Greece'}) },
-            { tooltip: "Voxxed Days Bucharest<br>28-29 April 2026<br>Bucharest, Romania<br><a href='https://romania.voxxeddays.com/voxxed-days-bucharest-2026/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://romania.voxxeddays.com/voxxed-days-bucharest-2026/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([44.4361414,26.102684], {alt:'Bucharest, Romania', title:'Voxxed Days Bucharest'}) },
-            { tooltip: "JAX<br>4-8 May 2026<br>Mainz, Germany<br><a href='https://jax.de/mainz/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jax.de/mainz/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([49.9995205,8.2736253], {alt:'Mainz, Germany', title:'JAX'}) },
-            { tooltip: "Devoxx UK<br>6-7 May 2026<br>London, UK<br><a href='https://www.devoxx.co.uk' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.devoxx.co.uk', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([51.5074456,-0.1277653], {alt:'London, UK', title:'Devoxx UK'}) },
-            { tooltip: "Code Remix Summit<br>11-13 May 2026<br>Miami, FL, USA<br><a href='https://coderemix.ai/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://coderemix.ai/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([25.7741566,-80.1935973], {alt:'Miami, FL, USA', title:'Code Remix Summit'}) },
-            { tooltip: "JAlba<br>14-16 May 2026<br>Edinburgh, Scotland<br><a href='https://jalba.scot/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jalba.scot/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([55.9533456,-3.1883749], {alt:'Edinburgh, Scotland', title:'JAlba'}) },
-            { tooltip: "GeeCON<br>14-15 May 2026<br>Krakow, Poland<br><a href='https://2026.geecon.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.geecon.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.0619474,19.9368564], {alt:'Krakow, Poland', title:'GeeCON'}) },
-            { tooltip: "KotlinConf<br>21-22 May 2026<br>Munich, Germany<br><a href='https://kotlinconf.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://kotlinconf.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([48.1371079,11.5753822], {alt:'Munich, Germany', title:'KotlinConf'}) },
-            { tooltip: "JNation<br>26-27 May 2026<br>Coimbra, Portugal<br><a href='https://jnation.pt/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jnation.pt/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([40.22153715,-8.338105934554843], {alt:'Coimbra, Portugal', title:'JNation'}) },
-            { tooltip: "JCON Slovenia<br>27-29 May 2026<br>Portorož, Slovenia<br><a href='https://slovenia.jcon.one/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://slovenia.jcon.one/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([45.5146489,13.5910112], {alt:'Portorož, Slovenia', title:'JCON Slovenia'}) },
-            { tooltip: "JJUG CCC 2026 Spring<br>30 May 2026<br>Tokyo, Japan<br><a href='https://ccc2026spring.java-users.jp/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://ccc2026spring.java-users.jp/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([35.6768601,139.7638947], {alt:'Tokyo, Japan', title:'JJUG CCC 2026 Spring'}) },
-            { tooltip: "jPrime<br>3-4 June 2026<br>Sofia, Bulgaria<br><a href='https://jprime.io' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jprime.io', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([42.64191,23.973569922496445], {alt:'Sofia, Bulgaria', title:'jPrime'}) },
-            { tooltip: "DevTalks<br>3-4 June 2026<br>Bucharest, Romania<br><a href='https://devtalks.ro' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devtalks.ro', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([44.4361414,26.102684], {alt:'Bucharest, Romania', title:'DevTalks'}) },
-            { tooltip: "J-Spring<br>4 June 2026<br>Utrecht, Netherlands<br><a href='https://jspring.nl' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jspring.nl', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([52.0485887,5.1784277], {alt:'Utrecht, Netherlands', title:'J-Spring'}) },
-            { tooltip: "DevBcn<br>16-17 June 2026<br>Barcelona, Spain<br><a href='https://www.devbcn.com' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.devbcn.com', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([41.75786995,2.031182036159852], {alt:'Barcelona, Spain', title:'DevBcn'}) },
-            { tooltip: "Voxxed Days Luxembourg<br>18-19 June 2026<br>Luxembourg, Luxembourg<br><a href='https://luxembourg.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://luxembourg.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([49.8158683,6.1296751], {alt:'Luxembourg, Luxembourg', title:'Voxxed Days Luxembourg'}) },
-            { tooltip: "Devoxx Poland<br>17-19 June 2026<br>Krakow, Poland<br><a href='https://devoxx.pl/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devoxx.pl/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.0619474,19.9368564], {alt:'Krakow, Poland', title:'Devoxx Poland'}) },
-            { tooltip: "JConf Dominicana<br>17-18 July 2026<br>Santiago, Dominican Republic<br><a href='https://jconfdominicana.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jconfdominicana.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([19.336389,-70.95212771637003], {alt:'Santiago, Dominican Republic', title:'JConf Dominicana'}) },
-            { tooltip: "JavaZone<br>2-3 September 2026<br>Lillestrøm, Norway<br><a href='https://2026.javazone.no/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.javazone.no/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([59.91553955,11.217035409234612], {alt:'Lillestrøm, Norway', title:'JavaZone'}) },
-            { tooltip: "KCDC<br>9-11 September 2026<br>Kansas City, MO, USA<br><a href='https://www.kcdc.info/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.kcdc.info/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([39.100105,-94.5781416], {alt:'Kansas City, MO, USA', title:'KCDC'}) },
-            { tooltip: "JAX London<br>5-9 October 2026<br>London, UK<br><a href='https://jaxlondon.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jaxlondon.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([51.5074456,-0.1277653], {alt:'London, UK', title:'JAX London'}) },
-            { tooltip: "Devoxx Belgium<br>5-9 October 2026<br>Antwerp, Belgium<br><a href='https://devoxx.be' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devoxx.be', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([51.24773665,4.776576014131344], {alt:'Antwerp, Belgium', title:'Devoxx Belgium'}) },
-            { tooltip: "JavaCro'26<br>11-14 October 2026<br>Rovinj, Croatia<br><a href='https://2026.javacro.hr/eng/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.javacro.hr/eng/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([45.0807411,13.6417282], {alt:'Rovinj, Croatia', title:'JavaCro\'26'}) },
-            { tooltip: "dev2next<br>12-15 October 2026<br>Lone Tree, CO, USA<br><a href='https://www.dev2next.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.dev2next.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([39.5364152,-104.9041528], {alt:'Lone Tree, CO, USA', title:'dev2next'}) },
-            { tooltip: "BaselOne<br>14-15 October 2026<br>Basel, Switzerland<br><a href='https://baselone.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://baselone.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([47.5581077,7.5878261], {alt:'Basel, Switzerland', title:'BaselOne'}) },
-            { tooltip: "jDD<br>20-21 October 2026<br>Krakow, Poland<br><a href='https://jdd.org.pl/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jdd.org.pl/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.0619474,19.9368564], {alt:'Krakow, Poland', title:'jDD'}) },
-            { tooltip: "J On The Beach<br>29-30 October 2026<br>Torremolinos, Spain<br><a href='https://www.jonthebeach.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.jonthebeach.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([36.6242841,-4.4995448], {alt:'Torremolinos, Spain', title:'J On The Beach'}) },
-            { tooltip: "Øredev<br>4-6 November 2026<br>Malmö, Sweden<br><a href='https://oredev.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://oredev.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([55.5836011,13.0027658], {alt:'Malmö, Sweden', title:'Øredev'}) },
-            { tooltip: "Heapcon<br>5-6 November 2026<br>Belgrade, Serbia<br><a href='https://heapcon.io/2026' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://heapcon.io/2026', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([44.680242050000004,20.381755966161457], {alt:'Belgrade, Serbia', title:'Heapcon'}) },
-            { tooltip: "J-Fall<br>12 November 2026<br>Ede, Netherlands<br><a href='https://jfall.nl' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jfall.nl', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([52.07168255,5.745510631034939], {alt:'Ede, Netherlands', title:'J-Fall'}) }
-          ];
-          markers.forEach(function (marker) {
-            marker.marker.on('mouseover', function() {
-              marker.marker.bindTooltip(marker.tooltip, {permanent: true, interactive:true});
-              if (window.unbindTooltip && window.unbindTooltip.marker != marker) { window.unbindTooltip.unbind(); }
-              unbindTooltip = {                version: window.unbindTooltip && window.unbindTooltip.marker == marker ? window.unbindTooltip.version + 1 : 1,                marker: marker,                 unbind: function () { marker.marker.unbindTooltip(); window.unbindTooltip = undefined; }              };
-            });
-            marker.marker.on('mouseout', function() {
-              var version = window.unbindTooltip ? window.unbindTooltip.version : -1;
-              window.unbindTooltip && setTimeout(function () {
-                window.unbindTooltip && version == window.unbindTooltip.version && window.unbindTooltip.unbind();
-                window.unbindTooltip = undefined;
-              }, 3000);
-            });
-          });
-          var group = L.featureGroup(markers.map(function (it) { return it.marker; })).addTo(map);
-          map.fitBounds(group.getBounds());
-          L.Control.textbox = L.Control.extend({
-            onAdd: function(map) {
-              var title = L.DomUtil.create('div');
-              title.id = 'map-title';
-              title.innerHTML = '<h1>Java Conferences Map</h1>'
-              return title;
-            },
-            onRemove: function(map) {}
-          });
-          L.control.textbox = function(opts) { return new L.Control.textbox(opts); }
-          L.control.textbox({position: 'topleft'}).addTo(map);      })();
-    </script>
-
-<h3>2026</h3>
-<table>
 <thead>
 <tr>
 <th>Conference</th>
@@ -474,6 +366,114 @@
 <td align="right">12 November 2026</td>
 <td>-</td>
 <td><i class="fi fis fi-nl"></i>&nbsp;Netherlands</td></tr>
+</tbody>
+</table>
+<p>View <a target="_blank" href="map.html" >map</a> only.</p>
+    <div id="map"></div>    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+      integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+      crossorigin=""></script>
+    <script>
+      (function () {
+          var map = L.map('map', {drawControl: true}).setView([51.505, -0.09], 13);
+          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+              attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a>'
+          }).addTo(map);
+          var markers = [
+            { tooltip: "jChampions<br>22-27 January 2026<br>online<br><a href='https://jchampionsconf.com/index.html' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jchampionsconf.com/index.html', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([0.0,0.0], {alt:'online', title:'jChampions'}) },
+            { tooltip: "Jfokus<br>2-4 February 2026<br>Stockholm, Sweden<br><a href='https://www.jfokus.se/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.jfokus.se/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([59.333613099999994,18.027509087372145], {alt:'Stockholm, Sweden', title:'Jfokus'}) },
+            { tooltip: "ConFoo<br>25-27 February 2026<br>Montreal, Canada<br><a href='https://confoo.ca/en/2026' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://confoo.ca/en/2026', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([45.550584900000004,-73.60223174000123], {alt:'Montreal, Canada', title:'ConFoo'}) },
+            { tooltip: "Voxxed Days Ticino<br>6 February 2026<br>Lugano, Switzerland<br><a href='https://ticino.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://ticino.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([46.0376492,8.9372543], {alt:'Lugano, Switzerland', title:'Voxxed Days Ticino'}) },
+            { tooltip: "Voxxed Days CERN<br>10 February 2026<br>Geneva, Switzerland<br><a href='https://cern.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://cern.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([46.2256509,6.1439209], {alt:'Geneva, Switzerland', title:'Voxxed Days CERN'}) },
+            { tooltip: "Devnexus<br>4-6 March 2026<br>Atlanta, GA, USA<br><a href='https://devnexus.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devnexus.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([33.7544657,-84.3898151], {alt:'Atlanta, GA, USA', title:'Devnexus'}) },
+            { tooltip: "JavaLand<br>10-12 March 2026<br>Europa Park Rust, Germany<br><a href='https://www.javaland.eu/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.javaland.eu/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([48.264986500000006,7.720728038062016], {alt:'Europa Park Rust, Germany', title:'JavaLand'}) },
+            { tooltip: "Digital Crafts Day<br>13 March 2026<br>Weiden, Germany<br><a href='https://dc-nordoberpfalz.de/DigitalCraftsDay/2026' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://dc-nordoberpfalz.de/DigitalCraftsDay/2026', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([49.8068258,7.3007004], {alt:'Weiden, Germany', title:'Digital Crafts Day'}) },
+            { tooltip: "JavaOne<br>17–19 March 2026<br>Redwood City, CA, USA<br><a href='https://www.oracle.com/javaone/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.oracle.com/javaone/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([37.4863239,-122.232523], {alt:'Redwood City, CA, USA', title:'JavaOne'}) },
+            { tooltip: "Voxxed Days Zurich<br>24 March 2026<br>Zurich, Switzerland<br><a href='https://zurich.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://zurich.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([47.4133024,8.656394], {alt:'Zurich, Switzerland', title:'Voxxed Days Zurich'}) },
+            { tooltip: "Voxxed Days Amsterdam<br>1-2 April 2026<br>Amsterdam, The Netherlands<br><a href='https://amsterdam.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://amsterdam.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([52.37454030000001,4.897975505617977], {alt:'Amsterdam, The Netherlands', title:'Voxxed Days Amsterdam'}) },
+            { tooltip: "Spring I/O<br>13-15 April 2026<br>Barcelona, Spain<br><a href='https://2025.springio.net/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2025.springio.net/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([41.75786995,2.031182036159852], {alt:'Barcelona, Spain', title:'Spring I/O'}) },
+            { tooltip: "Java Day Istanbul<br>18 April 2026<br>Istanbul, Turkiye<br><a href='https://javaday.istanbul' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://javaday.istanbul', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([41.0707456,29.0509414], {alt:'Istanbul, Turkiye', title:'Java Day Istanbul'}) },
+            { tooltip: "JCON EUROPE<br>20-23 April 2026<br>Cologne, Germany<br><a href='https://2026.europe.jcon.one/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.europe.jcon.one/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.938361,6.959974], {alt:'Cologne, Germany', title:'JCON EUROPE'}) },
+            { tooltip: "Devoxx France<br>22-24 April 2026<br>Paris, France<br><a href='http://devoxx.fr/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('http://devoxx.fr/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([48.8534951,2.3483915], {alt:'Paris, France', title:'Devoxx France'}) },
+            { tooltip: "Devoxx Greece<br>23-25 April 2026<br>Athens, Greece<br><a href='https://devoxx.gr/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devoxx.gr/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([37.9755648,23.7348324], {alt:'Athens, Greece', title:'Devoxx Greece'}) },
+            { tooltip: "Voxxed Days Bucharest<br>28-29 April 2026<br>Bucharest, Romania<br><a href='https://romania.voxxeddays.com/voxxed-days-bucharest-2026/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://romania.voxxeddays.com/voxxed-days-bucharest-2026/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([44.4361414,26.102684], {alt:'Bucharest, Romania', title:'Voxxed Days Bucharest'}) },
+            { tooltip: "JAX<br>4-8 May 2026<br>Mainz, Germany<br><a href='https://jax.de/mainz/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jax.de/mainz/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([49.9995205,8.2736253], {alt:'Mainz, Germany', title:'JAX'}) },
+            { tooltip: "Devoxx UK<br>6-7 May 2026<br>London, UK<br><a href='https://www.devoxx.co.uk' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.devoxx.co.uk', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([51.5074456,-0.1277653], {alt:'London, UK', title:'Devoxx UK'}) },
+            { tooltip: "Code Remix Summit<br>11-13 May 2026<br>Miami, FL, USA<br><a href='https://coderemix.ai/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://coderemix.ai/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([25.7741566,-80.1935973], {alt:'Miami, FL, USA', title:'Code Remix Summit'}) },
+            { tooltip: "JAlba<br>14-16 May 2026<br>Edinburgh, Scotland<br><a href='https://jalba.scot/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jalba.scot/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([55.9533456,-3.1883749], {alt:'Edinburgh, Scotland', title:'JAlba'}) },
+            { tooltip: "GeeCON<br>14-15 May 2026<br>Krakow, Poland<br><a href='https://2026.geecon.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.geecon.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.0619474,19.9368564], {alt:'Krakow, Poland', title:'GeeCON'}) },
+            { tooltip: "KotlinConf<br>21-22 May 2026<br>Munich, Germany<br><a href='https://kotlinconf.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://kotlinconf.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([48.1371079,11.5753822], {alt:'Munich, Germany', title:'KotlinConf'}) },
+            { tooltip: "JNation<br>26-27 May 2026<br>Coimbra, Portugal<br><a href='https://jnation.pt/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jnation.pt/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([40.22153715,-8.338105934554843], {alt:'Coimbra, Portugal', title:'JNation'}) },
+            { tooltip: "JCON Slovenia<br>27-29 May 2026<br>Portorož, Slovenia<br><a href='https://slovenia.jcon.one/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://slovenia.jcon.one/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([45.5146489,13.5910112], {alt:'Portorož, Slovenia', title:'JCON Slovenia'}) },
+            { tooltip: "JJUG CCC 2026 Spring<br>30 May 2026<br>Tokyo, Japan<br><a href='https://ccc2026spring.java-users.jp/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://ccc2026spring.java-users.jp/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([35.6768601,139.7638947], {alt:'Tokyo, Japan', title:'JJUG CCC 2026 Spring'}) },
+            { tooltip: "jPrime<br>3-4 June 2026<br>Sofia, Bulgaria<br><a href='https://jprime.io' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jprime.io', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([42.64191,23.973569922496445], {alt:'Sofia, Bulgaria', title:'jPrime'}) },
+            { tooltip: "DevTalks<br>3-4 June 2026<br>Bucharest, Romania<br><a href='https://devtalks.ro' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devtalks.ro', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([44.4361414,26.102684], {alt:'Bucharest, Romania', title:'DevTalks'}) },
+            { tooltip: "J-Spring<br>4 June 2026<br>Utrecht, Netherlands<br><a href='https://jspring.nl' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jspring.nl', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([52.0485887,5.1784277], {alt:'Utrecht, Netherlands', title:'J-Spring'}) },
+            { tooltip: "DevBcn<br>16-17 June 2026<br>Barcelona, Spain<br><a href='https://www.devbcn.com' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.devbcn.com', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([41.75786995,2.031182036159852], {alt:'Barcelona, Spain', title:'DevBcn'}) },
+            { tooltip: "Voxxed Days Luxembourg<br>18-19 June 2026<br>Luxembourg, Luxembourg<br><a href='https://luxembourg.voxxeddays.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://luxembourg.voxxeddays.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([49.8158683,6.1296751], {alt:'Luxembourg, Luxembourg', title:'Voxxed Days Luxembourg'}) },
+            { tooltip: "Devoxx Poland<br>17-19 June 2026<br>Krakow, Poland<br><a href='https://devoxx.pl/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devoxx.pl/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.0619474,19.9368564], {alt:'Krakow, Poland', title:'Devoxx Poland'}) },
+            { tooltip: "JConf Dominicana<br>17-18 July 2026<br>Santiago, Dominican Republic<br><a href='https://jconfdominicana.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jconfdominicana.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([19.336389,-70.95212771637003], {alt:'Santiago, Dominican Republic', title:'JConf Dominicana'}) },
+            { tooltip: "JavaZone<br>2-3 September 2026<br>Lillestrøm, Norway<br><a href='https://2026.javazone.no/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.javazone.no/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([59.91553955,11.217035409234612], {alt:'Lillestrøm, Norway', title:'JavaZone'}) },
+            { tooltip: "KCDC<br>9-11 September 2026<br>Kansas City, MO, USA<br><a href='https://www.kcdc.info/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.kcdc.info/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([39.100105,-94.5781416], {alt:'Kansas City, MO, USA', title:'KCDC'}) },
+            { tooltip: "JAX London<br>5-9 October 2026<br>London, UK<br><a href='https://jaxlondon.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jaxlondon.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([51.5074456,-0.1277653], {alt:'London, UK', title:'JAX London'}) },
+            { tooltip: "Devoxx Belgium<br>5-9 October 2026<br>Antwerp, Belgium<br><a href='https://devoxx.be' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://devoxx.be', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([51.24773665,4.776576014131344], {alt:'Antwerp, Belgium', title:'Devoxx Belgium'}) },
+            { tooltip: "JavaCro'26<br>11-14 October 2026<br>Rovinj, Croatia<br><a href='https://2026.javacro.hr/eng/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2026.javacro.hr/eng/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([45.0807411,13.6417282], {alt:'Rovinj, Croatia', title:'JavaCro\'26'}) },
+            { tooltip: "dev2next<br>12-15 October 2026<br>Lone Tree, CO, USA<br><a href='https://www.dev2next.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.dev2next.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([39.5364152,-104.9041528], {alt:'Lone Tree, CO, USA', title:'dev2next'}) },
+            { tooltip: "BaselOne<br>14-15 October 2026<br>Basel, Switzerland<br><a href='https://baselone.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://baselone.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([47.5581077,7.5878261], {alt:'Basel, Switzerland', title:'BaselOne'}) },
+            { tooltip: "jDD<br>20-21 October 2026<br>Krakow, Poland<br><a href='https://jdd.org.pl/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jdd.org.pl/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.0619474,19.9368564], {alt:'Krakow, Poland', title:'jDD'}) },
+            { tooltip: "J On The Beach<br>29-30 October 2026<br>Torremolinos, Spain<br><a href='https://www.jonthebeach.com/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://www.jonthebeach.com/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([36.6242841,-4.4995448], {alt:'Torremolinos, Spain', title:'J On The Beach'}) },
+            { tooltip: "Øredev<br>4-6 November 2026<br>Malmö, Sweden<br><a href='https://oredev.org/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://oredev.org/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([55.5836011,13.0027658], {alt:'Malmö, Sweden', title:'Øredev'}) },
+            { tooltip: "Heapcon<br>5-6 November 2026<br>Belgrade, Serbia<br><a href='https://heapcon.io/2026' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://heapcon.io/2026', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([44.680242050000004,20.381755966161457], {alt:'Belgrade, Serbia', title:'Heapcon'}) },
+            { tooltip: "J-Fall<br>12 November 2026<br>Ede, Netherlands<br><a href='https://jfall.nl' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://jfall.nl', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([52.07168255,5.745510631034939], {alt:'Ede, Netherlands', title:'J-Fall'}) },
+            { tooltip: "JCON EUROPE<br>31-03 May/June 2027<br>Cologne, Germany<br><a href='https://2027.europe.jcon.one/' onmousedown=\"if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }setTimeout(function () {window.open('https://2027.europe.jcon.one/', '_blank').focus();}, 100)\">Link</a>", marker: L.marker([50.938361,6.959974], {alt:'Cologne, Germany', title:'JCON EUROPE'}) }
+          ];
+          markers.forEach(function (marker) {
+            marker.marker.on('mouseover', function() {
+              marker.marker.bindTooltip(marker.tooltip, {permanent: true, interactive:true});
+              if (window.unbindTooltip && window.unbindTooltip.marker != marker) { window.unbindTooltip.unbind(); }
+              unbindTooltip = {                version: window.unbindTooltip && window.unbindTooltip.marker == marker ? window.unbindTooltip.version + 1 : 1,                marker: marker,                 unbind: function () { marker.marker.unbindTooltip(); window.unbindTooltip = undefined; }              };
+            });
+            marker.marker.on('mouseout', function() {
+              var version = window.unbindTooltip ? window.unbindTooltip.version : -1;
+              window.unbindTooltip && setTimeout(function () {
+                window.unbindTooltip && version == window.unbindTooltip.version && window.unbindTooltip.unbind();
+                window.unbindTooltip = undefined;
+              }, 3000);
+            });
+          });
+          var group = L.featureGroup(markers.map(function (it) { return it.marker; })).addTo(map);
+          map.fitBounds(group.getBounds());
+          L.Control.textbox = L.Control.extend({
+            onAdd: function(map) {
+              var title = L.DomUtil.create('div');
+              title.id = 'map-title';
+              title.innerHTML = '<h1>Java Conferences Map</h1>'
+              return title;
+            },
+            onRemove: function(map) {}
+          });
+          L.control.textbox = function(opts) { return new L.Control.textbox(opts); }
+          L.control.textbox({position: 'topleft'}).addTo(map);      })();
+    </script>
+
+<h3>2027</h3>
+<table>
+<thead>
+<tr>
+<th>Conference</th>
+<th>Location</th>
+<th align="right">Hybrid</th>
+<th align="right">(Expected) Date</th>
+<th>CFP Link</th>
+<th>Country</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://2027.europe.jcon.one/" target="_blank" rel="noopener">JCON EUROPE</a></td>
+<td>Cologne, Germany</td>
+<td align="right">no</td>
+<td align="right">31-03 May/June 2027</td>
+<td></td>
+<td><i class="fi fis fi-de"></i>&nbsp;Germany</td></tr>
 </tbody>
 </table>
 <h2>Archive</h2>
