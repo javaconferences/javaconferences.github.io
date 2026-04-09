@@ -2,6 +2,13 @@
 
 Missing a conference, seeing an issue, or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
+### 2027
+
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 31-03 May/June 2027 | |
+
+
 ### 2026
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
@@ -38,9 +45,9 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [DevBcn](https://www.devbcn.com) | Barcelona, Spain | no | 16-17 June 2026 | [Link](https://sessionize.com/devbcn26/) (Closed 28 February 2026) |
 | [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/) | Luxembourg, Luxembourg | no | 18-19 June 2026 | [Link](https://voxxedlu2026.cfp.dev/) (Closed 29 March 2026) |
 | [Devoxx Poland](https://devoxx.pl/) | Krakow, Poland | no | 17-19 June 2026 | [Link](https://devoxxpl26.cfp.dev) (Closed 28 February 2026) |
-| [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closes 18 March 2026) 🟢 |
+| [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closed 18 March 2026) |
 | [JavaZone](https://2026.javazone.no/) | Lillestrøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closes 13 April 2026) 🟢 |
-| [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closes 9 March 2026) 🟢 |
+| [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closed 9 March 2026) |
 | [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September | [Link](https://app.confitura.pl/login) (Closes 31 July 2025) 🟢 |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closes 13 April 2026) 🟢 |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
