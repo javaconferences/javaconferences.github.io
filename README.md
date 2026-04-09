@@ -2,13 +2,6 @@
 
 Missing a conference, seeing an issue, or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
-### 2027
-
-| Conference | Location | Hybrid | (Expected) Date | CFP Link |
-| --- | --- | ---: | ---: | --- |
-| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 31-03 May/June 2027 | |
-
-
 ### 2026
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
@@ -59,6 +52,13 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | [Link](https://sessionize.com/oredev-2026/) (Closes 31 March 2026) 🟢 |
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closes 1 June 2026) 🟢 |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 12 November 2026 | - |
+
+
+### 2027
+
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 31-03 May/June 2027 | |
 
 
 ## Archive
