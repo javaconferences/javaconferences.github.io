@@ -327,11 +327,11 @@ record GithubPages(Path source, Path output) {
                                     ));
                             return "            " +
                                     "{ " +
-                                    "tooltip: \"" + title.replace("\"", "\\\"").replace("\'", "\\\'") + "\", " +
+                                    "tooltip: \"" + title.replace("\"", "\\\"") + "\", " +
                                     "marker: L.marker([" +
                                     c.coordinates().lat() + "," + c.coordinates().lon() + "], {" +
                                     "alt:'" + c.locationName().replace("'", "\\'") + "', " +
-                                    "title:'" + c.name().replace("'", "\\'") +
+                                    "title:'" + c.name().replace("'", "\'") +
                                     "'}) " +
                                     "}";
                         })
