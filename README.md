@@ -48,8 +48,8 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | [Link](https://www.dev2next.com/cfp) (Closes 24 April 2026) 🟢 |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 14-15 October 2026 | [Link](https://sessionize.com/baselone-2026/) (Closes 30 April 2026) 🟢 |
 | [jDD](https://jdd.org.pl/) | Krakow, Poland | no | 20-21 October 2026 | [Link](https://jdd.org.pl/cfp-2026/) (Closes 31 May 2026) 🟢 |
-| [J On The Beach](https://www.jonthebeach.com/) | Torremolinos, Spain | yes | 29-30 October 2026 | [Link](https://confeti.app/) (Closes 31 March 2026) 🟢 |
-| [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | [Link](https://sessionize.com/oredev-2026/) (Closes 31 March 2026) 🟢 |
+| [J On The Beach](https://www.jonthebeach.com/) | Torremolinos, Spain | yes | 29-30 October 2026 | [Link](https://confeti.app/) (Closes 31 March 2026) |
+| [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | [Link](https://sessionize.com/oredev-2026/) (Closes 31 March 2026) |
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closes 1 June 2026) 🟢 |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 12 November 2026 | - |
 
@@ -58,7 +58,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 31-03 May/June 2027 | |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 31 May - 03 June 2027 | - |
 
 
 ## Archive
