@@ -41,7 +41,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closed 18 March 2026) |
 | [JavaZone](https://2026.javazone.no/) | Lillestrøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closed 13 April 2026) |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closed 9 March 2026) |
-| [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September | [Link](https://app.confitura.pl/login) (Closes 31 July 2025) 🟢 |
+| [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September | [Link](https://app.confitura.pl/login) (Closes 31 July 2025) |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closed 13 April 2026) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
 | [JavaCro\'26](https://2026.javacro.hr/eng/) | Rovinj, Croatia | no | 11-14 October 2026 | [Link](https://sessionize.com/javacro26) (Closes 31 May 2026) 🟢 |
