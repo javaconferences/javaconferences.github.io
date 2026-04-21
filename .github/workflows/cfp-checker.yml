@@ -15,8 +15,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
+      - name: Set up JDK
+        uses: actions/setup-java@v5
+        with:
+          distribution: 'zulu'
+          java-version: '25'
+
       - name: Check CFP dates and update README
-        run: python3 .github/scripts/check_cfp.py
+        run: echo 'CheckCfp.main();/exit' | jshell --startup .github/scripts/check_cfp.java
 
       - name: Commit changes
         run: |
