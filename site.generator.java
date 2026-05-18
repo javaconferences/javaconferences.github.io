@@ -408,29 +408,31 @@ record GithubPages(Path source, Path output) {
                         height: 400px;
                         margin: 1rem 0 1rem 0;
                       }
+                      th.sortable {
+                        cursor: pointer;
+                        user-select: none;
+                      }
+                      th.sortable:hover {
+                        background-color: #f0f0f0;
+                      }
+                      .sort-indicator {
+                        color: #999;
+                        font-size: 0.85em;
+                        margin-left: 4px;
+                      }
+                      th.sort-active .sort-indicator {
+                        color: inherit;
+                      }
                     </style>
                 </head>
                 <body>""" +
-                patchedBody +
-                "  <script>\n" +
-                "    window.addEventListener('DOMContentLoaded', function () {\n" +
-                "      var conferenceFilter = document.querySelector('input[data-filter=\"conferences\"]');\n" +
-                "      var conferenceTable = document.getElementById('conferences');\n" +
-                "      var conferenceTableTrs = Array.from(conferenceTable.querySelectorAll('tbody > tr'))\n" +
-                "            .map(function (e) {\n" +
-                "              return {text: (e.innerText || e.textContent).toLowerCase(), element: e, display: e.style.display};\n" +
-                "            });\n" +
-                "      conferenceFilter.addEventListener('keyup', function (e) {\n" + // todo: debounce? not critical yet
-                "        var filter = (conferenceFilter.value || '').toLowerCase().split(' ');\n" + // todo: support AND/OR keywords?
-                "        conferenceTableTrs.forEach(function (data) {\n" +
-                "          data.element.style.display = filter.some(function (it) { return data.text.indexOf(it) >= 0; }) ?\n" +
-                "                                 data.display : 'none';\n" +
-                "        });\n" +
-                "      });\n" +
-                "    });\n" +
-                "  </script>\n" +
-                "</body>\n" +
-                "</html>\n";
+                patchedBody + """
+                  <script>
+                """ + Files.readString(Path.of("site.js")) + """
+                  </script>
+                </body>
+                </html>
+                """;
     }
 
     private String injectTableFilter(final String html) {
