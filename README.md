@@ -56,7 +56,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [jDD](https://jdd.org.pl/) | Krakow, Poland | no | 20-21 October 2026 | [Link](https://jdd.org.pl/cfp-2026/) (Closes 31 May 2026) 🟢 |
 | [J On The Beach](https://www.jonthebeach.com/) | Torremolinos, Spain | yes | 29-30 October 2026 | [Link](https://confeti.app/) (Closed 31 March 2026) |
 | [W-JAX](https://jax.de/muenchen/) | Munich, Germany | yes | 2-6 November 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closes 11 May 2026) |
-| [Devoxx Morocco](https://devoxx.ma/) | Casablanca, Morocco | no | 4-5 November 2026 | - |
+| [Devoxx Morocco](https://devoxx.ma/) | Casablanca, Morocco | no | 4-5 November 2026 | [Link](https://dvma26.cfp.dev/) (Closes 5 July 2026) 🟢 |
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | [Link](https://sessionize.com/oredev-2026/) (Closed 31 March 2026) |
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closes 1 June 2026) 🟢 |
 | [Porto Tech Hub](https://portotechhub.com/conference-2026/) | Porto, Portugal | no | 10 November 2026 | [Link](https://sessionize.com/pth-2026/) (Closes 14 June 2026) 🟢 |
