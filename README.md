@@ -67,7 +67,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 31 May - 03 June 2027 | - |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26 - 29 April 2027 | - |
 
 
 ## Archive
