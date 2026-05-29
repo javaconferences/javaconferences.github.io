@@ -312,8 +312,8 @@ record GithubPages(Path source, Path output) {
                 "    <script>\n" +
                 "      (function () {\n" +
                 "          var map = L.map('map', {drawControl: true}).setView([51.505, -0.09], 13);\n" +
-                "          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {\n" +
-                "              attribution: '&copy; <a href=\"http://osm.org/copyright\">OpenStreetMap</a>'\n" +
+                "          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n" +
+                "              attribution: '&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>'\n" +
                 "          }).addTo(map);\n" +
                 confsToMap.stream()
                         .map(c -> {
@@ -321,8 +321,9 @@ record GithubPages(Path source, Path output) {
                                     (c.link().isBlank() ? "" : (
                                             "<br><a" +
                                                     " href='" + c.link() + "'" +
+                                                    " target='_blank'" +
+                                                    " rel='noopener noreferrer'" +
                                                     " onmousedown='if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }'" +
-                                                    "setTimeout(function () {window.open('" + c.link() + "', '_blank').focus();}, 100)" +
                                                     ">Link</a>"
                                     ));
                             return "            " +
@@ -330,9 +331,9 @@ record GithubPages(Path source, Path output) {
                                     "tooltip: \"" + title.replace("\"", "\\\"") + "\", " +
                                     "marker: L.marker([" +
                                     c.coordinates().lat() + "," + c.coordinates().lon() + "], {" +
-                                    "alt:'" + c.locationName().replace("'", "\\'") + "', " +
-                                    "title:'" + c.name().replace("'", "\'") +
-                                    "'}) " +
+                                    "alt:\"" + c.locationName().replace("\"", "") + "\", " +
+                                    "title:\"" + c.name().replace("\"", "") +
+                                    "\"}) " +
                                     "}";
                         })
                         .collect(joining(",\n", "          var markers = [\n", "\n          ];\n")) +
