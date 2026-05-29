@@ -39,9 +39,9 @@ record Coordinate(double lat, double lon, String countryName) {
 }
 
 record Conference(String name, String link,
-                  String locationName,
-                  Coordinate coordinates,
-                  boolean hybrid, String date, String cfpLink, String cfpEndDate) {
+        String locationName,
+        Coordinate coordinates,
+        boolean hybrid, String date, String cfpLink, String cfpEndDate) {
 }
 
 class ConferenceReader implements AutoCloseable {
@@ -74,7 +74,7 @@ class ConferenceReader implements AutoCloseable {
         final boolean hasLinkInName = columns[0].startsWith("[");
         final boolean hasCfpLink = columns[4].startsWith("[");
 
-        String cfpLink ="";
+        String cfpLink = "";
         String cfpClose = "";
 
         if (hasCfpLink) {
@@ -100,11 +100,11 @@ class ConferenceReader implements AutoCloseable {
                 "yes".equalsIgnoreCase(columns[2]) || "true".equalsIgnoreCase(columns[2]),
                 columns[3],
                 cfpLink,
-                cfpClose
-                );
+                cfpClose);
     }
 
-    private Map<String, Coordinate> findLocations(final List<String[]> lines) throws InterruptedException, ExecutionException {
+    private Map<String, Coordinate> findLocations(final List<String[]> lines)
+            throws InterruptedException, ExecutionException {
         final var locationLookups = lines.stream()
                 .map(it -> it[1])
                 .filter(it -> !it.isBlank())
@@ -116,7 +116,8 @@ class ConferenceReader implements AutoCloseable {
     }
 
     private CompletableFuture<Coordinate> findLocation(final String name) {
-        // first check it is not in the column already: "city, country (lat, lon)", use dots, not commas for decimals.
+        // first check it is not in the column already: "city, country (lat, lon)", use
+        // dots, not commas for decimals.
         final int coordinateStart = name.indexOf('(');
         if (coordinateStart > 0) {
             final int coordinateEnd = name.indexOf(')', coordinateStart + 1);
@@ -154,13 +155,13 @@ class ConferenceReader implements AutoCloseable {
                 "limit=1");
         logger.info(() -> "Calling '" + uri + "'");
         return client.sendAsync(
-                        HttpRequest.newBuilder()
-                                .GET()
-                                .uri(uri)
-                                .timeout(Duration.ofMinutes(5))
-                                .header("accept-language", "en-EN,en")
-                                .build(),
-                        HttpResponse.BodyHandlers.ofString())
+                HttpRequest.newBuilder()
+                        .GET()
+                        .uri(uri)
+                        .timeout(Duration.ofMinutes(5))
+                        .header("accept-language", "en-EN,en")
+                        .build(),
+                HttpResponse.BodyHandlers.ofString())
                 .thenApply(response -> {
                     if (response.statusCode() != 200) {
                         throw new IllegalArgumentException("Invalid response: " + response);
@@ -196,7 +197,8 @@ class ConferenceReader implements AutoCloseable {
                     if (endName < 0) {
                         throw new IllegalArgumentException("No display name for '" + name + "'");
                     }
-                    final var displayNameSegments = json.substring(startName + "\"display_name\":\"".length(), endName).split(",");
+                    final var displayNameSegments = json.substring(startName + "\"display_name\":\"".length(), endName)
+                            .split(",");
                     return new Coordinate(
                             Double.parseDouble(json.substring(latStart + "\"lat\":\"".length(), latEnd)),
                             Double.parseDouble(json.substring(lonStart + "\"lon\":\"".length(), lonEnd)),
@@ -226,10 +228,10 @@ class Countries {
                 .replace(" ", "")
                 .replace(",", "")
                 .replace("'", "")
-                .replace("ç", "c")
-                .replace("ô", "o")
-                .replace("é", "e")
-                .replace("å", "a")));
+                .replace("\u00e7", "c")
+                .replace("\u00f4", "o")
+                .replace("\u00e9", "e")
+                .replace("\u00e5", "a")));
     }
 }
 
@@ -238,19 +240,19 @@ record GithubPages(Path source, Path output) {
         final var extensions = List.of(TablesExtension.create());
         final var parser = Parser.builder().extensions(extensions).build();
         final var renderer = HtmlRenderer.builder()
-          .extensions(extensions)
-          // Add attribute provider to open links in new windows
-          .attributeProviderFactory(ignored -> (node, tagName, attributes) -> {
-              if (node instanceof org.commonmark.node.Link && "a".equals(tagName)) {
-                  // Add target="_blank" and rel="noopener" for security to all links
-                  attributes.put("target", "_blank");
-            
-                  // Also add rel="noopener" as a security best practice
-                  String rel = attributes.getOrDefault("rel", "");
-                  attributes.put("rel", rel.isEmpty() ? "noopener" : rel + " noopener");
-                }
-            })
-          .build();
+                .extensions(extensions)
+                // Add attribute provider to open links in new windows
+                .attributeProviderFactory(ignored -> (node, tagName, attributes) -> {
+                    if (node instanceof org.commonmark.node.Link && "a".equals(tagName)) {
+                        // Add target="_blank" and rel="noopener" for security to all links
+                        attributes.put("target", "_blank");
+
+                        // Also add rel="noopener" as a security best practice
+                        String rel = attributes.getOrDefault("rel", "");
+                        attributes.put("rel", rel.isEmpty() ? "noopener" : rel + " noopener");
+                    }
+                })
+                .build();
         final var countries = new Countries();
         final var logger = Logger.getLogger(getClass().getSimpleName());
 
@@ -270,7 +272,8 @@ record GithubPages(Path source, Path output) {
     private List<Conference> filterConfs(List<Conference> conferences) {
         var thisyear = java.time.Year.now().getValue();
         return conferences.stream()
-                .filter(c -> c.date().contains(String.valueOf(thisyear)) || c.date().contains(String.valueOf(thisyear + 1)))
+                .filter(c -> c.date().contains(String.valueOf(thisyear))
+                        || c.date().contains(String.valueOf(thisyear + 1)))
                 .toList();
     }
 
@@ -307,49 +310,58 @@ record GithubPages(Path source, Path output) {
         return "" +
                 "    <div id=\"map\"></div>" +
                 "    <script src=\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.js\"\n" +
-                "      integrity=\"sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==\"\n" +
+                "      integrity=\"sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==\"\n"
+                +
                 "      crossorigin=\"\"></script>\n" +
                 "    <script>\n" +
                 "      (function () {\n" +
                 "          var map = L.map('map', {drawControl: true}).setView([51.505, -0.09], 13);\n" +
-                "          L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {\n" +
-                "              attribution: '&copy; <a href=\"http://osm.org/copyright\">OpenStreetMap</a>'\n" +
+                "          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n" +
+                "              attribution: '&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>'\n"
+                +
                 "          }).addTo(map);\n" +
                 confsToMap.stream()
                         .map(c -> {
                             final var title = c.name() + "<br>" + c.date() + "<br>" + c.locationName() +
-                                    (c.link().isBlank() ? "" : (
-                                            "<br><a" +
+                                    (c.link().isBlank() ? ""
+                                            : ("<br><a" +
                                                     " href='" + c.link() + "'" +
-                                                    " onmousedown='if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }'" +
-                                                    "setTimeout(function () {window.open('" + c.link() + "', '_blank').focus();}, 100)" +
-                                                    ">Link</a>"
-                                    ));
+                                                    " target='_blank'" +
+                                                    " rel='noopener noreferrer'" +
+                                                    " onmousedown='if (window.unbindTooltip) { window.unbindTooltip.unbind(); window.unbindTooltip = undefined; }'"
+                                                    +
+                                                    ">Link</a>"));
                             return "            " +
                                     "{ " +
                                     "tooltip: \"" + title.replace("\"", "\\\"") + "\", " +
                                     "marker: L.marker([" +
                                     c.coordinates().lat() + "," + c.coordinates().lon() + "], {" +
-                                    "alt:'" + c.locationName().replace("'", "\\'") + "', " +
-                                    "title:'" + c.name().replace("'", "\'") +
-                                    "'}) " +
+                                    "alt:\"" + c.locationName().replace("\"", "\\\"") + "\", " +
+                                    "title:\"" + c.name().replace("\"", "\\\"") +
+                                    "\"}) " +
                                     "}";
                         })
-                        .collect(joining(",\n", "          var markers = [\n", "\n          ];\n")) +
+                        .collect(joining(",\n", "          var markers = [\n", "\n          ];\n"))
+                +
                 "          markers.forEach(function (marker) {\n" +
-                "            marker.marker.on('mouseover', function() {\n" + // workaround to make it a bit persistent and enable to click on links
+                "            marker.marker.on('mouseover', function() {\n" + // workaround to make it a bit persistent
+                                                                             // and enable to click on links
                 "              marker.marker.bindTooltip(marker.tooltip, {permanent: true, interactive:true});\n" +
-                "              if (window.unbindTooltip && window.unbindTooltip.marker != marker) { window.unbindTooltip.unbind(); }\n" +
+                "              if (window.unbindTooltip && window.unbindTooltip.marker != marker) { window.unbindTooltip.unbind(); }\n"
+                +
                 "              unbindTooltip = {" +
-                "                version: window.unbindTooltip && window.unbindTooltip.marker == marker ? window.unbindTooltip.version + 1 : 1," +
+                "                version: window.unbindTooltip && window.unbindTooltip.marker == marker ? window.unbindTooltip.version + 1 : 1,"
+                +
                 "                marker: marker, " +
-                "                unbind: function () { marker.marker.unbindTooltip(); window.unbindTooltip = undefined; }" +
+                "                unbind: function () { marker.marker.unbindTooltip(); window.unbindTooltip = undefined; }"
+                +
                 "              };\n" +
                 "            });\n" +
                 "            marker.marker.on('mouseout', function() {\n" +
                 "              var version = window.unbindTooltip ? window.unbindTooltip.version : -1;\n" +
                 "              window.unbindTooltip && setTimeout(function () {\n" +
-                "                window.unbindTooltip && version == window.unbindTooltip.version && window.unbindTooltip.unbind();\n" +
+                "                window.unbindTooltip && version == window.unbindTooltip.version && window.unbindTooltip.unbind();\n"
+                +
                 "                window.unbindTooltip = undefined;\n" +
                 "              }, 3000);\n" +
                 "            });\n" +
@@ -372,13 +384,12 @@ record GithubPages(Path source, Path output) {
     }
 
     private String index(final Parser parser, final HtmlRenderer renderer,
-                         final List<Conference> conferences, final Countries countries) throws IOException {
+            final List<Conference> conferences, final Countries countries) throws IOException {
         final var html = renderer.render(parser.parse(Files.readString(source)));
-        final var patchedBody =
-                injectTableFilter(
-                        injectMap(
-                                injectConferenceLocation(html, conferences, countries),
-                                conferences));
+        final var patchedBody = injectTableFilter(
+                injectMap(
+                        injectConferenceLocation(html, conferences, countries),
+                        conferences));
         return """
                 <!DOCTYPE html>
                 <html>
@@ -388,29 +399,30 @@ record GithubPages(Path source, Path output) {
                     <meta http-equiv="X-UA-Compatible" content="IE=edge">
                     <title>Java Conferences</title>
                     <link href="https://pages-themes.github.io/minimal/assets/css/style.css?v=814b8723af0aa0ada9b5784da6b73d862bb74150" rel="stylesheet" />
-                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.4/css/flag-icons.min.css" integrity="sha512-uvXdJud8WaOlQFjlz9B15Yy2Au/bMAvz79F7Xa6OakCl2jvQPdHD0hb3dEqZRdSwG4/sknePXlE7GiarwA/9Wg==" crossorigin="anonymous" referrerpolicy="no-referrer" />""" +
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.4/css/flag-icons.min.css" integrity="sha512-uvXdJud8WaOlQFjlz9B15Yy2Au/bMAvz79F7Xa6OakCl2jvQPdHD0hb3dEqZRdSwG4/sknePXlE7GiarwA/9Wg==" crossorigin="anonymous" referrerpolicy="no-referrer" />"""
+                +
                 leafletCss() + """
-                    <style>
-                      input[data-filter] {
-                        width: 100%;
-                        margin: 4px 0;
-                        display: inline-block;
-                        border: 1px solid #ccc;
-                        box-shadow: inset 0 1px 3px #ddd;
-                        border-radius: 4px;
-                        box-sizing: border-box;
-                        padding-left: 10px;
-                        padding-right: 10px;
-                        padding-top: 6px;
-                        padding-bottom: 6px;
-                      }
-                      #map {
-                        height: 400px;
-                        margin: 1rem 0 1rem 0;
-                      }
-                    </style>
-                </head>
-                <body>""" +
+                            <style>
+                              input[data-filter] {
+                                width: 100%;
+                                margin: 4px 0;
+                                display: inline-block;
+                                border: 1px solid #ccc;
+                                box-shadow: inset 0 1px 3px #ddd;
+                                border-radius: 4px;
+                                box-sizing: border-box;
+                                padding-left: 10px;
+                                padding-right: 10px;
+                                padding-top: 6px;
+                                padding-bottom: 6px;
+                              }
+                              #map {
+                                height: 400px;
+                                margin: 1rem 0 1rem 0;
+                              }
+                            </style>
+                        </head>
+                        <body>""" +
                 patchedBody +
                 "  <script>\n" +
                 "    window.addEventListener('DOMContentLoaded', function () {\n" +
@@ -418,12 +430,16 @@ record GithubPages(Path source, Path output) {
                 "      var conferenceTable = document.getElementById('conferences');\n" +
                 "      var conferenceTableTrs = Array.from(conferenceTable.querySelectorAll('tbody > tr'))\n" +
                 "            .map(function (e) {\n" +
-                "              return {text: (e.innerText || e.textContent).toLowerCase(), element: e, display: e.style.display};\n" +
+                "              return {text: (e.innerText || e.textContent).toLowerCase(), element: e, display: e.style.display};\n"
+                +
                 "            });\n" +
-                "      conferenceFilter.addEventListener('keyup', function (e) {\n" + // todo: debounce? not critical yet
-                "        var filter = (conferenceFilter.value || '').toLowerCase().split(' ');\n" + // todo: support AND/OR keywords?
+                "      conferenceFilter.addEventListener('keyup', function (e) {\n" + // todo: debounce? not critical
+                                                                                      // yet
+                "        var filter = (conferenceFilter.value || '').toLowerCase().split(' ');\n" + // todo: support
+                                                                                                    // AND/OR keywords?
                 "        conferenceTableTrs.forEach(function (data) {\n" +
-                "          data.element.style.display = filter.some(function (it) { return data.text.indexOf(it) >= 0; }) ?\n" +
+                "          data.element.style.display = filter.some(function (it) { return data.text.indexOf(it) >= 0; }) ?\n"
+                +
                 "                                 data.display : 'none';\n" +
                 "        });\n" +
                 "      });\n" +
@@ -454,7 +470,8 @@ record GithubPages(Path source, Path output) {
                         "</p>\n" + mapContent);
     }
 
-    private String injectConferenceLocation(final String html, final List<Conference> conferences, final Countries countries) {
+    private String injectConferenceLocation(final String html, final List<Conference> conferences,
+            final Countries countries) {
         StringBuilder out = new StringBuilder();
         int pos = 0;
         int confIdx = 0;
@@ -466,19 +483,22 @@ record GithubPages(Path source, Path output) {
                 break;
             }
             int theadEnd = html.indexOf("</thead>", theadStart);
-            if (theadEnd < 0) throw new IllegalArgumentException("Missing </thead>");
+            if (theadEnd < 0)
+                throw new IllegalArgumentException("Missing </thead>");
             int headerRowEnd = html.indexOf("</tr>", theadStart);
-            if (headerRowEnd < 0 || headerRowEnd > theadEnd) throw new IllegalArgumentException("Missing header row </tr> before </thead>");
+            if (headerRowEnd < 0 || headerRowEnd > theadEnd)
+                throw new IllegalArgumentException("Missing header row </tr> before </thead>");
 
             // Copy up to header row, inject <th>Country</th>
             out.append(html, pos, headerRowEnd)
-               .append("<th>Country</th>")
-               .append(html, headerRowEnd, theadEnd + "</thead>".length());
+                    .append("<th>Country</th>")
+                    .append(html, headerRowEnd, theadEnd + "</thead>".length());
 
             // Find <tbody> or start after </thead>
             int tbodyStart = html.indexOf("<tbody>", theadEnd);
             int bodyStart;
-            if (tbodyStart < 0 || tbodyStart > html.indexOf("<thead>", theadEnd + 1) && html.indexOf("<thead>", theadEnd + 1) != -1) {
+            if (tbodyStart < 0 || tbodyStart > html.indexOf("<thead>", theadEnd + 1)
+                    && html.indexOf("<thead>", theadEnd + 1) != -1) {
                 // No <tbody> or next <thead> comes before <tbody>
                 bodyStart = theadEnd + "</thead>".length();
             } else {
@@ -492,16 +512,17 @@ record GithubPages(Path source, Path output) {
             int from = bodyStart;
             while (true) {
                 int endOfRow = html.indexOf("</tr>", from);
-                if (endOfRow < 0 || endOfRow > tableEnd) break;
+                if (endOfRow < 0 || endOfRow > tableEnd)
+                    break;
                 out.append(html, from, endOfRow)
-                   .append("<td>")
-                   .append(confIdx < conferences.size()
-                       ? countries.find(conferences.get(confIdx).coordinates().countryName())
-                           .map(c -> "<i class=\"fi fis fi-" + c + "\"></i>&nbsp;").orElse("")
-                           + conferences.get(confIdx).coordinates().countryName()
-                       : "")
-                   .append("</td>")
-                   .append("</tr>");
+                        .append("<td>")
+                        .append(confIdx < conferences.size()
+                                ? countries.find(conferences.get(confIdx).coordinates().countryName())
+                                        .map(c -> "<i class=\"fi fis fi-" + c + "\"></i>&nbsp;").orElse("")
+                                        + conferences.get(confIdx).coordinates().countryName()
+                                : "")
+                        .append("</td>")
+                        .append("</tr>");
                 from = endOfRow + "</tr>".length();
                 confIdx++;
             }
@@ -513,7 +534,8 @@ record GithubPages(Path source, Path output) {
     private String leafletCss() {
         return "" +
                 "    <link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@1.8.0/dist/leaflet.css\"\n" +
-                "      integrity=\"sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==\"\n" +
+                "      integrity=\"sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==\"\n"
+                +
                 "      crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"/>\n";
     }
 
