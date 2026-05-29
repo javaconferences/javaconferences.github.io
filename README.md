@@ -61,7 +61,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closes 1 June 2026) 🟢 |
 | [Porto Tech Hub](https://portotechhub.com/conference-2026/) | Porto, Portugal | no | 10 November 2026 | [Link](https://sessionize.com/pth-2026/) (Closes 14 June 2026) 🟢 |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | - |
-
+| [ASF Community Over Code / ChurConf](https://au.churconf.com) | Sydney, Australia | no | 18-19 November 2026 | [Link|https://tinyurl.com/asfchurconfcfp]
 
 ### 2027
 
