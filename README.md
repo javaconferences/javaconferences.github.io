@@ -49,7 +49,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Java Forum Nord](https://javaforumnord.de/2026/) | Hannover, Germany | no | 22 September 2026 | - |
 | [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September 2026 | [Link](https://app.confitura.pl/login) (Closes 7 June 2026) 🟢 |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closed 13 April 2026) |
-| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | - |
+| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | [Link](https://dvbe26.cfp.dev/#/login) (Closes 17 July) 🟢 |
 | [JavaCro'26](https://2026.javacro.hr/eng/) | Rovinj, Croatia | no | 11-14 October 2026 | [Link](https://sessionize.com/javacro26) (Closed 31 May 2026) |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | [Link](https://www.dev2next.com/cfp) (Closed 24 April 2026) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 14-15 October 2026 | [Link](https://sessionize.com/baselone-2026/) (Closed 30 April 2026) |
