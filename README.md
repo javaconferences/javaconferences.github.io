@@ -47,7 +47,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closed 9 March 2026) |
 | [JCConf Taiwan](https://jcconf.tw/2026/) | Taipei, Taiwan | no | 11 September 2026 | [Link](https://pretalx.com/jcconf-2026/cfp) (Closed 31 May 2026) |
 | [Java Forum Nord](https://javaforumnord.de/2026/) | Hannover, Germany | no | 22 September 2026 | - |
-| [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September 2026 | [Link](https://app.confitura.pl/login) (Closes 7 June 2026) 🟢 |
+| [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September 2026 | [Link](https://app.confitura.pl/login) (Closes 7 June 2026) 🟢\ |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closed 13 April 2026) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | [Link](https://dvbe26.cfp.dev/#/login) (Closes 17 July) 🟢 |
 | [JavaCro'26](https://2026.javacro.hr/eng/) | Rovinj, Croatia | no | 11-14 October 2026 | [Link](https://sessionize.com/javacro26) (Closed 31 May 2026) |
@@ -60,7 +60,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | [Link](https://sessionize.com/oredev-2026/) (Closed 31 March 2026) |
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closed 1 June 2026) |
 | [Porto Tech Hub](https://portotechhub.com/conference-2026/) | Porto, Portugal | no | 10 November 2026 | [Link](https://sessionize.com/pth-2026/) (Closes 14 June 2026) 🟢 |
-| [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | - |
+| [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | [link](https://sessionize.com/jfall26) 🟢 |
 | [ASF Community Over Code / ChurConf](https://au.churconf.com) | Sydney, Australia | no | 18-19 November 2026 | [Link](https://tinyurl.com/asfchurconfcfp) (Closes 31 July 2026) 🟢 |
 
 ### 2027
