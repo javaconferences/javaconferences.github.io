@@ -62,6 +62,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Porto Tech Hub](https://portotechhub.com/conference-2026/) | Porto, Portugal | no | 10 November 2026 | [Link](https://sessionize.com/pth-2026/) (Closed 14 June 2026) |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | [link](https://sessionize.com/jfall26) (Closes 1 September 2026) 🟢 |
 | [ASF Community Over Code / ChurConf](https://au.churconf.com) | Sydney, Australia | no | 18-19 November 2026 | [Link](https://tinyurl.com/asfchurconfcfp) (Closes 31 July 2026) 🟢 |
+| [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) | online | no | 1 December 2026 | [Link](https://sessionize.com/jakartaone-livestream-2026/) (Closed 08 September, 2026) 🟢 |
 
 ### 2027
 
