@@ -44,6 +44,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/) | Stuttgart, Germany | no | 9 July 2026 | - |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago, Dominican Republic | no | 17-18 July 2026 | [Link](https://bit.ly/jconfdominicana-cfp-2026) (Closed 18 March 2026) |
 | [JavaZone](https://2026.javazone.no/) | Lillestrøm, Norway | no | 2-3 September 2026 | [Link](https://2026.javazone.no/speaker/) (Closed 13 April 2026) |
+| [IntelliJ IDEA Conf](https://lp.jetbrains.com/intellij-idea-conf-2026/) | online                          | no |    8-9 September 2026 | - |
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closed 9 March 2026) |
 | [JCConf Taiwan](https://jcconf.tw/2026/) | Taipei, Taiwan | no | 11 September 2026 | [Link](https://pretalx.com/jcconf-2026/cfp) (Closed 31 May 2026) |
 | [Java Forum Nord](https://javaforumnord.de/2026/) | Hannover, Germany | no | 22 September 2026 | - |
