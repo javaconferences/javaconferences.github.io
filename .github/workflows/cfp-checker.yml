@@ -3,7 +3,7 @@ name: CFP Status Checker
 on:
   schedule:
     - cron: '0 6 * * *'  # Every day at 06:00 UTC
-  workflow_dispatch:       # Allow manual runs from the Actions tab
+  workflow_dispatch:
 
 jobs:
   check-cfp:
@@ -39,8 +39,6 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # The commit above carries [skip ci], so the push does not trigger the
-      # Github pages deploy. Dispatch it explicitly when the README changed.
       - name: Deploy Github pages
         if: steps.commit.outputs.changed == 'true'
         env:
