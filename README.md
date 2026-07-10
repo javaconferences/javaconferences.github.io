@@ -68,7 +68,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 22-24 February 2026 | [Link](https://sessionize.com/code-remix-summit-2027) (Closed 30 September 2026) 🟢 |
+| [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 22-24 February 2026 | [Link](https://sessionize.com/code-remix-summit-2027) (Closes 30 September 2026) 🟢 |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.ch/) | Lugano, Switzerland | no | 19 February 2027 | - |
 | [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 2-4 March 2027 | - |
 | [Voxxed Days CERN](https://cern.voxxeddays.ch/) | Geneva, Switzerland | no | 5 March 2027 | - |
