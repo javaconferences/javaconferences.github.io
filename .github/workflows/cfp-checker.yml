@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-24.04
     permissions:
       contents: write
-      actions: write   # needed to dispatch the Github pages workflow
+      actions: write
 
     steps:
       - name: Checkout
