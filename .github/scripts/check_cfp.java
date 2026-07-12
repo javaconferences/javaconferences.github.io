@@ -61,7 +61,7 @@ class CheckCfp {
 
         if (isOpen && !hasGreen) {
             return before + " " + GREEN_BALL + after;
-        } else if (!isOpen && hasGreen) {
+        } else if (!isOpen && (hasGreen || before.contains("Closes"))) {
             return before.replace("Closes", "Closed") + after.replace(" " + GREEN_BALL, "").replace(GREEN_BALL, "");
         }
         return line;
