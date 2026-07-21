@@ -3,13 +3,14 @@ name: CFP Status Checker
 on:
   schedule:
     - cron: '0 6 * * *'  # Every day at 06:00 UTC
-  workflow_dispatch:       # Allow manual runs from the Actions tab
+  workflow_dispatch:
 
 jobs:
   check-cfp:
     runs-on: ubuntu-24.04
     permissions:
       contents: write
+      actions: write
 
     steps:
       - name: Checkout
@@ -25,10 +26,21 @@ jobs:
         run: echo 'CheckCfp.main();/exit' | jshell --startup .github/scripts/check_cfp.java
 
       - name: Commit changes
+        id: commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git diff --quiet && echo "No changes to commit." || \
-            (git add README.md && \
-             git commit -m "chore: update CFP open/closed status [skip ci]" && \
-             git push)
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "chore: update CFP open/closed status [skip ci]"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy Github pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run gh-pages.yml --ref main
