@@ -64,18 +64,20 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [XtremeJ Online Conference](https://xtremej.dev/2026/) | online | no | 03 November 2026 | [link](https://tinyurl.com/xtreme2026) (Closed 31 July 2026) |
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | [link](https://sessionize.com/jfall26) (Closes 1 September 2026) 🟢 |
 | [ASF Community Over Code / ChurConf](https://au.churconf.com) | Sydney, Australia | no | 18-19 November 2026 | [Link](https://tinyurl.com/asfchurconfcfp) (Closed 31 July 2026) |
+| JJUG CCC 2026 Fall | Tokyo, Japan | no | 28 November 2026 | [Link](https://sessionize.com/jjug-ccc-2026-fall/) (Closes 31 August 2026) 🟢 |
 | [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) | online | no | 1 December 2026 | [Link](https://sessionize.com/jakartaone-livestream-2026/) (Closes 8 September 2026) 🟢 |
 
 ### 2027
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 22-24 February 2026 | [Link](https://sessionize.com/code-remix-summit-2027) (Closes 30 September 2026) 🟢 |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.ch/) | Lugano, Switzerland | no | 19 February 2027 | - |
-| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 2-4 March 2027 | - |
+| [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 22-24 February 2026 | [Link](https://sessionize.com/code-remix-summit-2027) (Closes 30 September 2026) 🟢 |
+| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 2-4 March 2027 | [Link](https://www.javaland.eu/de/referieren/) (Closes 14 September 2026) 🟢 |
 | [Voxxed Days CERN](https://cern.voxxeddays.ch/) | Geneva, Switzerland | no | 5 March 2027 | - |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.ch/) | Zurich, Switzerland | no | 9 March 2027 | - |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | - |
+| [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
 
 
 ## Archive
