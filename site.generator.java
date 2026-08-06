@@ -16,6 +16,7 @@ import java.net.http.HttpResponse;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.Duration;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
@@ -29,11 +30,8 @@ import java.util.stream.Stream;
 import static java.nio.charset.StandardCharsets.UTF_8;
 import static java.util.Locale.ROOT;
 import static java.util.Optional.ofNullable;
-import static java.util.concurrent.CompletableFuture.allOf;
 import static java.util.concurrent.CompletableFuture.completedFuture;
-import static java.util.function.Function.identity;
 import static java.util.stream.Collectors.joining;
-import static java.util.stream.Collectors.toMap;
 
 record Coordinate(double lat, double lon, String countryName) {
 }
@@ -105,14 +103,18 @@ class ConferenceReader implements AutoCloseable {
     }
 
     private Map<String, Coordinate> findLocations(final List<String[]> lines) throws InterruptedException, ExecutionException {
-        final var locationLookups = lines.stream()
+        final var locations = lines.stream()
                 .map(it -> it[1])
                 .filter(it -> !it.isBlank())
                 .distinct()
-                .collect(toMap(identity(), this::findLocation));
-        allOf(locationLookups.values().toArray(new CompletableFuture[0])).get();
-        return locationLookups.entrySet().stream()
-                .collect(toMap(Map.Entry::getKey, it -> it.getValue().getNow(null)));
+                .toList();
+        final var locationRegistry = new HashMap<String, Coordinate>();
+        for (final var location : locations) {
+            locationRegistry.put(location, findLocation(location).get());
+            // Keep requests within public Nominatim's one-request-per-second limit.
+            Thread.sleep(1_000);
+        }
+        return locationRegistry;
     }
 
     private CompletableFuture<Coordinate> findLocation(final String name) {
@@ -145,11 +147,9 @@ class ConferenceReader implements AutoCloseable {
         }
 
         // try to look up the location if not present
-        // Note: "https://nominatim.openstreetmap.org" was down when writing the script
-        final var uri = URI.create("https://nominatim.terrestris.de" +
-                "/search.php?" +
+        final var uri = URI.create("https://nominatim.openstreetmap.org" +
+                "/search?" +
                 "q=" + URLEncoder.encode(name, UTF_8) + "&" +
-                "polygon_geojson=1&" +
                 "format=jsonv2&" +
                 "limit=1");
         logger.info(() -> "Calling '" + uri + "'");
@@ -158,6 +158,7 @@ class ConferenceReader implements AutoCloseable {
                                 .GET()
                                 .uri(uri)
                                 .timeout(Duration.ofMinutes(5))
+                                .header("User-Agent", "javaconferences.org-site-generator/1.0 (+https://github.com/javaconferences/javaconferences.github.io)")
                                 .header("accept-language", "en-EN,en")
                                 .build(),
                         HttpResponse.BodyHandlers.ofString())
