@@ -50,5 +50,13 @@ else
   echo "jackson-annotations.jar already exists, skipping download."
 fi
 
-# Run jshell with the specified classpath and startup file
+# Run jshell with the specified classpath and startup file.
+# Drop any previous output first: jshell exits with 0 even when the script throws, so the generated
+# files are the only reliable signal that the run actually succeeded.
+rm -rf target/pages
 echo 'Runner.main();/exit' | jshell --class-path target/commonmark.jar:target/commonmark-ext-gfm-tables.jar:target/jackson-databind.jar:target/jackson-core.jar:target/jackson-annotations.jar --startup site.generator.java
+
+if [ ! -s target/pages/index.html ] || [ ! -s target/pages/conferences.json ]; then
+  echo "Generation failed: target/pages was not fully written (see the output above)." >&2
+  exit 1
+fi

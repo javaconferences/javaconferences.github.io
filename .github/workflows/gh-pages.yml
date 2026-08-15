@@ -26,6 +26,12 @@ jobs:
           curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.19.2/jackson-databind-2.19.2.jar -o target/jackson-databind.jar
           curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.19.2/jackson-annotations-2.19.2.jar -o target/jackson-annotations.jar
           echo 'Runner.main();/exit' | jshell --class-path target/commonmark.jar:target/commonmark-ext-gfm-tables.jar:target/jackson-databind.jar:target/jackson-core.jar:target/jackson-annotations.jar --startup site.generator.java
+          # jshell exits with 0 even when the script throws, so check the generated files instead;
+          # without this a failed geocoder lookup would deploy an incomplete site as a green build.
+          if [ ! -s target/pages/index.html ] || [ ! -s target/pages/conferences.json ]; then
+            echo "Generation failed: target/pages was not fully written (see the output above)." >&2
+            exit 1
+          fi
       - name: "Deploy Github Pages"
         uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:

@@ -4,6 +4,7 @@
 import org.commonmark.ext.gfm.tables.TablesExtension;
 import org.commonmark.parser.Parser;
 import org.commonmark.renderer.html.HtmlRenderer;
+import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.BufferedReader;
@@ -33,7 +34,8 @@ import static java.util.Optional.ofNullable;
 import static java.util.concurrent.CompletableFuture.completedFuture;
 import static java.util.stream.Collectors.joining;
 
-record Coordinate(double lat, double lon, String countryName) {
+// countryCode is the ISO 3166-1 alpha-2 code as reported by the geocoder, "" when unknown.
+record Coordinate(double lat, double lon, String countryName, String countryCode) {
 }
 
 record Conference(String name, String link,
@@ -43,6 +45,8 @@ record Conference(String name, String link,
 }
 
 class ConferenceReader implements AutoCloseable {
+    private static final int LOCATION_LOOKUP_ATTEMPTS = 3;
+
     private final Logger logger = Logger.getLogger(getClass().getSimpleName());
 
     private final BufferedReader reader;
@@ -110,11 +114,29 @@ class ConferenceReader implements AutoCloseable {
                 .toList();
         final var locationRegistry = new HashMap<String, Coordinate>();
         for (final var location : locations) {
-            locationRegistry.put(location, findLocation(location).get());
+            locationRegistry.put(location, findLocationWithRetries(location));
             // Keep requests within public Nominatim's one-request-per-second limit.
             Thread.sleep(1_000);
         }
         return locationRegistry;
+    }
+
+    // Public Nominatim throttles shared IPs (CI runners in particular) and occasionally answers with an
+    // empty result set, so a single failure must not decide the content of the generated page.
+    private Coordinate findLocationWithRetries(final String location) throws InterruptedException, ExecutionException {
+        for (int attempt = 1; ; attempt++) {
+            try {
+                return findLocation(location).get();
+            } catch (final ExecutionException e) {
+                if (attempt >= LOCATION_LOOKUP_ATTEMPTS) {
+                    throw e;
+                }
+                final int retryIn = attempt * 5;
+                logger.warning(() -> "Lookup of '" + location + "' failed (" + e.getCause().getMessage() +
+                        "), retrying in " + retryIn + "s.");
+                Thread.sleep(retryIn * 1_000L);
+            }
+        }
     }
 
     private CompletableFuture<Coordinate> findLocation(final String name) {
@@ -140,17 +162,22 @@ class ConferenceReader implements AutoCloseable {
             return completedFuture(new Coordinate(
                     Double.parseDouble(name.substring(1, sep).strip()),
                     Double.parseDouble(name.substring(sep + 1, coordinateEnd).strip()),
-                    name.substring(citySep, endCity).strip()));
+                    name.substring(citySep + 1, endCity).strip(),
+                    "")); // no ISO code available, resolved from the name through countries.properties
         }
         if ("online".equalsIgnoreCase(name)) { // TODO: refine
-            return completedFuture(new Coordinate(0., 0., "Online"));
+            return completedFuture(new Coordinate(0., 0., "Online", ""));
         }
 
-        // try to look up the location if not present
+        // try to look up the location if not present.
+        // addressdetails=1 gives us address.country_code (ISO 3166-1 alpha-2), which is what the flag
+        // icons need. Deriving it from the display_name tail instead is unreliable: that tail is free
+        // text and changes with the geocoder's language fallback and with which result ranks first.
         final var uri = URI.create("https://nominatim.openstreetmap.org" +
                 "/search?" +
                 "q=" + URLEncoder.encode(name, UTF_8) + "&" +
                 "format=jsonv2&" +
+                "addressdetails=1&" +
                 "limit=1");
         logger.info(() -> "Calling '" + uri + "'");
         return client.sendAsync(
@@ -173,35 +200,37 @@ class ConferenceReader implements AutoCloseable {
                     return body;
                 })
                 .thenApply(json -> {
-                    final int latStart = json.indexOf("\"lat\":\"");
-                    if (latStart < 0) {
-                        throw new IllegalArgumentException("Invalid lat start:" + latStart + "(" + json + ")");
+                    final JsonNode results;
+                    try {
+                        results = new ObjectMapper().readTree(json);
+                    } catch (final IOException e) {
+                        throw new IllegalArgumentException("Unparseable response for '" + name + "': " + json, e);
                     }
-                    final int latEnd = json.indexOf("\"", latStart + "\"lat\":\"".length() + 1);
-                    if (latEnd < 0) {
-                        throw new IllegalArgumentException("Invalid lat end:" + latEnd + "(" + json + ")");
+                    if (!results.isArray() || results.isEmpty()) {
+                        throw new IllegalArgumentException("No location found for '" + name + "' (" + json + ")");
                     }
-                    final int lonStart = json.indexOf("\"lon\":\"");
-                    if (lonStart < 0) {
-                        throw new IllegalArgumentException("Invalid lon start:" + lonStart + "(" + json + ")");
+                    final var result = results.get(0);
+                    final var lat = result.path("lat");
+                    final var lon = result.path("lon");
+                    if (lat.isMissingNode() || lon.isMissingNode()) {
+                        throw new IllegalArgumentException("No coordinates for '" + name + "' (" + json + ")");
                     }
-                    final int lonEnd = json.indexOf("\"", lonStart + "\"lon\":\"".length() + 1);
-                    if (lonEnd < 0) {
-                        throw new IllegalArgumentException("Invalid lon end:" + lonEnd + "(" + json + ")");
+                    final var address = result.path("address");
+                    final var countryCode = address.path("country_code").asText("").strip().toLowerCase(ROOT);
+                    var countryName = address.path("country").asText("").strip();
+                    if (countryName.isEmpty()) { // no addressdetails in the response, fall back on the display name
+                        final var displayName = result.path("display_name").asText("");
+                        if (displayName.isEmpty()) {
+                            throw new IllegalArgumentException("No display name for '" + name + "'");
+                        }
+                        final var segments = displayName.split(",");
+                        countryName = segments[segments.length - 1].strip();
                     }
-                    final int startName = json.indexOf("\"display_name\":\"");
-                    if (startName < 0) {
-                        throw new IllegalArgumentException("No display name for '" + name + "'");
-                    }
-                    final int endName = json.indexOf("\"", startName + "\"display_name\":\"".length() + 1);
-                    if (endName < 0) {
-                        throw new IllegalArgumentException("No display name for '" + name + "'");
-                    }
-                    final var displayNameSegments = json.substring(startName + "\"display_name\":\"".length(), endName).split(",");
                     return new Coordinate(
-                            Double.parseDouble(json.substring(latStart + "\"lat\":\"".length(), latEnd)),
-                            Double.parseDouble(json.substring(lonStart + "\"lon\":\"".length(), lonEnd)),
-                            displayNameSegments[displayNameSegments.length - 1].strip());
+                            Double.parseDouble(lat.asText()),
+                            Double.parseDouble(lon.asText()),
+                            countryName,
+                            countryCode);
                 });
     }
 
@@ -498,9 +527,7 @@ record GithubPages(Path source, Path output) {
                 out.append(html, from, endOfRow)
                    .append("<td>")
                    .append(confIdx < conferences.size()
-                       ? countries.find(conferences.get(confIdx).coordinates().countryName())
-                           .map(c -> "<i class=\"fi fis fi-" + c + "\"></i>&nbsp;").orElse("")
-                           + conferences.get(confIdx).coordinates().countryName()
+                       ? countryCell(countries, conferences.get(confIdx))
                        : "")
                    .append("</td>")
                    .append("</tr>");
@@ -510,6 +537,20 @@ record GithubPages(Path source, Path output) {
             pos = from;
         }
         return out.toString();
+    }
+
+    private String countryCell(final Countries countries, final Conference conference) {
+        final var coordinates = conference.coordinates();
+        final var isoCode = ofNullable(coordinates.countryCode())
+                .filter(it -> !it.isBlank())
+                .or(() -> countries.find(coordinates.countryName()));
+        if (isoCode.isEmpty() && !"Online".equalsIgnoreCase(coordinates.countryName())) {
+            Logger.getLogger(getClass().getSimpleName()).warning(() ->
+                    "No flag for '" + coordinates.countryName() + "' (" + conference.name() + ", " +
+                            conference.locationName() + "), rendering the country without an icon.");
+        }
+        return isoCode.map(it -> "<i class=\"fi fis fi-" + it + "\"></i>&nbsp;").orElse("") +
+                coordinates.countryName();
     }
 
     private String leafletCss() {
