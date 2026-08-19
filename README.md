@@ -71,7 +71,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 8-10 February 2027 | - |
+| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 8-10 February 2027 | [Link](https://sessionize.com/jfokus-2027/) (Closes 30 September 2026) 🟢 |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.ch/) | Lugano, Switzerland | no | 19 February 2027 | - |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 22-24 February 2026 | [Link](https://sessionize.com/code-remix-summit-2027) (Closes 30 September 2026) 🟢 |
 | [ConFoo Montreal]([https://confoo.ca/en/2027/](https://confoo.ca/en/2027/)) | Montreal, QC, Canada | no | 24-26 February 2027 | [Link](https://confoo.ca/en/2027/call-for-papers) (Closes 20 September 2026) 🟢 |
