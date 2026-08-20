@@ -54,6 +54,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JavaCro'26](https://2026.javacro.hr/eng/) | Rovinj, Croatia | no | 11-14 October 2026 | [Link](https://sessionize.com/javacro26) (Closed 31 May 2026) |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | [Link](https://www.dev2next.com/cfp) (Closed 24 April 2026) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 14-15 October 2026 | [Link](https://sessionize.com/baselone-2026/) (Closed 30 April 2026) |
+| [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 19-20 October 2026 | [Link]([https://forms.gle/nKreGcpfzx4zsLhU7](https://docs.google.com/forms/d/e/1FAIpQLSc9ITG71szuMVGbAUHrquGy4Fq6fgKvukKP10dWrqvMErmfqw/viewform)) (Closes 23 August 2026) 🟢 |
 | [jDD](https://jdd.org.pl/) | Krakow, Poland | no | 20-21 October 2026 | [Link](https://jdd.org.pl/cfp-2026/) (Closed 30 June 2026) |
 | [J On The Beach](https://www.jonthebeach.com/) | Torremolinos, Spain | yes | 29-30 October 2026 | [Link](https://confeti.app/) (Closed 31 March 2026) |
 | [W-JAX](https://jax.de/muenchen/) | Munich, Germany | yes | 2-6 November 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 May 2026) |
