@@ -56,6 +56,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 14-15 October 2026 | [Link](https://sessionize.com/baselone-2026/) (Closed 30 April 2026) |
 | [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 19-20 October 2026 | [Link]([https://forms.gle/nKreGcpfzx4zsLhU7](https://docs.google.com/forms/d/e/1FAIpQLSc9ITG71szuMVGbAUHrquGy4Fq6fgKvukKP10dWrqvMErmfqw/viewform)) (Closed 23 August 2026) |
 | [jDD](https://jdd.org.pl/) | Krakow, Poland | no | 20-21 October 2026 | [Link](https://jdd.org.pl/cfp-2026/) (Closed 30 June 2026) |
+| [JCON USA at IBM TechXchange](https://2026.usa.jcon.one/) | Atlanta, GA | no | 26-29 October 2026 | - |
 | [J On The Beach](https://www.jonthebeach.com/) | Torremolinos, Spain | yes | 29-30 October 2026 | [Link](https://confeti.app/) (Closed 31 March 2026) |
 | [W-JAX](https://jax.de/muenchen/) | Munich, Germany | yes | 2-6 November 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 May 2026) |
 | [Devoxx Morocco](https://devoxx.ma/) | Casablanca, Morocco | no | 4-5 November 2026 | [Link](https://dvma26.cfp.dev/) (Closed 5 July 2026) |
