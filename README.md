@@ -54,7 +54,9 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JavaCro'26](https://2026.javacro.hr/eng/) | Rovinj, Croatia | no | 11-14 October 2026 | [Link](https://sessionize.com/javacro26) (Closed 31 May 2026) |
 | [dev2next](https://www.dev2next.com/) | Lone Tree, CO, USA | no | 12-15 October 2026 | [Link](https://www.dev2next.com/cfp) (Closed 24 April 2026) |
 | [BaselOne](https://baselone.org/) | Basel, Switzerland | no | 14-15 October 2026 | [Link](https://sessionize.com/baselone-2026/) (Closed 30 April 2026) |
+| [Ya!vaConf](https://yavaconf.com/en/) | Warsaw, Poland | yes | 19-20 October 2026 | [Link]([https://forms.gle/nKreGcpfzx4zsLhU7](https://docs.google.com/forms/d/e/1FAIpQLSc9ITG71szuMVGbAUHrquGy4Fq6fgKvukKP10dWrqvMErmfqw/viewform)) (Closed 23 August 2026) |
 | [jDD](https://jdd.org.pl/) | Krakow, Poland | no | 20-21 October 2026 | [Link](https://jdd.org.pl/cfp-2026/) (Closed 30 June 2026) |
+| [JCON USA at IBM TechXchange](https://2026.usa.jcon.one/) | Atlanta, GA | no | 26-29 October 2026 | - |
 | [J On The Beach](https://www.jonthebeach.com/) | Torremolinos, Spain | yes | 29-30 October 2026 | [Link](https://confeti.app/) (Closed 31 March 2026) |
 | [W-JAX](https://jax.de/muenchen/) | Munich, Germany | yes | 2-6 November 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 May 2026) |
 | [Devoxx Morocco](https://devoxx.ma/) | Casablanca, Morocco | no | 4-5 November 2026 | [Link](https://dvma26.cfp.dev/) (Closed 5 July 2026) |
@@ -79,11 +81,13 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Voxxed Days CERN](https://cern.voxxeddays.ch/) | Geneva, Switzerland | no | 5 March 2027 | - |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.ch/) | Zurich, Switzerland | no | 9 March 2027 | - |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | - |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | - |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
 
 
 ## Archive
+
 
 ### 2025
 
