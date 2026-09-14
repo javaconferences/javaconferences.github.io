@@ -63,11 +63,11 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Øredev](https://oredev.org/) | Malmö, Sweden | no | 4-6 November 2026 | [Link](https://sessionize.com/oredev-2026/) (Closed 31 March 2026) |
 | [Heapcon](https://heapcon.io/2026) | Belgrade, Serbia | no | 5-6 November 2026 | [Link](https://forms.gle/QBM1aqkL8yS4c6YM8) (Closed 1 June 2026) |
 | [Porto Tech Hub](https://portotechhub.com/conference-2026/) | Porto, Portugal | no | 10 November 2026 | [Link](https://sessionize.com/pth-2026/) (Closed 14 June 2026) |
-| [XtremeJ Online Conference](https://xtremej.dev/2026/) | online | no | 03 November 2026 | [link](https://tinyurl.com/xtreme2026) (Closed 31 July 2026) |
-| [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | [link](https://sessionize.com/jfall26) (Closed 1 September 2026) |
+| [XtremeJ Online Conference](https://xtremej.dev/2026/) | online | no | 03 November 2026 | [Link](https://tinyurl.com/xtreme2026) (Closed 31 July 2026) |
+| [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | [Link](https://sessionize.com/jfall26) (Closed 1 September 2026) |
 | [ASF Community Over Code / ChurConf](https://au.churconf.com) | Sydney, Australia | no | 18-19 November 2026 | [Link](https://tinyurl.com/asfchurconfcfp) (Closed 31 July 2026) |
 | [JJUG CCC 2026 Fall](https://www.java-users.jp/) | Tokyo, Japan | no | 28 November 2026 | [Link](https://sessionize.com/jjug-ccc-2026-fall/) (Closed 31 August 2026) |
-| [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) | online | no | 1 December 2026 | [Link](https://sessionize.com/jakartaone-livestream-2026/) (Closed 8 September 2026) |
+| [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) | online | no | 1 December 2026 | [Link](https://sessionize.com/jakartaone-livestream-2026/) (Closes 15 September 2026) 🟢 |
 
 ### 2027
 
@@ -82,7 +82,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Voxxed Days Zurich](https://zurich.voxxeddays.ch/) | Zurich, Switzerland | no | 9 March 2027 | - |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closes 31 October 2026) 🟢 |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
-| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 |[Link](https://sessionize.com/jcon-europe-2027) (Closes 30 October 2026) 🟢 |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 23 October 2026) 🟢 |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
 
 
