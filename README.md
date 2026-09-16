@@ -67,7 +67,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [J-Fall](https://jfall.nl) | Ede, Netherlands | no | 11-12 November 2026 | [Link](https://sessionize.com/jfall26) (Closed 1 September 2026) |
 | [ASF Community Over Code / ChurConf](https://au.churconf.com) | Sydney, Australia | no | 18-19 November 2026 | [Link](https://tinyurl.com/asfchurconfcfp) (Closed 31 July 2026) |
 | [JJUG CCC 2026 Fall](https://www.java-users.jp/) | Tokyo, Japan | no | 28 November 2026 | [Link](https://sessionize.com/jjug-ccc-2026-fall/) (Closed 31 August 2026) |
-| [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) | online | no | 1 December 2026 | [Link](https://sessionize.com/jakartaone-livestream-2026/) (Closes 15 September 2026) 🟢 |
+| [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) | online | no | 1 December 2026 | [Link](https://sessionize.com/jakartaone-livestream-2026/) (Closed 15 September 2026) |
 
 ### 2027
 
