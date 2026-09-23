@@ -77,11 +77,12 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 8-10 February 2027 | [Link](https://sessionize.com/jfokus-2027/) (Closes 30 September 2026) 🟢 |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.ch/) | Lugano, Switzerland | no | 19 February 2027 | [Link](https://vdt27.cfp.dev/) (Closes 23 October 2026) 🟢 |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 22-24 February 2026 | [Link](https://sessionize.com/code-remix-summit-2027) (Closes 30 September 2026) 🟢 |
-| [ConFoo Montreal]([https://confoo.ca/en/2027/](https://confoo.ca/en/2027/)) | Montreal, QC, Canada | no | 24-26 February 2027 | [Link](https://confoo.ca/en/2027/call-for-papers) (Closes 20 September 2026) 🟢 |
+| [ConFoo Montreal]([https://confoo.ca/en/2027/](https://confoo.ca/en/2027/)) | Montreal, QC, Canada | no | 24-26 February 2027 | [Link](https://confoo.ca/en/2027/call-for-papers) (Closed 20 September 2026) |
 | [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 2-4 March 2027 | [Link](https://www.javaland.eu/de/referieren/) (Closed 14 September 2026) |
 | [Voxxed Days CERN](https://cern.voxxeddays.ch/) | Geneva, Switzerland | no | 5 March 2027 | [Link](https://vdcern27.cfp.dev/) (Closes 23 October 2026) 🟢 |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.ch/) | Zurich, Switzerland | no | 9 March 2027 | [Link](https://vdz27.cfp.dev/) (Closes 23 October 2026) 🟢 |
-| [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closes 22 September 2026) 🟢 |
+| [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closes 30 September 2026) 🟢 |
+| [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 23-25 March 2027 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome/page/page) (Closes 9 October 2026) 🟢 |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closes 31 October 2026) 🟢 |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 23 October 2026) 🟢 |
