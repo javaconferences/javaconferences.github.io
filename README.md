@@ -88,6 +88,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 23 October 2026) 🟢 |
 | [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
+| [J-Spring](https://jspring.nl/) | Utrecht, Netherlands | no | 10 June 2027 | Not open yet |
 
 
 ## Archive
