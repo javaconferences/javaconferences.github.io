@@ -84,6 +84,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closed 30 September 2026) |
 | [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 23-25 March 2027 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome/page/page) (Closes 9 October 2026) 🟢 |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closes 31 October 2026) 🟢 |
+| [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 23 October 2026) 🟢 |
 | [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
