@@ -48,6 +48,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [KCDC](https://www.kcdc.info/) | Kansas City, MO, USA | no | 9-11 September 2026 | [Link](https://sessionize.com/kcdc-2026) (Closed 9 March 2026) |
 | [JCConf Taiwan](https://jcconf.tw/2026/) | Taipei, Taiwan | no | 11 September 2026 | [Link](https://pretalx.com/jcconf-2026/cfp) (Closed 31 May 2026) |
 | [Java Forum Nord](https://javaforumnord.de/2026/) | Hannover, Germany | no | 22 September 2026 | - |
+| [BED-Con](https://bed-con.org/2026/home) | Berlin, Germany | no | 23-24 September 2026 | [Link](https://sessionize.com/bed-con-2026/) (Closed 26 April 2026) |
 | [Confitura](https://2026.confitura.pl) | Warsaw, Poland | no | 25-26 September 2026 | [Link](https://app.confitura.pl/login) (Closed 7 June 2026) |
 | [JAX London](https://jaxlondon.com/) | London, UK | yes | 5-9 October 2026 | [Link](https://callforpapers.sandsmedia.com/) (Closed 13 April 2026) |
 | [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 5-9 October 2026 | [Link](https://dvbe26.cfp.dev/#/login) (Closed 17 July 2026) |
