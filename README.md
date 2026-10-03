@@ -89,6 +89,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 23 October 2026) 🟢 |
+| [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | TBA |
 | [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
 | [jPrime](https://jprime.io/) | Sofia, Bulgaria | no | 19-20 May 2027 | [Link](https://jprime.io/cfp) (Closes 15 February 2027) 🟢 |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
