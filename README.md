@@ -95,6 +95,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [jPrime](https://jprime.io/) | Sofia, Bulgaria | no | 19-20 May 2027 | [Link](https://jprime.io/cfp) (Closes 15 February 2027) 🟢 |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
 | [J-Spring](https://jspring.nl/) | Utrecht, Netherlands | no | 10 June 2027 | Not open yet |
+| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 4-8 October 2027 | Opens 1 June 2027 |
 
 
 ## Archive
