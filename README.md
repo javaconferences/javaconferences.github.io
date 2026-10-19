@@ -88,7 +88,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closes 31 October 2026) 🟢 |
 | [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
-| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 23 October 2026) 🟢 |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 30 October 2026) 🟢 |
 | [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | TBA |
 | [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
 | [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 10-14 May 2027 | [Link](https://callforpapers.sandsmedia.com/) (Closes 11 November 2026) 🟢 |
