@@ -1,0 +1,44 @@
+name: Refresh geocoding cache
+
+on:
+  schedule:
+    # Weekly: Monday 03:23 UTC. Resolves any new/changed conference locations and commits the
+    # refreshed coordinates so the generator keeps resolving offline (no live Nominatim per build).
+    - cron: '23 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-26.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          # fetch-history + push back so the cache commit lands on main.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up JDK
+        uses: actions/setup-java@v5
+        with:
+          distribution: 'zulu'
+          java-version: '25'
+          cache: 'maven'
+
+      - name: Re-resolve all locations
+        # Only resolves + writes locations-cache.properties; does not regenerate the site.
+        run: mvn -B clean process-classes -Dcommand=refresh-locations
+
+      - name: Commit refreshed cache
+        run: |
+          if git diff --quiet -- locations-cache.properties; then
+            echo "No location changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add locations-cache.properties
+            git commit -m "chore(geocoder): refresh location cache [skip ci]"
+            git push
+          fi

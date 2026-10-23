@@ -1,62 +1,19 @@
 #!/bin/bash
+# Builds the static site + JSON API.
+# process-classes runs the Fusion CliLauncher (exec-maven-plugin) with the `site` @Command,
+# which generates target/pages in-process, so the JVM exits when the container closes.
 
-#!/bin/bash
+set -euo pipefail
 
-# Check if the target directory exists, create if it doesn't
-if [ ! -d "target" ]; then
-  echo "Creating target directory..."
-  mkdir -p target
-else
-  echo "Target directory already exists."
-fi
+mvn clean process-classes -Dcommand=site
 
-# Check if commonmark.jar exists, if not download it
-if [ ! -f "target/commonmark.jar" ]; then
-  echo "Downloading commonmark.jar..."
-  curl https://repo1.maven.org/maven2/org/commonmark/commonmark/0.19.0/commonmark-0.19.0.jar -o target/commonmark.jar
-else
-  echo "commonmark.jar already exists, skipping download."
-fi
-
-# Check if commonmark-ext-gfm-tables.jar exists, if not download it
-if [ ! -f "target/commonmark-ext-gfm-tables.jar" ]; then
-  echo "Downloading commonmark-ext-gfm-tables.jar..."
-  curl https://repo1.maven.org/maven2/org/commonmark/commonmark-ext-gfm-tables/0.19.0/commonmark-ext-gfm-tables-0.19.0.jar -o target/commonmark-ext-gfm-tables.jar
-else
-  echo "commonmark-ext-gfm-tables.jar already exists, skipping download."
-fi
-
-# Download Jackson Core jar if it doesn't exist
-if [ ! -f "target/jackson-core.jar" ]; then
-  echo "Downloading jackson-core.jar..."
-  curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.jar -o target/jackson-core.jar
-else
-  echo "jackson-core.jar already exists, skipping download."
-fi
-
-# Download Jackson Databind jar if it doesn't exist
-if [ ! -f "target/jackson-databind.jar" ]; then
-  echo "Downloading jackson-databind.jar..."
-  curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.18.0/jackson-databind-2.18.0.jar -o target/jackson-databind.jar
-else
-  echo "jackson-databind.jar already exists, skipping download."
-fi
-
-# Download Jackson Annotations jar if it doesn't exist
-if [ ! -f "target/jackson-annotations.jar" ]; then
-  echo "Downloading jackson-annotations.jar..."
-  curl https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.18.0/jackson-annotations-2.18.0.jar -o target/jackson-annotations.jar
-else
-  echo "jackson-annotations.jar already exists, skipping download."
-fi
-
-# Run jshell with the specified classpath and startup file.
-# Drop any previous output first: jshell exits with 0 even when the script throws, so the generated
-# files are the only reliable signal that the run actually succeeded.
-rm -rf target/pages
-echo 'Runner.main();/exit' | jshell --class-path target/commonmark.jar:target/commonmark-ext-gfm-tables.jar:target/jackson-databind.jar:target/jackson-core.jar:target/jackson-annotations.jar --startup site.generator.java
-
-if [ ! -s target/pages/index.html ] || [ ! -s target/pages/conferences.json ]; then
+# Verify the key outputs were produced (the CLI exits 0 even if a geocoder lookup
+# silently degrades, so assert on the generated files instead).
+if [ ! -s target/pages/index.html ] || [ ! -s target/pages/conferences.json ] \
+   || [ ! -s target/pages/api/conferences/latest.json ] \
+   || [ ! -s target/pages/api/index.html ] || [ ! -s target/pages/api/openapi.js ]; then
   echo "Generation failed: target/pages was not fully written (see the output above)." >&2
   exit 1
 fi
+
+echo "Build OK: target/pages is ready to deploy."
