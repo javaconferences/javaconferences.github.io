@@ -7,7 +7,7 @@ on:
 
 jobs:
   check-cfp:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     permissions:
       contents: write
       actions: write
@@ -23,7 +23,9 @@ jobs:
           java-version: '25'
 
       - name: Check CFP dates and update README
-        run: echo 'CheckCfp.main();/exit' | jshell --startup .github/scripts/check_cfp.java
+        run: |
+          # Runs the @Command(name="check-cfp") via the Fusion CLI.
+          mvn -B -q process-classes -Dcommand=check-cfp
 
       - name: Commit changes
         id: commit
@@ -33,7 +35,7 @@ jobs:
           if git diff --quiet; then
             echo "No changes to commit."
           else
-            git add README.md
+            git add README.adoc
             git commit -m "chore: update CFP open/closed status [skip ci]"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
