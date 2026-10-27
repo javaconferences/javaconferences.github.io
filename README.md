@@ -91,6 +91,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 15-17 April 2027 | [Link](https://dvgr27.cfp.dev/) (Closes 30 November 2026) 🟢 |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closes 31 October 2026) 🟢 |
 | [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
+| [KotlinConf](https://kotlinconf.com/) | Kraków, Poland | no | 21-23 April 2027 | [Link](https://sessionize.com/kotlinconf-2027) (Closes 27 November 2026) 🟢 |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closes 30 October 2026) 🟢 |
 | [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | TBA |
 | [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
