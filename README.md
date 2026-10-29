@@ -88,6 +88,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closed 30 September 2026) |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 31 March - 1 April 2027 | [Link](https://vdams27.cfp.dev/)(Closes 1 December 2026) 🟢 |
 | [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 23-25 March 2027 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome/page/page) (Closed 9 October 2026) |
+| [Devoxx France](https://www.devoxx.fr/en) | Paris, France | no | 7-9 April 2027 | Opens 23 November 2026 |
 | [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 15-17 April 2027 | [Link](https://dvgr27.cfp.dev/) (Closes 30 November 2026) 🟢 |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closes 31 October 2026) 🟢 |
@@ -222,7 +223,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [KotlinConf](https://kotlinconf.com/) | Copenhagen, Denmark | yes? | 22-24 May 2024 | [Link](https://sessionize.com/kotlinconf-2024/) (Closed November 27) |
 | [JCON OpenBlend Slovenia](https://slovenia.jcon.one) | Portorož, Slovenia | no | 29-31 May 2024 | [Link](https://sessionize.com/makeit-jcon-2024/) (Closed February 3rd, 2024) |
 | [Spring I/O](https://2024.springio.net/) | Barcelona, Spain | no | 30-31 May 2024 | [Link](https://sessionize.com/spring-io-2024/) (Closed 18 February, 2024) |
-| [JNation](https://jnation.pt/) | Coimbra, Portugal | yes | 4-5 June 2024 | [Link](https://sessionize.com/jnation-2024/) (Closed 31 January, 2024) |    
+| [JNation](https://jnation.pt/) | Coimbra, Portugal | yes | 4-5 June 2024 | [Link](https://sessionize.com/jnation-2024/) (Closed 31 January, 2024) |
 | [JSail](https://jsail.ijug.eu/) | Hemelum, The Netherlands | no | 3-7 June 2024 | Unconference, no CFP |
 | [DevBcn](https://devbcn.com) | Barcelona, Spain | no | 13-14 June 2024 | [CFP](https://sessionize.com/devbcn-2024/) |
 | [JavaDay Lviv](https://www.javaday.org.ua/) | Lviv, Ukraine | yes | 14-15 June 2024 | [CFP](https://www.papercall.io/java-day-lviv-2024) (Closed April 6) |
@@ -252,7 +253,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [W-JAX](https://jax.de/muenchen) | Munich, Germany | yes | 4-8 November 2024 | [Link](https://callforpapers.sandsmedia.com/) (Closed May 6) |
 | [oredev](https://oredev.org) | Malmö, Sweden | no | 6-8 November 2024 | [Link](https://oredev.org/callforpaper) (Closed March 31) |
 | [J-Fall](https://jfall.nl/) | Ede, The Netherlands | no | 7 November 2024 | [Link](https://sessionize.com/jfall24/) (Closed September 1) |
-| [XtremeJ](https://xtremej.dev/2024/) | Online | no | 5th November 2024 | [Link](https://forms.gle/njHm9ah8u8Wqp1Ai6) (Closes September 20th) | 
+| [XtremeJ](https://xtremej.dev/2024/) | Online | no | 5th November 2024 | [Link](https://forms.gle/njHm9ah8u8Wqp1Ai6) (Closes September 20th) |
 | [IT-Tage 2024](https://www.it-tage.org) | Frankfurt am Main, Germany | no | 9-12 December 2024 | [Link](https://www.it-tage.org/cfp) (Closed April 29) |
 | [JakartaOne Livestream 2024](https://jakartaone.org/2024/) | online | no | 3 December 2024 | [Link](https://www.papercall.io/jakartaone-2024) (Closed September 15, 2024) |
 
@@ -333,7 +334,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 You can find the list of conferences in [JSON format](https://javaconferences.org/conferences.json), limited to the conferences from this year and the next year.
 
 ## MCP Server
-The [JavaConf MCP Server](https://github.com/bmvermeer/javaconfmcp) can be used in your AI Assistant or Agent 
+The [JavaConf MCP Server](https://github.com/bmvermeer/javaconfmcp) can be used in your AI Assistant or Agent
 
 ## Additions, Changes, Corrections?
 
