@@ -77,7 +77,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
 | --- | --- | ---: | ---: | --- |
-| [jChampions](https://jchampionsconf.com/index.html) | online | no | 21-26 January 2027 | - |
+| [jChampions](https://jchampionsconf.com/index.html) | online | no | 21-26 January 2027 | [Link](https://sessionize.com/jchampions-conference-2027/) (Closed 28 October 2026)|
 | [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 8-10 February 2027 | [Link](https://sessionize.com/jfokus-2027/) (Closed 30 September 2026) |
 | [Voxxed Days Ticino](https://ticino.voxxeddays.ch/) | Lugano, Switzerland | no | 19 February 2027 | [Link](https://vdt27.cfp.dev/) (Closed 23 October 2026) |
 | [Code Remix Summit](https://coderemix.ai/) | Miami, FL, USA | no | 22-24 February 2027 | [Link](https://sessionize.com/ai-software-factory-summit-2027) (Closed 30 September 2026) |
