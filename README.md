@@ -85,6 +85,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 2-4 March 2027 | [Link](https://www.javaland.eu/de/referieren/) (Closed 14 September 2026) |
 | [Voxxed Days CERN](https://cern.voxxeddays.ch/) | Geneva, Switzerland | no | 5 March 2027 | [Link](https://vdcern27.cfp.dev/) (Closed 23 October 2026) |
 | [Voxxed Days Zurich](https://zurich.voxxeddays.ch/) | Zurich, Switzerland | no | 9 March 2027 | [Link](https://vdz27.cfp.dev/) (Closed 23 October 2026) |
+| [JChateau](https://www.jchateau.org/) | Loire Valley, France | no | 10-14 March 2027 | Unconference, no CFP |
 | [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 23-25 March 2027 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome/page/page) (Closed 9 October 2026) |
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closed 30 September 2026) |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 31 March - 1 April 2027 | [Link](https://vdams27.cfp.dev/)(Closes 1 December 2026) 🟢 |
