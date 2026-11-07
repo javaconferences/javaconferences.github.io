@@ -91,6 +91,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 31 March - 1 April 2027 | [Link](https://vdams27.cfp.dev/)(Closes 1 December 2026) 🟢 |
 | [ChurConf Seoul](https://kr.churconf.com/) | Seoul, South Korea | no | 3 April 2027 | 15 October - 15 December 2026 |  [Link](https://docs.google.com/forms/d/e/1FAIpQLSf3h27blnyEaWfL9VgLUKcJw9_I3aPYJ283QtoNQWg733NqWw/viewform)(Closes 15 December 2026) 🟢 |
 | [Devoxx France](https://www.devoxx.fr/en) | Paris, France | no | 7-9 April 2027 | Opens 23 November 2026 |
+| [DEVJVM 2027](https://devjvm.com/) | Barranquilla, Colombia | no | 10 April 2027 | [Link](https://sessionize.com/devjvm-2027) (Closes 18 December 2026) 🟢 |
 | [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 15-17 April 2027 | [Link](https://dvgr27.cfp.dev/) (Closes 30 November 2026) 🟢 |
 | [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closed 31 October 2026) |
