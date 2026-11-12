@@ -100,7 +100,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closed 30 October 2026) |
 | [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | TBA |
 | [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
-| [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 10-14 May 2027 | [Link](https://callforpapers.sandsmedia.com/) (Closes 11 November 2026) 🟢 |
+| [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 10-14 May 2027 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 November 2026) |
 | [jPrime](https://jprime.io/) | Sofia, Bulgaria | no | 19-20 May 2027 | [Link](https://jprime.io/cfp) (Closes 15 February 2027) 🟢 |
 | [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
 | [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 25-26 May 2027 | [Link](https://sessionize.com/jnation-2027/) (Closes 8 January 2027) 🟢 |
