@@ -2,6 +2,45 @@
 
 Missing a conference, seeing an issue, or something needs an update? Send a pull request to the [Github repository](https://github.com/javaconferences/javaconferences.github.io/).
 
+
+### 2027
+
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [jChampions](https://jchampionsconf.com/index.html) | online | no | 21-26 January 2027 | [Link](https://sessionize.com/jchampions-conference-2027/) (Closed 28 October 2026)|
+| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 8-10 February 2027 | [Link](https://sessionize.com/jfokus-2027/) (Closed 30 September 2026) |
+| [Voxxed Days Ticino](https://ticino.voxxeddays.ch/) | Lugano, Switzerland | no | 19 February 2027 | [Link](https://vdt27.cfp.dev/) (Closed 23 October 2026) |
+| [AI Software Factory Summit](https://moderne.ai/ai-software-factory/) | Miami, FL, USA | no | 22-24 February 2027 | [Link](https://sessionize.com/ai-software-factory-summit-2027) (Closed 30 September 2026) |
+| [ConFoo Montreal]([https://confoo.ca/en/2027/](https://confoo.ca/en/2027/)) | Montreal, QC, Canada | no | 24-26 February 2027 | [Link](https://confoo.ca/en/2027/call-for-papers) (Closed 20 September 2026) |
+| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 2-4 March 2027 | [Link](https://www.javaland.eu/de/referieren/) (Closed 14 September 2026) |
+| [Voxxed Days CERN](https://cern.voxxeddays.ch/) | Geneva, Switzerland | no | 5 March 2027 | [Link](https://vdcern27.cfp.dev/) (Closed 23 October 2026) |
+| [Voxxed Days Zurich](https://zurich.voxxeddays.ch/) | Zurich, Switzerland | no | 9 March 2027 | [Link](https://vdz27.cfp.dev/) (Closed 23 October 2026) |
+| [JChateau](https://www.jchateau.org/) | Loire Valley, France | no | 10-14 March 2027 | Unconference, no CFP |
+| [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 23-25 March 2027 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome/page/page) (Closed 9 October 2026) |
+| [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closed 30 September 2026) |
+| [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 31 March - 1 April 2027 | [Link](https://vdams27.cfp.dev/)(Closes 1 December 2026) 🟢 |
+| [ChurConf Seoul](https://kr.churconf.com/) | Seoul, South Korea | no | 3 April 2027 | 15 October - 15 December 2026 |  [Link](https://docs.google.com/forms/d/e/1FAIpQLSf3h27blnyEaWfL9VgLUKcJw9_I3aPYJ283QtoNQWg733NqWw/viewform)(Closes 15 December 2026) 🟢 |
+| [Devoxx France](https://www.devoxx.fr/en) | Paris, France | no | 7-9 April 2027 | Opens 23 November 2026 |
+| [DEVJVM 2027](https://devjvm.com/) | Barranquilla, Colombia | no | 10 April 2027 | [Link](https://sessionize.com/devjvm-2027) (Closes 18 December 2026) 🟢 |
+| [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
+| [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 15-17 April 2027 | [Link](https://dvgr27.cfp.dev/) (Closes 30 November 2026) 🟢 |
+| [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closed 31 October 2026) |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closed 31 October 2026) |
+| [KotlinConf](https://kotlinconf.com/) | Kraków, Poland | no | 21-23 April 2027 | [Link](https://sessionize.com/kotlinconf-2027) (Closes 27 November 2026) 🟢 |
+| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closed 30 October 2026) |
+| [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | TBA |
+| [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
+| [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 10-14 May 2027 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 November 2026) |
+| [jPrime](https://jprime.io/) | Sofia, Bulgaria | no | 19-20 May 2027 | [Link](https://jprime.io/cfp) (Closes 15 February 2027) 🟢 |
+| [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
+| [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 25-26 May 2027 | [Link](https://sessionize.com/jnation-2027/) (Closes 8 January 2027) 🟢 |
+| [J-Spring](https://jspring.nl/) | Utrecht, Netherlands | no | 10 June 2027 | Not open yet |
+| [JCrete®](https://www.jcrete.org) | Chania, Greece | no | 19-23 July 2027 | Unconference, no CFP |
+| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 4-8 October 2027 | Opens 1 June 2027 |
+
+
+## Archive
+
 ### 2026
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
@@ -72,44 +111,6 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | Thessaloniki, Greece | no | 20-21 November 2026 | - |
 | [JJUG CCC 2026 Fall](https://www.java-users.jp/) | Tokyo, Japan | no | 28 November 2026 | [Link](https://sessionize.com/jjug-ccc-2026-fall/) (Closed 31 August 2026) |
 | [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) | online | no | 1 December 2026 | [Link](https://sessionize.com/jakartaone-livestream-2026/) (Closed 15 September 2026) |
-
-### 2027
-
-| Conference | Location | Hybrid | (Expected) Date | CFP Link |
-| --- | --- | ---: | ---: | --- |
-| [jChampions](https://jchampionsconf.com/index.html) | online | no | 21-26 January 2027 | [Link](https://sessionize.com/jchampions-conference-2027/) (Closed 28 October 2026)|
-| [Jfokus](https://www.jfokus.se/) | Stockholm, Sweden | no | 8-10 February 2027 | [Link](https://sessionize.com/jfokus-2027/) (Closed 30 September 2026) |
-| [Voxxed Days Ticino](https://ticino.voxxeddays.ch/) | Lugano, Switzerland | no | 19 February 2027 | [Link](https://vdt27.cfp.dev/) (Closed 23 October 2026) |
-| [AI Software Factory Summit](https://moderne.ai/ai-software-factory/) | Miami, FL, USA | no | 22-24 February 2027 | [Link](https://sessionize.com/ai-software-factory-summit-2027) (Closed 30 September 2026) |
-| [ConFoo Montreal]([https://confoo.ca/en/2027/](https://confoo.ca/en/2027/)) | Montreal, QC, Canada | no | 24-26 February 2027 | [Link](https://confoo.ca/en/2027/call-for-papers) (Closed 20 September 2026) |
-| [JavaLand](https://www.javaland.eu/) | Europa Park Rust, Germany | no | 2-4 March 2027 | [Link](https://www.javaland.eu/de/referieren/) (Closed 14 September 2026) |
-| [Voxxed Days CERN](https://cern.voxxeddays.ch/) | Geneva, Switzerland | no | 5 March 2027 | [Link](https://vdcern27.cfp.dev/) (Closed 23 October 2026) |
-| [Voxxed Days Zurich](https://zurich.voxxeddays.ch/) | Zurich, Switzerland | no | 9 March 2027 | [Link](https://vdz27.cfp.dev/) (Closed 23 October 2026) |
-| [JChateau](https://www.jchateau.org/) | Loire Valley, France | no | 10-14 March 2027 | Unconference, no CFP |
-| [JavaOne](https://www.oracle.com/javaone/) | Redwood City, CA, USA | no | 23-25 March 2027 | [Link](https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome/page/page) (Closed 9 October 2026) |
-| [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closed 30 September 2026) |
-| [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 31 March - 1 April 2027 | [Link](https://vdams27.cfp.dev/)(Closes 1 December 2026) 🟢 |
-| [ChurConf Seoul](https://kr.churconf.com/) | Seoul, South Korea | no | 3 April 2027 | 15 October - 15 December 2026 |  [Link](https://docs.google.com/forms/d/e/1FAIpQLSf3h27blnyEaWfL9VgLUKcJw9_I3aPYJ283QtoNQWg733NqWw/viewform)(Closes 15 December 2026) 🟢 |
-| [Devoxx France](https://www.devoxx.fr/en) | Paris, France | no | 7-9 April 2027 | Opens 23 November 2026 |
-| [DEVJVM 2027](https://devjvm.com/) | Barranquilla, Colombia | no | 10 April 2027 | [Link](https://sessionize.com/devjvm-2027) (Closes 18 December 2026) 🟢 |
-| [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
-| [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 15-17 April 2027 | [Link](https://dvgr27.cfp.dev/) (Closes 30 November 2026) 🟢 |
-| [Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) | Weiden, Germany | no | 16 April 2027 | [Link](https://sessionize.com/digital-crafts-day-2027) (Closed 31 October 2026) |
-| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closed 31 October 2026) |
-| [KotlinConf](https://kotlinconf.com/) | Kraków, Poland | no | 21-23 April 2027 | [Link](https://sessionize.com/kotlinconf-2027) (Closes 27 November 2026) 🟢 |
-| [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closed 30 October 2026) |
-| [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | TBA |
-| [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
-| [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 10-14 May 2027 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 November 2026) |
-| [jPrime](https://jprime.io/) | Sofia, Bulgaria | no | 19-20 May 2027 | [Link](https://jprime.io/cfp) (Closes 15 February 2027) 🟢 |
-| [JAlba](https://jalba.scot/) | Edinburgh, Scotland | no | 20-22 May 2027 | Unconference, no CFP |
-| [JNation](https://jnation.pt/) | Coimbra, Portugal | no | 25-26 May 2027 | [Link](https://sessionize.com/jnation-2027/) (Closes 8 January 2027) 🟢 |
-| [J-Spring](https://jspring.nl/) | Utrecht, Netherlands | no | 10 June 2027 | Not open yet |
-| [JCrete®](https://www.jcrete.org) | Chania, Greece | no | 19-23 July 2027 | Unconference, no CFP |
-| [Devoxx Belgium](https://devoxx.be) | Antwerp, Belgium | no | 4-8 October 2027 | Opens 1 June 2027 |
-
-
-## Archive
 
 
 ### 2025
