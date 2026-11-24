@@ -20,7 +20,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [Devnexus](https://devnexus.com/) | Atlanta, GA, USA | no | 29-31 March 2027 | [Link](https://sessionize.com/devnexus-2027/) (Closed 30 September 2026) |
 | [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) | Amsterdam, The Netherlands | no | 31 March - 1 April 2027 | [Link](https://vdams27.cfp.dev/)(Closes 1 December 2026) 🟢 |
 | [ChurConf Seoul](https://kr.churconf.com/) | Seoul, South Korea | no | 3 April 2027 | 15 October - 15 December 2026 |  [Link](https://docs.google.com/forms/d/e/1FAIpQLSf3h27blnyEaWfL9VgLUKcJw9_I3aPYJ283QtoNQWg733NqWw/viewform)(Closes 15 December 2026) 🟢 |
-| [Devoxx France](https://www.devoxx.fr/en) | Paris, France | no | 7-9 April 2027 | Opens 23 November 2026 |
+| [Devoxx France](https://www.devoxx.fr/en) | Paris, France | no | 7-9 April 2027 | [Link](https://devoxxfr2027.cfp.dev/) (Closes 10 January 2027) 🟢 |
 | [DEVJVM 2027](https://devjvm.com/) | Barranquilla, Colombia | no | 10 April 2027 | [Link](https://sessionize.com/devjvm-2027) (Closes 18 December 2026) 🟢 |
 | [Open Community Experience](https://ocxconf.org) | Brussels, Belgium | no | 13-15 April 2027 | [Link](https://ocxconf.org/call-for-proposals/) (Closes 6 December 2026) 🟢 |
 | [Devoxx Greece](https://devoxx.gr/) | Athens, Greece | no | 15-17 April 2027 | [Link](https://dvgr27.cfp.dev/) (Closes 30 November 2026) 🟢 |
@@ -29,7 +29,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [KotlinConf](https://kotlinconf.com/) | Kraków, Poland | no | 21-23 April 2027 | [Link](https://sessionize.com/kotlinconf-2027) (Closes 27 November 2026) 🟢 |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closed 30 October 2026) |
 | [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | [Link](https://sessionize.com/spring-io-2027/) (Closes 5 February 2027) 🟢 |
-| [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
+| [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | [Link](https://participate.rebuildcon.uk/apply) 🟢 |
 | [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 10-14 May 2027 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 November 2026) |
 | [GeeCON](https://2027.geecon.org/) | Krakow, Poland | no | 13-14 May 2027 | [Link](https://cfp.geecon.org/) (Closes 29 January 2027) 🟢 |
 | [jPrime](https://jprime.io/) | Sofia, Bulgaria | no | 19-20 May 2027 | [Link](https://jprime.io/cfp) (Closes 15 February 2027) 🟢 |
