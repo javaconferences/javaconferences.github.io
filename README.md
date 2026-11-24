@@ -29,7 +29,7 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 | [KotlinConf](https://kotlinconf.com/) | Kraków, Poland | no | 21-23 April 2027 | [Link](https://sessionize.com/kotlinconf-2027) (Closes 27 November 2026) 🟢 |
 | [JCON EUROPE](https://2027.europe.jcon.one/) | Cologne, Germany | no | 26-29 April 2027 | [Link](https://sessionize.com/jcon-europe-2027) (Closed 30 October 2026) |
 | [Spring I/O](https://springio.net/) | Valencia, Spain | no | 28-30 April 2027 | TBA |
-| [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | Not open yet |
+| [Re:Build](https://rebuildcon.uk/) | London, UK | no | 5-6 May 2027 | [Link](https://participate.rebuildcon.uk/apply) 🟢 |
 | [JAX](https://jax.de/mainz/) | Mainz, Germany | yes | 10-14 May 2027 | [Link](https://callforpapers.sandsmedia.com/) (Closed 11 November 2026) |
 | [GeeCON](https://2027.geecon.org/) | Krakow, Poland | no | 13-14 May 2027 | [Link](https://cfp.geecon.org/) (Closes 29 January 2027) 🟢 |
 | [jPrime](https://jprime.io/) | Sofia, Bulgaria | no | 19-20 May 2027 | [Link](https://jprime.io/cfp) (Closes 15 February 2027) 🟢 |
