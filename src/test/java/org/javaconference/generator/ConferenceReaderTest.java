@@ -20,15 +20,23 @@ import javax.net.ssl.SSLSession;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
 import java.util.Optional;
+import java.util.Properties;
+import java.util.TreeMap;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.LinkedBlockingQueue;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
+import static java.nio.charset.StandardCharsets.UTF_8;
 
 /**
  * Focused retry/pacing tests for the geocoder against a stubbed {@link HttpClient}.
@@ -150,6 +158,111 @@ class ConferenceReaderTest {
                 throw new AssertionError(known + " was not resolved from the seed");
             }
         }
+    }
+
+    // Immutable upstream fixture from 8c783c1; no Git checkout or network is required for parity.
+    private static final Pattern MARKDOWN_LINK = Pattern.compile("\\[([^\\[\\]]+)\\]\\((https?://[^\\s)]+)\\)");
+    private static final Pattern ASCIIDOC_LINK = Pattern.compile("(https?://[^\\s\\[]+)\\[([^\\]]+)\\]");
+    private static final Pattern SEMANTIC_LINK = Pattern.compile("(.*?) <([^>]+)>");
+    private static final Pattern YEAR_SECTION = Pattern.compile("=== \\d{4}");
+
+    @Test
+    void canonicalReadmePreservesLatestUpstreamContent() throws Exception {
+        assertEquals(semanticLines(upstreamReadme(), true),
+                semanticLines(Files.readString(Path.of("README.adoc")), false),
+                "All upstream sections, prose, rows, dates, CFP details and links must survive migration");
+    }
+
+    @Test
+    void canonicalReadmeParsesEveryUpstreamConferenceOffline() throws Exception {
+        final var expected = new TreeMap<Integer, List<String[]>>();
+        Integer year = null;
+        for (final var line : semanticLines(upstreamReadme(), true)) {
+            if (YEAR_SECTION.matcher(line).matches()) {
+                year = Integer.valueOf(line.substring(4));
+            } else if (line.startsWith("| ") && !line.startsWith("| Conference")) {
+                expected.computeIfAbsent(year, ignored -> new ArrayList<>())
+                        .add(line.substring(2).split(" \\| ", -1));
+            }
+        }
+
+        // Supply every location offline, including new upstream cities not yet in the curated seed.
+        final var cache = new Properties();
+        expected.values().forEach(rows -> rows.forEach(row -> cache.setProperty(row[1], "1,1,Testland,tl")));
+        final var cacheFile = cachePath();
+        try (final var writer = Files.newBufferedWriter(cacheFile)) {
+            cache.store(writer, "Offline README parity test");
+        }
+        final var client = stubClient();
+        try (final var reader = new ConferenceReader(nopJsonMapper(), client, 0L, cacheFile)) {
+            final var actual = reader.read(Path.of("README.adoc"));
+            assertEquals(expected.keySet(), actual.keySet());
+            for (final var entry : expected.entrySet()) {
+                final var conferences = actual.get(entry.getKey());
+                assertEquals(entry.getValue().size(), conferences.size(), "Year " + entry.getKey());
+                for (int i = 0; i < conferences.size(); i++) {
+                    final var row = entry.getValue().get(i);
+                    final var conference = conferences.get(i);
+                    final var name = SEMANTIC_LINK.matcher(row[0]);
+                    if (!name.matches()) {
+                        throw new AssertionError("Missing conference link: " + row[0]);
+                    }
+                    assertEquals(name.group(1), conference.name());
+                    assertEquals(name.group(2), conference.link());
+                    assertEquals(row[1], conference.locationName());
+                    assertEquals("yes".equalsIgnoreCase(row[2]) || "true".equalsIgnoreCase(row[2]), conference.hybrid(), row[0]);
+                    assertEquals(row[3], conference.date());
+                    final var cfp = SEMANTIC_LINK.matcher(row[4]);
+                    assertEquals(cfp.find() ? cfp.group(2) : "", conference.cfp().link(), row[0]);
+                }
+            }
+        }
+        assertEquals(0, client.requests(), "README parity must never geocode over the network");
+    }
+
+    private String upstreamReadme() throws IOException {
+        try (final var stream = getClass().getResourceAsStream("/upstream-readme-8c783c1.md")) {
+            return new String(Objects.requireNonNull(stream).readAllBytes(), UTF_8);
+        }
+    }
+
+    private List<String> semanticLines(final String content, final boolean markdown) {
+        // Repair upstream's two nested Markdown links without losing either Ya!vaConf URL.
+        final var repaired = content
+                .replace("[DevBcn](devbcn.com)", "[DevBcn](https://devbcn.com)")
+                .replace("[ConFoo Montreal]([https://confoo.ca/en/2027/](https://confoo.ca/en/2027/))",
+                        "[ConFoo Montreal](https://confoo.ca/en/2027/)")
+                .replace("[Link]([https://forms.gle/nKreGcpfzx4zsLhU7](https://docs.google.com/forms/d/e/1FAIpQLSc9ITG71szuMVGbAUHrquGy4Fq6fgKvukKP10dWrqvMErmfqw/viewform))",
+                        "[Link](https://docs.google.com/forms/d/e/1FAIpQLSc9ITG71szuMVGbAUHrquGy4Fq6fgKvukKP10dWrqvMErmfqw/viewform) ([https://forms.gle/nKreGcpfzx4zsLhU7](https://forms.gle/nKreGcpfzx4zsLhU7))");
+        return repaired.substring(repaired.indexOf("Missing a conference")).lines()
+                .map(String::strip)
+                .filter(line -> !line.isEmpty() && !line.equals("|===") && !line.startsWith("[cols=") && !line.startsWith("| ---"))
+                .map(line -> {
+                    var normalized = markdown && line.startsWith("#") ? line.replace('#', '=') : line;
+                    if (normalized.startsWith("- ") || normalized.startsWith("* ")) {
+                        normalized = "* " + normalized.substring(2);
+                    }
+                    normalized = markdown
+                            ? MARKDOWN_LINK.matcher(normalized).replaceAll("$1 <$2>")
+                            : ASCIIDOC_LINK.matcher(normalized).replaceAll(match -> {
+                                final var label = match.group(2);
+                                final var unquoted = label.startsWith("\"") && label.endsWith("\"")
+                                        ? label.substring(1, label.length() - 1) : label;
+                                return Matcher.quoteReplacement(unquoted + " <" + match.group(1) + ">");
+                            });
+                    if (normalized.startsWith("|")) {
+                        final var cells = new ArrayList<>(Arrays.stream(normalized.split("\\|"))
+                                .skip(1).map(String::strip).toList());
+                        // ChurConf's CFP window and DevTernity's invitation text belong in the CFP cell.
+                        if (cells.size() > 5) {
+                            final var extra = String.join("; ", cells.subList(4, cells.size()));
+                            cells.subList(4, cells.size()).clear();
+                            cells.add(extra);
+                        }
+                        normalized = "| " + String.join(" | ", cells);
+                    }
+                    return normalized;
+                }).toList();
     }
 
     private Path cachePath() {
